@@ -1,7 +1,7 @@
 # ChatGPT Universe
 
 This tiny place of the Web stores a growing collection of interesting things
-about ChatGPT and GPT-3 from OpenAI.
+about [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and GPT-3 from OpenAI.
 
 I want an all-in-one place to keep things about ChatGPT. So, I hand-curated this
 list with the help of others (acknowleged below).
@@ -46,6 +46,18 @@ Example prompts.
 
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 - [AI Homework](https://stratechery.com/2022/ai-homework/)
+- [Jailbreaking ChatGPT on Release Day](https://thezvi.substack.com/p/jailbreaking-the-chatgpt-on-release)
+- [Improving ChatGPT With Prompt Injection](https://levelup.gitconnected.com/improving-chatgpt-with-prompt-injection-b0c0c27b7df7)
+- [ChatGPT, Google and the war for the search bar](https://pzakin.substack.com/p/chatgpt-google-and-the-war-for-the)
+- [I Used ChatGPT to Create an Entire AI Application on AWS](https://towardsdatascience.com/i-used-chatgpt-to-create-an-entire-ai-application-on-aws-5b90e34c3d50)
+- [The miracle of ChatGPT](https://lcamtuf.substack.com/p/the-miracle-of-chatgpt)
+- [Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/)
+- [ChatGPT: The New Frontier of Artificial Intelligence](https://medium.com/inkwater-atlas/chatgpt-the-new-frontier-of-artificial-intelligence-9aee81287677)
+- [Using ChatGPT to Explain Jokes](https://mleverything.substack.com/p/using-chatgpt-to-explain-jokes)
+- [ChatGPT vs a cryptic crossword](https://jameswillia.ms/posts/chatgpt-cryptics.html)
+- [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
+- [Peer-Programming a Buggy World with ChatGPT AI](https://blog.chipx86.com/2022/12/02/peer-programming-a-buggy-world-with-chatgpt-ai/)
+- [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
 
 ### Prompt Engineering
 
@@ -102,6 +114,10 @@ Web applications and desktop applications.
 - [ChatGPT desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) - Windows/MacOS desktop menubar app using Tauri and Rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 
+## AI Safety and Ethics
+
+- [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
+
 ---
 
 ## Demos
@@ -151,6 +167,7 @@ Demos[^3] and examples in the form of tweets:
 
 Mostly found in GitHub Gist:
 
+- https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a - ChatGPT passes the 2022 AP Computer Science A free response section
 - https://gist.github.com/memo/dcd0ccbfe57d1fd5f1601e4ee2149a73
   > A conversation I had with ChatGPT, inspired by a [tweet](https://twitter.com/michael_nielsen/status/1598760649039179777) from Michael Nielson.
 - https://gist.github.com/kettle11/dae31bee4fc8aa401135def2aa3f4a47
