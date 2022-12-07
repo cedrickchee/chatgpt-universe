@@ -117,6 +117,7 @@ Web applications and desktop applications.
 ## AI Safety and Ethics
 
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
+- [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) — A long-form piece on the future of human work in the age of generative AI. tl;dr: AI doesn't take over jobs, it takes over tasks. [Comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage) is why humans will still have jobs.
 
 ---
 
