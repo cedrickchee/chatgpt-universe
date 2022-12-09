@@ -31,6 +31,7 @@ own modifications:
 Example prompts.
 
 - [All the best examples of ChatGPT](http://archive.today/m6AOQ) - That's Day 1. We have even more examples [below](#demos)!
+- [🔓 Unlocking the power of the ChatGPT revolution: 100 💥 innovative use-cases to try](https://archive.is/PsyQz)
 - [impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt) - A collection of impressive and useful results from ChatGPT.
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts that works well. Just follow [@goodside](https://twitter.com/goodside)
 
