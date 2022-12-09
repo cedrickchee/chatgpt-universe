@@ -24,6 +24,7 @@ own modifications:
 ## ChatGPT Community / Discussion
 
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
+- [How ChatGPT actually works](https://archive.ph/f3WW2), explained using simple words.
 
 ## Examples
 
