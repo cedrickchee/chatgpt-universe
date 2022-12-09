@@ -136,6 +136,10 @@ Web applications and desktop applications.
 - [ChatGPT desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) - Windows/MacOS desktop menubar app using Tauri and Rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 
+## Infrastructure
+
+- [Cost of ChatGPT](https://twitter.com/tomgoldsteincs/status/1600196981955100694) - Average cost is probably single-digits cents per chat.
+
 ## AI Safety and Ethics
 
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
