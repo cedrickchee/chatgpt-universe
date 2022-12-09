@@ -75,6 +75,7 @@ Unofficial API and SDK.
 
 Tools.
 
+- [safer-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to ChatGPT.
 - [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
 - [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
 
