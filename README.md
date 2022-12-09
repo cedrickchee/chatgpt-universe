@@ -73,6 +73,11 @@ Unofficial API and SDK.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) (Python) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) (Node.js) - Node.js client for the unofficial ChatGPT API and using a headless browser.
 
+Tools.
+
+- [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
+- [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
+
 ## Browser Extensions
 
 Use ChatGPT anywhere.
