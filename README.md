@@ -93,6 +93,7 @@ Use ChatGPT anywhere.
 - [ChatGPT Everywhere](https://github.com/gragland/chatgpt-everywhere) - Chrome extension that adds ChatGPT to every text box on the internet. ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension) - A really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [summarize.site](https://github.com/clmnin/summarize.site) - Chrome extension to summarize blogs and articles using ChatGPT.
+- [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 
 ## Access ChatGPT From Other Platforms
 
