@@ -61,6 +61,7 @@ Example prompts.
 - [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
 - [Peer-Programming a Buggy World with ChatGPT AI](https://blog.chipx86.com/2022/12/02/peer-programming-a-buggy-world-with-chatgpt-ai/)
 - [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
+- [Artificial intelligence is permeating business at last](https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last)
 
 ### Prompt Engineering
 
