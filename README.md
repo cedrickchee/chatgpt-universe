@@ -69,6 +69,14 @@ Example prompts.
 
 - [Why "Prompt Engineering" and "Generative AI" are overhyped](https://lspace.swyx.io/p/why-prompt-engineering-and-generative)
 
+> Prompt engineering is dead, long live dialogue engineering.
+> — VP Product, OpenAI
+
+Reason:
+
+> Why does ChatGPT work so well? Is it "just scaling up GPT-3" under the hood? In this 🧵, let's discuss the "Instruct" paradigm, its deep technical insights, and a big implication: **"prompt engineering" as we know it may likely disappear soon**.
+> Source: https://archive.is/dqHI8
+
 ## Development Tools
 
 Unofficial API and SDK.
