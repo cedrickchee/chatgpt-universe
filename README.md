@@ -139,6 +139,7 @@ Use ChatGPT anywhere.
 Web applications.
 
 - [ShareGPT](https://sharegpt.com/) - A web app for sharing your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
+- [LearnGPT](https://www.learngpt.com/) - Share ChatGPT examples. See the best voted examples. Their goal is to create a resource for anyone who wants to learn more about ChatGPT.
 - [The search engine for developers](https://beta.sayhello.so/), powered by large, proprietary AI language models.
 
 Desktop applications.
