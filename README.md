@@ -64,6 +64,11 @@ Example prompts.
 - [Peer-Programming a Buggy World with ChatGPT AI](https://blog.chipx86.com/2022/12/02/peer-programming-a-buggy-world-with-chatgpt-ai/)
 - [ChatGPT produces made-up nonexistent references](https://news.ycombinator.com/item?id=33841672)
 - [Artificial intelligence is permeating business at last](https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last)
+- [Meet Fred, a person living inside ChatGPT](https://softwaredoug.com/blog/2022/12/03/meet-fred.html)
+- [Refactoring code with ChatGPT](https://dev.to/dvcrn/refactoring-code-with-chatgpt-1n9l)
+- [Historical analogies for large language models](https://dynomight.net/llms/)
+- [Using ChatGPT As a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
+- [The code that ChatGPT can't write](https://datachimp.app/blog/the-code-chat-gpt-cant-write/)
 
 ### Prompt Engineering
 
