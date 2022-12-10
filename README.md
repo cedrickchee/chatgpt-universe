@@ -69,6 +69,7 @@ Example prompts.
 - [Historical analogies for large language models](https://dynomight.net/llms/)
 - [Using ChatGPT As a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
 - [The code that ChatGPT can't write](https://datachimp.app/blog/the-code-chat-gpt-cant-write/)
+- [ChatGPT, rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
 
 ### Prompt Engineering
 
