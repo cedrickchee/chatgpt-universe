@@ -130,9 +130,13 @@ Use ChatGPT anywhere.
 
 ## Applications
 
-Web applications and desktop applications.
+Web applications.
 
 - [ShareGPT](https://sharegpt.com/) - A web app for sharing your wildest ChatGPT conversations with one click. ([demo](https://twitter.com/steventey/status/1599816553490366464))
+- [The search engine for developers](https://beta.sayhello.so/), powered by large, proprietary AI language models.
+
+Desktop applications.
+
 - [ChatGPT desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) - Windows/MacOS desktop menubar app using Tauri and Rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 
