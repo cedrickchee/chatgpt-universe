@@ -160,6 +160,14 @@ Desktop applications.
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
 - [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) — A long-form piece on the future of human work in the age of generative AI. tl;dr: AI doesn't take over jobs, it takes over tasks. [Comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage) is why humans will still have jobs.
 
+Tweets:
+
+> ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.
+>
+> It's a mistake to be relying on it for anything important right now. It's a preview of progress; we have lots of work to do on robustness and truthfulness.
+>
+> fun creative inspiration; great! reliance for factual queries; not such a good idea. — [Sam Altman, OpenAI](https://twitter.com/sama/status/1601731295792414720)
+
 ---
 
 ## Demos
