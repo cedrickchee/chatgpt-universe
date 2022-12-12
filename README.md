@@ -187,6 +187,10 @@ Demos[^3] and examples in the form of tweets:
 6. [Personal trainer and nutritionist: Generating a weight loss plan, complete with calorie targets, meal plans, a grocery list, and a workout plan](https://twitter.com/anothercohen/status/1599531037570502656)
 7. [Building a virtual machine inside ChatGPT](https://twitter.com/stspanho/status/1599367959029288960)
 8. [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
+
+<details>
+<summary>See more</summary>
+
 9. [Generating programmatic astrophoto processing by detecting constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
 10. [VSCode extension that allows using ChatGPT within the context of a code](https://twitter.com/marcelpociot/status/1599180144551526400)
 11. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
@@ -217,6 +221,8 @@ Demos[^3] and examples in the form of tweets:
 36. [ChatGPT is getting pretty close to replicating the Stack Overflow community already](https://twitter.com/KSakarisson/status/1599440565673656320)
 37. [That's how I'll pick books in the future](https://twitter.com/thorstenball/status/1599320310171414528)
 38. [ChatGPT is amazing but OpenAI has not come close to addressing the problem of bias. Filters appear to be bypassed with simple tricks, and superficially masked](https://twitter.com/spiantado/status/1599462375887114240)
+
+</details>
 
 ## Others
 
