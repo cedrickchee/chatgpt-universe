@@ -160,13 +160,18 @@ Desktop applications.
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
 - [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) — A long-form piece on the future of human work in the age of generative AI. tl;dr: AI doesn't take over jobs, it takes over tasks. [Comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage) is why humans will still have jobs.
 
-Tweets:
+### Tweets
 
 > ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.
 >
 > It's a mistake to be relying on it for anything important right now. It's a preview of progress; we have lots of work to do on robustness and truthfulness.
 >
 > fun creative inspiration; great! reliance for factual queries; not such a good idea. — [Sam Altman, OpenAI](https://twitter.com/sama/status/1601731295792414720)
+
+### Applications and Tools
+
+- GPT-2 Output Detector [[code](https://github.com/openai/gpt-2-output-dataset/tree/master/detector)] [[demo](https://huggingface.co/openai-detector/)]
+  > The @HuggingFace GPT detector works very well on ChatGPT-created text. I ran 5 student essays and 5 ChatGPT essays for the same prompt through it, and it was correct every time with >99.9% confidence. — [@cfiesler](https://twitter.com/cfiesler/status/1601642370797563904)
 
 ---
 
