@@ -120,23 +120,20 @@ Reason:
     - An internet dataset created by scraping URLs extracted from Reddit submissions with a minimum score of 3 as a proxy for quality, deduplicated at the document level with MinHash
     - Number of Tokens: 19 billion
     - Weight in training mix: 20%
-  - Books1
+  - Books1[^4]
     - Number of Tokens: 12 billion
     - Weight in training mix: 8%
-  - Books2*
+  - Books2[^4]
     - Number of Tokens: 55 billion
     - Weight in training mix: 8%
   - Wikipedia
     - Number of Tokens: 3 billion
     - Weight in training mix: 3%
 
-  * A key component of GPT-3.5 models are Books1 and Books2.
-  
-  [Books1](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208) - aka BookCorpus, a free books scraped from smashwords.com.
-  
-  Books2 - We know very little about what this is, people suspect it's libgen, but it's purely conjecture.
-  
-  Nonetheless, books3 is "all of bibliotik".
+[^4]: A key component of GPT-3.5 models are Books1 and Books2.
+      [Books1](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208) - aka BookCorpus, a free books scraped from smashwords.com.
+      Books2 - We know very little about what this is, people suspect it's libgen, but it's purely conjecture.
+      Nonetheless, books3 is "all of bibliotik".
 
 ## Browser Extensions
 
