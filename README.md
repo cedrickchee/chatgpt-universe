@@ -34,6 +34,7 @@ Example prompts.
 - [🔓 Unlocking the power of the ChatGPT revolution: 100 💥 innovative use-cases to try](https://archive.is/PsyQz)
 - [impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt) - A collection of impressive and useful results from ChatGPT.
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts that works well. Just follow [@goodside](https://twitter.com/goodside)
+- [Google Sheets of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
 
 ## Experiments
 
