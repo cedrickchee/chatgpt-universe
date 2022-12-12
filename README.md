@@ -70,6 +70,7 @@ Example prompts.
 - [Using ChatGPT As a Co-Founder](https://www.atomic14.com/2022/12/05/using-chatgpt-as-a-co-founder.html)
 - [The code that ChatGPT can't write](https://datachimp.app/blog/the-code-chat-gpt-cant-write/)
 - [ChatGPT, rot13, and Daniel Kahneman](https://jameswillia.ms/posts/chatgpt-rot13.html)
+- [Everything I understand about ChatGPT](https://gist.github.com/cedrickchee/fce5ca6fc4ce4e669bf909c1155bea00) - What actually happens when we type inside the ChatGPT textbox. Vicki investigated ChatGPT based on a wonderful paper, "Talking About Large Language Models".
 
 ### Prompt Engineering
 
