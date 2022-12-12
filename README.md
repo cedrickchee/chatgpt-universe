@@ -165,6 +165,12 @@ Desktop applications.
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
 - [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) — A long-form piece on the future of human work in the age of generative AI. tl;dr: AI doesn't take over jobs, it takes over tasks. [Comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage) is why humans will still have jobs.
 
+### AGI and Humanity
+
+- [AI for the Next Era](https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/) - OpenAI's Sam Altman on the New Frontiers of AI.
+  
+  My comments: Reading this after the ChatGPT launch, mostly all the things that Sam is referring to in the interview contains reminiscences about predictions on AI and development from Ray Kurzweil.
+
 ### Tweets
 
 > ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.
