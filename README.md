@@ -91,20 +91,52 @@ Reason:
 
 - [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) - If you're into video, this one gave a good overview.
 
-## Development Tools
+## Development
 
-Unofficial API and SDK.
+### Unofficial API and SDK.
 
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) (Python) - Lightweight, TLS-Based API on your CLI without requiring a browser or access token.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) (Python) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) (Node.js) - Node.js client for the unofficial ChatGPT API and using a headless browser.
 - [ChatGPT-MS](https://github.com/shiyemin/ChatGPT-MS) - Multi-Session ChatGPT API. The main code is copied from PyChatGPT.
 
-Tools.
+### Tools
 
 - [safer-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to ChatGPT.
 - [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
 - [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
+
+### Training Data
+
+- [LAION LLM](https://docs.google.com/document/d/14KY2_DVye-dv4y-38sVw5ZOUhD4Lc9ft9_1hF5PlZ2A/edit) - Gathering Data for, training and sharing of a LAION Large Language Models (LLLM). The group is still writing a tech proposal of FlanT5-Atlas architecture (or poor man's ChatGPT@Home).
+- [open-chatgpt-prompt-collective](https://github.com/SurfaceData/open-chatgpt-prompt-collective) by Surface Data Collective - A website to generate prompts for training an Open ChatGPT model.
+- [BigScience P3 dataset](https://huggingface.co/datasets/bigscience/P3) - P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks.
+- [Data Augmentation To Create Instructions Form Text](https://docs.google.com/document/d/13a188pPvqnlvuVa3e_suVz4YO5s-JWeiOOrpp0odImg/edit) - discussion on LAION's Discord. The key to creating a better FlanT5 (ChatGPT@Home).
+- In OpenAI's papers on GPT-2 and GPT-3.x, they mentioned references to these datasets:
+  - [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl)
+    - Number of Tokens: 410 billion
+    - Weight in training mix: 60%
+  - [WebText2](https://www.eleuther.ai/projects/owt2/)
+    - An internet dataset created by scraping URLs extracted from Reddit submissions with a minimum score of 3 as a proxy for quality, deduplicated at the document level with MinHash
+    - Number of Tokens: 19 billion
+    - Weight in training mix: 20%
+  - Books1
+    - Number of Tokens: 12 billion
+    - Weight in training mix: 8%
+  - Books2*
+    - Number of Tokens: 55 billion
+    - Weight in training mix: 8%
+  - Wikipedia
+    - Number of Tokens: 3 billion
+    - Weight in training mix: 3%
+
+  * A key component of GPT-3.5 models are Books1 and Books2.
+  
+  [Books1](https://github.com/soskek/bookcorpus/issues/27#issuecomment-716104208) - aka BookCorpus, a free books scraped from smashwords.com.
+  
+  Books2 - We know very little about what this is, people suspect it's libgen, but it's purely conjecture.
+  
+  Nonetheless, books3 is "all of bibliotik".
 
 ## Browser Extensions
 
