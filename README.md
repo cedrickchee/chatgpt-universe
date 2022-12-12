@@ -226,6 +226,7 @@ Demos[^3] and examples in the form of tweets:
 36. [ChatGPT is getting pretty close to replicating the Stack Overflow community already](https://twitter.com/KSakarisson/status/1599440565673656320)
 37. [That's how I'll pick books in the future](https://twitter.com/thorstenball/status/1599320310171414528)
 38. [ChatGPT is amazing but OpenAI has not come close to addressing the problem of bias. Filters appear to be bypassed with simple tricks, and superficially masked](https://twitter.com/spiantado/status/1599462375887114240)
+39. [i'm the ai now](https://twitter.com/parafactual/status/1598212029479026689)
 
 </details>
 
