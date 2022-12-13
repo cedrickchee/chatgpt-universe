@@ -136,6 +136,18 @@ Reason:
       Books2 - We know very little about what this is, people suspect it's libgen, but it's purely conjecture.
       Nonetheless, books3 is "all of bibliotik".
 
+### Open Source ChatGPT
+
+We want a ChatGPT alternative like Stable Diffusion.
+
+Goals:
+- Open source effort towards OpenAI's ChatGPT.
+- Reverse engineer and replicate ChatGPT models and training data.
+
+Ultimate goal: self-hosted version of ChatGPT.
+
+- [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) - Transformer Reinforcement Learning from Human Feedback (RLHF).
+
 ## Browser Extensions
 
 Use ChatGPT anywhere.
