@@ -113,6 +113,7 @@ Reason:
 - [open-chatgpt-prompt-collective](https://github.com/SurfaceData/open-chatgpt-prompt-collective) by Surface Data Collective - A website to generate prompts for training an Open ChatGPT model.
 - [BigScience P3 dataset](https://huggingface.co/datasets/bigscience/P3) - P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks.
 - [Data Augmentation To Create Instructions Form Text](https://docs.google.com/document/d/13a188pPvqnlvuVa3e_suVz4YO5s-JWeiOOrpp0odImg/edit) - discussion on LAION's Discord. The key to creating a better FlanT5 (ChatGPT@Home).
+- [WritingPrompts dataset](https://github.com/facebookresearch/fairseq/tree/main/examples/stories) by FAIR.
 - In OpenAI's papers on GPT-2 and GPT-3.x, they mentioned references to these datasets:
   - [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl)
     - Number of Tokens: 410 billion
