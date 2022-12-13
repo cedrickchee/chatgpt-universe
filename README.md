@@ -146,7 +146,13 @@ Goals:
 
 Ultimate goal: self-hosted version of ChatGPT.
 
-- [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) - Transformer Reinforcement Learning from Human Feedback (RLHF).
+- [CarperAI/TRLX](https://github.com/CarperAI/trlx)
+  - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
+  - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
+  - Brought to you by CarperAI (an EleutherAI lab). They have [announced plans for the first open-source "instruction-tuned" LM](https://carper.ai/instruct-gpt-announcement/). CarperAI started by developing production ready open-source RLHF tools.
+- [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - RL for language models (RL4LMs) by Allen AI. It's a modular RL library to fine-tune language models to human preferences.
+
+See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
 
 ## Browser Extensions
 
