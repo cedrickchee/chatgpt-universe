@@ -239,6 +239,8 @@ Desktop applications.
 >
 > fun creative inspiration; great! reliance for factual queries; not such a good idea. — [Sam Altman, OpenAI](https://twitter.com/sama/status/1601731295792414720)
 
+[News covering to that Tweet](https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/).
+
 ### Applications and Tools
 
 - GPT-2 Output Detector [[code](https://github.com/openai/gpt-2-output-dataset/tree/master/detector)] [[demo](https://huggingface.co/openai-detector/)]
