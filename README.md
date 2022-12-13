@@ -146,6 +146,7 @@ Goals:
 
 Ultimate goal: self-hosted version of ChatGPT.
 
+- [FLAN-T5 XXL](https://huggingface.co/google/flan-t5-xxl) aka. ChatGPT@Home is a public model that has undergone instruction finetuning. XXL is a 11B model. It is currently the most comparable model against ChatGPT (InstructGPT models are initialized from GPT-3.x series ([model card](https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md))). There are successful attempts deploying FLAN-T5 on GPU with 24 GB RAM with [bitsandbytes-Int8](https://docs.google.com/document/d/1JxSo4lQgMDBdnd19VBEoaG-mMfQupQ3XvOrgmRAVtpU/edit) inference for Hugging Face models. You can run the model easily on a single machine, without performance degradation. This could be a game changer in enabling people outside of big tech companies being able to use these LLMs. Efforts are already underway to create a better FLAN-T5. The community (i.e., LAION) are working on FlanT5-Atlas architecture and a collection of prompted/instructions datasets.
 - [CarperAI/TRLX](https://github.com/CarperAI/trlx)
   - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
   - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
