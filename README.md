@@ -111,9 +111,10 @@ Reason:
 
 - [LAION LLM](https://docs.google.com/document/d/14KY2_DVye-dv4y-38sVw5ZOUhD4Lc9ft9_1hF5PlZ2A/edit) - Gathering Data for, training and sharing of a LAION Large Language Models (LLLM). The group is still writing a tech proposal of FlanT5-Atlas architecture (or poor man's ChatGPT@Home).
 - [open-chatgpt-prompt-collective](https://github.com/SurfaceData/open-chatgpt-prompt-collective) by Surface Data Collective - A website to generate prompts for training an Open ChatGPT model.
-- [BigScience P3 dataset](https://huggingface.co/datasets/bigscience/P3) - P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks.
+- [BigScience P3 dataset](https://huggingface.co/datasets/bigscience/P3) - P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. ([PromptSource](https://github.com/bigscience-workshop/promptsource), a toolkit for creating, sharing and using prompts)
 - [Data Augmentation To Create Instructions Form Text](https://docs.google.com/document/d/13a188pPvqnlvuVa3e_suVz4YO5s-JWeiOOrpp0odImg/edit) - discussion on LAION's Discord. The key to creating a better FlanT5 (ChatGPT@Home).
 - [WritingPrompts dataset](https://github.com/facebookresearch/fairseq/tree/main/examples/stories) by FAIR.
+- [Templates for FLAN (Finetuned Language Models are Zero-Shot Learners)](https://github.com/google-research/FLAN/blob/main/flan/templates.py)
 - In OpenAI's papers on GPT-2 and GPT-3.x, they mentioned references to these datasets:
   - [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl)
     - Number of Tokens: 410 billion
@@ -150,6 +151,8 @@ Ultimate goal: self-hosted version of ChatGPT.
 - [FLAN-T5 XXL](https://huggingface.co/google/flan-t5-xxl) aka. ChatGPT@Home is a public model that has undergone instruction finetuning. XXL is a 11B model. It is currently the most comparable model against ChatGPT (InstructGPT models are initialized from GPT-3.x series ([model card](https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md))). There are successful attempts deploying FLAN-T5 on GPU with 24 GB RAM with [bitsandbytes-Int8](https://docs.google.com/document/d/1JxSo4lQgMDBdnd19VBEoaG-mMfQupQ3XvOrgmRAVtpU/edit) inference for Hugging Face models. You can run the model easily on a single machine, without performance degradation. This could be a game changer in enabling people outside of big tech companies being able to use these LLMs. Efforts are already underway to create a better FLAN-T5. The community (i.e., LAION) are working on FlanT5-Atlas architecture and a collection of prompted/instructions datasets.
   - [Fine-tuning GPT-J-6B in Colab: 8-bit weights with low-rank adaptors (LORA)](https://github.com/huggingface/transformers/issues/14839). ([Quantized EleutherAI/gpt-j-6b model with 8-bit weights](https://huggingface.co/hivemind/gpt-j-6B-8bit))
     - How many GPU and how much VRAM is required to run the model? Around 175GB or ~8x 24GB consumer GPUs. Details: [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+  - Why FLAN-T5? They are more aligned than other LLM because it's already been finetuned with instructions. Furthermore, the largest version, [11B can run on a single NVIDIA T4](https://www.philschmid.de/deploy-t5-11b).
+  
 - [CarperAI/TRLX](https://github.com/CarperAI/trlx)
   - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
   - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
