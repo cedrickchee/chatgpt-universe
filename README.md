@@ -152,7 +152,9 @@ Ultimate goal: self-hosted version of ChatGPT.
   - [Fine-tuning GPT-J-6B in Colab: 8-bit weights with low-rank adaptors (LORA)](https://github.com/huggingface/transformers/issues/14839). ([Quantized EleutherAI/gpt-j-6b model with 8-bit weights](https://huggingface.co/hivemind/gpt-j-6B-8bit))
     - How many GPU and how much VRAM is required to run the model? Around 175GB or ~8x 24GB consumer GPUs. Details: [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
   - Why FLAN-T5? They are more aligned than other LLM because it's already been finetuned with instructions. Furthermore, the largest version, [11B can run on a single NVIDIA T4](https://www.philschmid.de/deploy-t5-11b).
-  
+
+- [Open-Chat-GPT](https://github.com/LAION-AI/Open-Chat-GPT) by LAION - A project meant to give everyone access to a great chat based large language model.
+
 - [CarperAI/TRLX](https://github.com/CarperAI/trlx)
   - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
   - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
