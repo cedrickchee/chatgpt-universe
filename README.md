@@ -75,6 +75,7 @@ Example prompts.
 - [Everything I understand about ChatGPT](https://gist.github.com/cedrickchee/fce5ca6fc4ce4e669bf909c1155bea00) - What actually happens when we type inside the ChatGPT textbox. Vicki investigated ChatGPT based on a wonderful paper, "Talking About Large Language Models".
 - [How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) - "How did the initial #GPT3 evolve to today's ChatGPT? Where do the amazing abilities of GPT3.5 come from? What is enabled by RLHF?" [Source: [Tweet](https://twitter.com/Francis_YAO_/status/1602213927102066688)]
 - [The Human's Guide to Competing with GPT](https://philipkiely.com/essays/compete_with_gpt.html)
+- [How sad should I be about ChatGPT?](https://robertheaton.com/chatgpt/)
 
 ### Prompt Engineering
 
