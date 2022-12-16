@@ -225,6 +225,7 @@ Desktop applications.
 
 - [ChatGPT desktop app](https://github.com/sonnylazuardi/chatgpt-desktop) - Windows/MacOS desktop menubar app using Tauri and Rust.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
+- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) for Mac, Windows and Linux - Build using Rust and Tauri.
 
 ## Infrastructure
 
