@@ -241,6 +241,7 @@ Desktop applications.
 - [AI for the Next Era](https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/) - OpenAI's Sam Altman on the New Frontiers of AI.
   
   My comments: Reading this after the ChatGPT launch, mostly all the things that Sam is referring to in the interview contains reminiscences about predictions on AI and development from Ray Kurzweil.
+- [Google won't launch ChatGPT rival because of 'reputational risk'](https://www.theverge.com/2022/12/14/23508756/google-vs-chatgpt-ai-replace-search-reputational-risk)
 
 ### Tweets
 
