@@ -76,6 +76,7 @@ Example prompts.
 - [How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) - "How did the initial #GPT3 evolve to today's ChatGPT? Where do the amazing abilities of GPT3.5 come from? What is enabled by RLHF?" [Source: [Tweet](https://twitter.com/Francis_YAO_/status/1602213927102066688)]
 - [The Human's Guide to Competing with GPT](https://philipkiely.com/essays/compete_with_gpt.html)
 - [How sad should I be about ChatGPT?](https://robertheaton.com/chatgpt/)
+- [ChatGPT Should Not Exist](https://davidgolumbia.medium.com/chatgpt-should-not-exist-aab0867abace)
 
 ### Prompt Engineering
 
