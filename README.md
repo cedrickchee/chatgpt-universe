@@ -48,6 +48,7 @@ Example prompts.
 - [chatdb](https://github.com/styczynski/chatdb) - ChatGPT-based database, wait... WHAT?
 - [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - Use ChatGPT to generate PPT automatically.
 - [emailGPT](https://github.com/lucasmccabe/emailGPT) - A quick and easy interface to generate emails with ChatGPT.
+- [gptlang](https://github.com/forrestchang/gptlang) - An experiment to see if we can create a programming language in ChatGPT.
 
 ## Blog Posts and Articles
 
