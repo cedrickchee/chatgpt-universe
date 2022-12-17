@@ -335,3 +335,10 @@ Mostly found in GitHub Gist:
 [^1]: https://github.com/humanloop/awesome-chatgpt
 [^2]: https://github.com/Kamigami55/awesome-chatgpt
 [^3]: https://github.com/saharmor/awesome-chatgpt
+
+## License
+
+I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.
+
+* Code: [MIT](LICENSE) Copyright Cedric Chee
+* Text content: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
