@@ -264,6 +264,15 @@ Desktop applications.
 - GPT-2 Output Detector [[code](https://github.com/openai/gpt-2-output-dataset/tree/master/detector)] [[demo](https://huggingface.co/openai-detector/)]
   > The @HuggingFace GPT detector works very well on ChatGPT-created text. I ran 5 student essays and 5 ChatGPT essays for the same prompt through it, and it was correct every time with >99.9% confidence. — [@cfiesler](https://twitter.com/cfiesler/status/1601642370797563904)
 
+## LMOps
+
+General technology for enabling AI capabilities with LLMs and generative AI models.
+
+- [Structured Prompting: Scaling In-Context Learning to 1,000 Examples (paper)](https://arxiv.org/abs/2212.06713) by Microsoft Research. [[Code](https://github.com/microsoft/LMOps)]
+  > GPT-3/LLMs' Achilles heel is short context length - how many "in-context" examples they can consume to learn a new task.
+  > Enter "Structured Prompting": scale your examples from dozens => 1,000+
+  > — [@mathemagic1an](https://twitter.com/mathemagic1an/status/1604802787296284674)
+
 ---
 
 ## Demos
