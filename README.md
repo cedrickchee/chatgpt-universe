@@ -93,6 +93,8 @@ Reason:
 > Why does ChatGPT work so well? Is it "just scaling up GPT-3" under the hood? In this 🧵, let's discuss the "Instruct" paradigm, its deep technical insights, and a big implication: **"prompt engineering" as we know it may likely disappear soon**.
 > Source: https://archive.is/dqHI8
 
+- [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
+
 ## Videos
 
 - [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) - If you're into video, this one gave a good overview.
