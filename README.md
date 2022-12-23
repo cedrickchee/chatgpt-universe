@@ -241,6 +241,8 @@ Desktop applications.
 
 ## AI Safety and Ethics
 
+AI alignment and AI interpretability.
+
 - [Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned](http://archive.today/bMruL)
 - [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) — A long-form piece on the future of human work in the age of generative AI. tl;dr: AI doesn't take over jobs, it takes over tasks. [Comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage) is why humans will still have jobs.
 
@@ -250,6 +252,7 @@ Desktop applications.
   
   My comments: Reading this after the ChatGPT launch, mostly all the things that Sam is referring to in the interview contains reminiscences about predictions on AI and development from Ray Kurzweil.
 - [Google won't launch ChatGPT rival because of 'reputational risk'](https://www.theverge.com/2022/12/14/23508756/google-vs-chatgpt-ai-replace-search-reputational-risk)
+- [AI Alignment Forum](https://www.alignmentforum.org/) is a single online hub for researchers to discuss all ideas related to ensuring that transformatively powerful AIs are aligned with human values. Discussion ranges from technical models of agency to the strategic landscape, and everything in between.
 
 ### Tweets
 
