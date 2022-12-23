@@ -176,6 +176,7 @@ Ultimate goal: self-hosted version of ChatGPT.
   - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
   - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
   - Brought to you by CarperAI (an EleutherAI lab). They have [announced plans for the first open-source "instruction-tuned" LM](https://carper.ai/instruct-gpt-announcement/). CarperAI started by developing production ready open-source RLHF tools.
+- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - (WIP) Implementation of RLHF on top of the PaLM architecture. Basically ChatGPT but with PaLM. The developer plan to add retrieval functionality too, à la RETRO.
 - [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - RL for language models (RL4LMs) by Allen AI. It's a modular RL library to fine-tune language models to human preferences.
 - [GPT-JT](https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai) - GPT-JT (6B) is a variant forked off GPT-J (6B), and performs exceptionally well on text classification and other tasks. On classification benchmarks such as RAFT, it comes close to state-of-the-art models that are much larger (e.g., InstructGPT davinci v2)!
 
