@@ -78,6 +78,9 @@ Example prompts.
 - [The Human's Guide to Competing with GPT](https://philipkiely.com/essays/compete_with_gpt.html)
 - [How sad should I be about ChatGPT?](https://robertheaton.com/chatgpt/)
 - [ChatGPT Should Not Exist](https://davidgolumbia.medium.com/chatgpt-should-not-exist-aab0867abace)
+- [ChatGPT, Galactica, and the Progress Trap](https://www.wired.com/story/large-language-models-critique/) - LLMs critique; when LLMs fall short, the consequences can be serious. Why is it so hard to acknowledge that?
+- [A New Chat Bot Is a 'Code Red' for Google's Search Business](http://web.archive.org/web/20221223201646/https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html) - TL;DR: A new wave of chat bots like ChatGPT use AI that could reinvent or even replace the traditional internet search engine.
+- [What ChatGPT Can't Do](https://auerstack.substack.com/p/what-chatgpt-cant-do) - TL;DR: Mimicry but not thought, sophistry but not understanding.
 
 ### Prompt Engineering
 
