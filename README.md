@@ -98,6 +98,7 @@ Reason:
 ## Videos
 
 - [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) - If you're into video, this one gave a good overview.
+- [ChatGPT vs Sparrow - Battle of Chatbots by "AI Coffee Break" with Letitia](https://www.youtube.com/watch?v=SWwQ3k-DWyo) - "Mom, I want a paper about ChatGPT. ChatGPT at home: [Sparrow from DeepMind](https://arxiv.org/abs/2209.14375) explained."
 
 ## Development
 
