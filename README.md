@@ -162,7 +162,7 @@ Ultimate goal: self-hosted version of ChatGPT.
   - Accelerating deep learning computing — efficient training, efficient inference (deployment), data/memory efficient models, and compression (efficient architectures).
     - Apply compression techniques like quantization from my [Awesome ML model compression](https://github.com/cedrickchee/awesome-ml-model-compression#quantization) project.
 
-- [Open-Assistant](https://github.com/LAION-AI/Open-Chat-GPT) by LAION - A project meant to give everyone access to a great chat based large language model. High-level plans:
+- [Open-Assistant](https://github.com/LAION-AI/Open-Chat-GPT) - Open-source ChatGPT replication by LAION, Yannic Kilcher et al. This project is meant to give everyone access to a great chat based large language model. ([Open Assistant Live Coding with Yannic Kilcher (video)](https://youtu.be/sswA4j_IUxg)) High-level plans:
 
   > **Phase 1:** Prompt collection for supervised finetuning (SFT) and to get the prompts for model generated completions/answers.
   >
@@ -171,6 +171,8 @@ Ultimate goal: self-hosted version of ChatGPT.
   > **Phase 3:** Optimization with RLHF which we plan to do via TRLX. And then the we iterate with this new model again over phase 2 and phase 3 hopefully multiple times.
   
   More info, see the LAION LLM proposal (Google Doc) above.
+  
+  _Note: Please see the GitHub repo for up-to-date info._
 
 - [CarperAI/TRLX](https://github.com/CarperAI/trlx)
   - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
