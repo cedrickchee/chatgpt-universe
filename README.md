@@ -102,10 +102,16 @@ Reason:
 
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
 
-## Videos
+## Educational
 
-- [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) - If you're into video, this one gave a good overview.
+### Videos
+
+- [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) by Yannic Kilcher - If you're into video, this one gave a good overview.
 - [ChatGPT vs Sparrow - Battle of Chatbots by "AI Coffee Break" with Letitia](https://www.youtube.com/watch?v=SWwQ3k-DWyo) - "Mom, I want a paper about ChatGPT. ChatGPT at home: [Sparrow from DeepMind](https://arxiv.org/abs/2209.14375) explained."
+
+### Tweets
+
+- [Are you wondering how large language models like ChatGPT and InstructGPT actually work? Let's dive into how it works in 8 tweets!](https://archive.vn/20221228120815/https://twitter.com/iScienceLuvr/status/1608070009921900546)
 
 ## Development
 
