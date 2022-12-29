@@ -82,6 +82,9 @@ Example prompts.
 - [A New Chat Bot Is a 'Code Red' for Google's Search Business](http://web.archive.org/web/20221223201646/https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html) - TL;DR: A new wave of chat bots like ChatGPT use AI that could reinvent or even replace the traditional internet search engine.
 - [What ChatGPT Can't Do](https://auerstack.substack.com/p/what-chatgpt-cant-do) - TL;DR: Mimicry but not thought, sophistry but not understanding.
 - [YouChat — The AI Search Assistant that Lives in Your Search Engine](https://blog.you.com/introducing-youchat-the-ai-search-assistant-that-lives-in-your-search-engine-eff7badcd655) - YouChat is a ChatGPT-like AI search assistant that you can talk to right in You.com Search results.
+- [All-knowing machines are a fantasy](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)  
+    > ... Even with non-conversational search engines, we know that is common to place undue trust in the results: if the search system places something at the top of the list, we tend to believe it is a good or true or representative result and if it doesn’t find something, it is tempting to believe it does not exist.
+- [Build your front end in React, then let ChatGPT be your Redux reducer](https://archive.vn/20221228231034/https://spindas.dreamwidth.org/4207.html)
 
 ### Prompt Engineering
 
