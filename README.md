@@ -162,7 +162,7 @@ Ultimate goal: self-hosted version of ChatGPT.
   - Accelerating deep learning computing — efficient training, efficient inference (deployment), data/memory efficient models, and compression (efficient architectures).
     - Apply compression techniques like quantization from my [Awesome ML model compression](https://github.com/cedrickchee/awesome-ml-model-compression#quantization) project.
 
-- [Open-Chat-GPT](https://github.com/LAION-AI/Open-Chat-GPT) by LAION - A project meant to give everyone access to a great chat based large language model. High-level plans:
+- [Open-Assistant](https://github.com/LAION-AI/Open-Chat-GPT) by LAION - A project meant to give everyone access to a great chat based large language model. High-level plans:
 
   > **Phase 1:** Prompt collection for supervised finetuning (SFT) and to get the prompts for model generated completions/answers.
   >
