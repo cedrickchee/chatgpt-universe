@@ -194,6 +194,11 @@ Ultimate goal: self-hosted version of ChatGPT.
   - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
   - Brought to you by CarperAI (an EleutherAI lab). They have [announced plans for the first open-source "instruction-tuned" LM](https://carper.ai/instruct-gpt-announcement/). CarperAI started by developing production ready open-source RLHF tools. [[Tweet and video](https://twitter.com/ZetaVector/status/1604842914835828736)]
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - (WIP) Implementation of RLHF on top of the PaLM architecture. Basically ChatGPT but with PaLM. The developer plan to add retrieval functionality too, à la RETRO. [[Tweet](https://twitter.com/omarsar0/status/1608143718460055552)] <!-- On 2022-12-29, "First open source ChatGPT has arrived". This is unncessary hype. The released code is just the model, no weights, no datasets used to trained the model, no inference model for deployment, no conversational UI/Web. A lot of things are not ready. This is far from calling it the "first" open source ChatGPT. People are getting ahead of themselves. -->
+    
+    News (2022-12-31): [There's now an open source alternative to ChatGPT, but good luck running it](https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/) - My comments: No it hasn't. This is NOT an actual trained model (no weights) you can use. This is just code for training a ChatGPT-like model. Furthermore, the training data (enwik8) is small.
+
+    CarperAI's large scale RLHF-aligned model (TRLX) train with LAION's data is coming out early next year. (Source: [Tweet](https://twitter.com/carperai/status/1608253659628068864?s=20))
+
 - [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - RL for language models (RL4LMs) by Allen AI. It's a modular RL library to fine-tune language models to human preferences.
 - [GPT-JT](https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai) - GPT-JT (6B) is a variant forked off GPT-J (6B), and performs exceptionally well on text classification and other tasks. On classification benchmarks such as RAFT, it comes close to state-of-the-art models that are much larger (e.g., InstructGPT davinci v2)!
 
