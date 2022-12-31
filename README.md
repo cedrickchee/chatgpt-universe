@@ -109,6 +109,7 @@ Reason:
 
 - [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) by Yannic Kilcher - If you're into video, this one gave a good overview.
 - [ChatGPT vs Sparrow - Battle of Chatbots by "AI Coffee Break" with Letitia](https://www.youtube.com/watch?v=SWwQ3k-DWyo) - "Mom, I want a paper about ChatGPT. ChatGPT at home: [Sparrow from DeepMind](https://arxiv.org/abs/2209.14375) explained."
+- [ChatGPT - Explained](https://youtu.be/NpmnWgQgcsA) - A quick run through on the internal workings of ChatGPT and the fundamental concepts it lies on: Language Models, Transformer Neural Networks, GPT models and Reinforcement Learning.
 
 ### Tweets
 
