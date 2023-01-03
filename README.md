@@ -309,6 +309,8 @@ General technology for enabling AI capabilities with LLMs and generative AI mode
 
 Demos[^3] and examples in the form of tweets:
 
+**Day 1, 2022**
+
 1. [Generating detailed prompts for text-to-image models like MidJourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
 2. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 3. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
@@ -353,6 +355,11 @@ Demos[^3] and examples in the form of tweets:
 38. [ChatGPT is amazing but OpenAI has not come close to addressing the problem of bias. Filters appear to be bypassed with simple tricks, and superficially masked](https://twitter.com/spiantado/status/1599462375887114240)
 39. [i'm the ai now](https://twitter.com/parafactual/status/1598212029479026689)
 40. [All the ways to get around ChatGPT's safeguards](https://twitter.com/davisblalock/status/1602600453555961856)
+
+**2023**
+
+1. [Programming with ChatGPT. Some observations](http://archive.today/XLVZf)
+2. [The best ways to use ChatGPT. 8 ways ChatGPT can save you thousands of hours in 2023](https://archive.ph/G3Ak3)
 
 </details>
 
