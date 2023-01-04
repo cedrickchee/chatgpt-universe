@@ -295,6 +295,7 @@ AI alignment and AI interpretability.
 - GPT-2 Output Detector [[code](https://github.com/openai/gpt-2-output-dataset/tree/master/detector)] [[demo](https://huggingface.co/openai-detector/)]
   > The @HuggingFace GPT detector works very well on ChatGPT-created text. I ran 5 student essays and 5 ChatGPT essays for the same prompt through it, and it was correct every time with >99.9% confidence. — [@cfiesler](https://twitter.com/cfiesler/status/1601642370797563904)
 - [OpenAI's attempts to watermark AI text hit limits](https://archive.vn/20221212144831/https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/) - Watermarking may allow for detection of AI text. This post discusses some of the limitations but suggests that it's worth pursuing. Prof. Scott Aaronson "expressed the belief that, if OpenAI can demonstrate that watermarking works and doesn't impact the quality of the generated text, it has the potential to become an industry standard.". OpenAI engineer Hendrik Kirchner built a working prototype.
+- [GPTZero](https://etedward-gptzero-main-zqgfwb.streamlit.app/) demo (Beta) hosted by Streamlit - An app that can quickly and efficiently detect whether an essay is ChatGPT or human written. [[Tweet](https://twitter.com/edward_the6/status/1610067688449007618)]
 
 ## LMOps
 
