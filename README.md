@@ -86,7 +86,7 @@ Example prompts.
     > ... Even with non-conversational search engines, we know that is common to place undue trust in the results: if the search system places something at the top of the list, we tend to believe it is a good or true or representative result and if it doesn’t find something, it is tempting to believe it does not exist.
 - [Build your front end in React, then let ChatGPT be your Redux reducer](https://archive.vn/20221228231034/https://spindas.dreamwidth.org/4207.html)
 - [Predicting machine learning moats](https://robotic.substack.com/p/ml-moats) - TL;DR: Models aren't moats and how emergent behavior scaling laws will change the business landscape. <!-- The thought I needed to figure out with the ChatGPT & RLHF explosion: How will OpenAI create a business moat? Models can be copied, datasets will be open source, but the first companies to unlock emergent behavior may gain insurmountable advantages. Source (Tweet): https://twitter.com/natolambert/status/1608114405283086336 -->
-- [Microsoft and OpenAI Working on ChatGPT-Powered Bing in Challenge to Google](https://www.theinformation.com/articles/microsoft-and-openai-working-on-chatgpt-powered-bing-in-challenge-to-google)
+- [Microsoft and OpenAI Working on ChatGPT-Powered Bing in Challenge to Google](http://archive.today/2023.01.04-052131/https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter)
 
 ### Prompt Engineering
 
