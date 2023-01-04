@@ -139,6 +139,7 @@ Reason:
 - [Data Augmentation To Create Instructions Form Text](https://docs.google.com/document/d/13a188pPvqnlvuVa3e_suVz4YO5s-JWeiOOrpp0odImg/edit) - discussion on LAION's Discord. The key to creating a better FlanT5 (ChatGPT@Home).
 - [WritingPrompts dataset](https://github.com/facebookresearch/fairseq/tree/main/examples/stories) by FAIR.
 - [Templates for FLAN (Finetuned Language Models are Zero-Shot Learners)](https://github.com/google-research/FLAN/blob/main/flan/templates.py)
+- [OpenAI human-feedback dataset on the Hugging Face Hub](https://huggingface.co/datasets/openai/summarize_from_feedback) - The dataset is from the "Learning to Summarize from Human Feedback" paper, where they trained an RLHF reward model for summarization.
 - In OpenAI's papers on GPT-2 and GPT-3.x, they mentioned references to these datasets:
   - [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl)
     - Number of Tokens: 410 billion
