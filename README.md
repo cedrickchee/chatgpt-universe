@@ -251,6 +251,7 @@ Web applications.
 - [LearnGPT](https://www.learngpt.com/) - Share ChatGPT examples. See the best voted examples. Their goal is to create a resource for anyone who wants to learn more about ChatGPT.
 - [ShowGPT](https://showgpt.co/) - Show your ChatGPT prompts.
 - [The search engine for developers](https://beta.sayhello.so/), powered by large, proprietary AI language models.
+- [GPTDuck](https://www.gptduck.com/) – Ask questions about any GitHub repo.
 
 Desktop applications.
 
