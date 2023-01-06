@@ -252,6 +252,7 @@ Web applications.
 - [ShowGPT](https://showgpt.co/) - Show your ChatGPT prompts.
 - [The search engine for developers](https://beta.sayhello.so/), powered by large, proprietary AI language models.
 - [GPTDuck](https://www.gptduck.com/) – Ask questions about any GitHub repo.
+- [LLM Garden](https://github.com/ianb/llm-garden) - A number of experiments using GPT-3, delivered in a web app.
 
 Desktop applications.
 
