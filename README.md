@@ -237,6 +237,7 @@ Use ChatGPT anywhere.
 ### Editors and IDEs
 
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+- [ETC (ExplainThisCode)](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
 
 ### Others
 
