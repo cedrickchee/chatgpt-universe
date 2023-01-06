@@ -238,6 +238,7 @@ Use ChatGPT anywhere.
 
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [ETC (ExplainThisCode)](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
+- [Adrenaline](https://github.com/shobrook/adrenaline) - Minimalist IDE that automatically fixes your code when it throws an error, powered by ChatGPT. [[article](https://devpost.com/software/adrenaline-ide)]
 
 ### Others
 
