@@ -88,6 +88,7 @@ Example prompts.
 - [Predicting machine learning moats](https://robotic.substack.com/p/ml-moats) - TL;DR: Models aren't moats and how emergent behavior scaling laws will change the business landscape. <!-- The thought I needed to figure out with the ChatGPT & RLHF explosion: How will OpenAI create a business moat? Models can be copied, datasets will be open source, but the first companies to unlock emergent behavior may gain insurmountable advantages. Source (Tweet): https://twitter.com/natolambert/status/1608114405283086336 -->
 - [Microsoft and OpenAI Working on ChatGPT-Powered Bing in Challenge to Google](http://archive.today/2023.01.04-052131/https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter)
 - [Some remarks on Large Language Models](https://gist.github.com/cedrickchee/054956f6277430ae5a973c61e4a93073) by Prof. Yoav Goldberg.
+- [Why ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/) by Algolia.
 
 ### Prompt Engineering
 
