@@ -108,6 +108,7 @@ Reason:
 > Source: https://archive.is/dqHI8
 
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
+- [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
 
 ## Educational
 
