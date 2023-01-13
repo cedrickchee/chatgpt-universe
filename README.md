@@ -210,6 +210,8 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
   >
   > **Phase 3:** Optimization with RLHF which we plan to do via TRLX. And then the we iterate with this new model again over phase 2 and phase 3 hopefully multiple times.
   
+  Models will be trained on Summit supercomputer (~6 million NVIDIA V100 hrs per year) [[source](https://drive.google.com/file/d/1R7OHgW-KOXNia4z5_rBwZj_ecSf6TqzG/view)]
+  
   More info, see the LAION LLM proposal (Google Doc) above.
   
   _Note: Please see the GitHub repo for up-to-date info._
