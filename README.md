@@ -174,11 +174,26 @@ Reason:
 
 We want a ChatGPT alternative like Stable Diffusion.
 
-Goals:
+**Goals**
+
 - Open source effort towards OpenAI's ChatGPT.
 - Reverse engineer and replicate ChatGPT models and training data.
 
-Ultimate goal: self-hosted version of ChatGPT.
+**Ultimate goal:** self-hosted version of ChatGPT.
+
+**Lessons**
+
+Takeaways from [EleutherAI one year retro (2021)](https://blog.eleuther.ai/year-one/):
+- Access to enough compute/hardware/GPU alone won't help you succeed. You need:
+  - a proper dataset (beyond the Pile and [c4](https://www.tensorflow.org/datasets/catalog/c4))
+  - research expertise
+  - engineering capabilities
+  - a lot of hard work
+<!-- Long version: even if you throw money or free credits for Cloud compute it will not be enough.
+We've seen this happen with EleutherAI who were not capable of reaching their initial target of "replicating" GPT-3 and 
+could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
+
+#### Projects
 
 - [FLAN-T5 XXL](https://huggingface.co/google/flan-t5-xxl) aka. ChatGPT@Home is a public model that has undergone instruction finetuning. XXL is a 11B model. It is currently the most comparable model against ChatGPT (InstructGPT models are initialized from GPT-3.x series ([model card](https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md))). There are successful attempts deploying FLAN-T5 on GPU with 24 GB RAM with [bitsandbytes-Int8](https://docs.google.com/document/d/1JxSo4lQgMDBdnd19VBEoaG-mMfQupQ3XvOrgmRAVtpU/edit) inference for Hugging Face models. You can run the model easily on a single machine, without performance degradation. This could be a game changer in enabling people outside of big tech companies being able to use these LLMs. Efforts are already underway to create a better FLAN-T5. The community (i.e., LAION) are working on FlanT5-Atlas architecture and a collection of prompted/instructions datasets.
   - [Fine-tuning GPT-J-6B in Colab: 8-bit weights with low-rank adaptors (LORA)](https://github.com/huggingface/transformers/issues/14839). ([Quantized EleutherAI/gpt-j-6b model with 8-bit weights](https://huggingface.co/hivemind/gpt-j-6B-8bit))
