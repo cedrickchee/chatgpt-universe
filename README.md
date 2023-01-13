@@ -93,6 +93,8 @@ Example prompts.
 - [Anthropic's Claude improves on ChatGPT but still suffers from limitations](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/)
 - [Microsoft eyes $10 billion bet on ChatGPT](https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt)
 - [Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
+- [DeepMind's CEO Helped Take AI Mainstream. Now He's Urging Caution](https://archive.is/20230112152632/https://time.com/6246119/demis-hassabis-deepmind-interview/)
+    > DeepMind is also considering releasing its own chatbot, called [Sparrow](#videos), for a "private beta" some time in 2023. (The delay is in order for DeepMind to work on reinforcement learning-based features that ChatGPT lacks, like **citing its sources**.)
 
 ### Prompt Engineering
 
