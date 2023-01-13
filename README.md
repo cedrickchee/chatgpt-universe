@@ -211,6 +211,7 @@ Ultimate goal: self-hosted version of ChatGPT.
 
 - [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - RL for language models (RL4LMs) by Allen AI. It's a modular RL library to fine-tune language models to human preferences.
 - [GPT-JT](https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai) - GPT-JT (6B) is a variant forked off GPT-J (6B), and performs exceptionally well on text classification and other tasks. On classification benchmarks such as RAFT, it comes close to state-of-the-art models that are much larger (e.g., InstructGPT davinci v2)!
+- LEAM (Large European AI Models) - The EU planning to fund the development of a large-scale ChatGPT-like model. [[website](https://leam.ai/), [project documents (English, PDF)](https://leam.ai/wp-content/uploads/2022/04/LEAM_Teaser_EN_01.pdf), [concept paper (German, PDF)](https://leam.ai/wp-content/uploads/2022/06/LEAM-Konzeptpapier-V1.2-1.pdf)]
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
 
