@@ -220,6 +220,9 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
   - Originated as a fork of [TRL](https://github.com/lvwerra/trl).
   - It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning from Human Feedback (RLHF).
   - Brought to you by CarperAI (an EleutherAI lab). They have [announced plans for the first open-source "instruction-tuned" LM](https://carper.ai/instruct-gpt-announcement/). CarperAI started by developing production ready open-source RLHF tools. [[Tweet and video](https://twitter.com/ZetaVector/status/1604842914835828736)]
+  
+  News (2023-01-13): They replicated OpenAI's _Learning to Summarize_ paper using trlX library. [[report](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2)]
+  
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - (WIP) Implementation of RLHF on top of the PaLM architecture. Basically ChatGPT but with PaLM. The developer plan to add retrieval functionality too, à la RETRO. [[Tweet](https://twitter.com/omarsar0/status/1608143718460055552)] <!-- On 2022-12-29, "First open source ChatGPT has arrived". This is unncessary hype. The released code is just the model, no weights, no datasets used to trained the model, no inference model for deployment, no conversational UI/Web. A lot of things are not ready. This is far from calling it the "first" open source ChatGPT. People are getting ahead of themselves. -->
     
     News (2022-12-31): [There's now an open source alternative to ChatGPT, but good luck running it](https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/) - My comments: No it hasn't. This is NOT an actual trained model (no weights) you can use. This is just code for training a ChatGPT-like model. Furthermore, the training data (enwik8) is small.
