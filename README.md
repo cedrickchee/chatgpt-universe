@@ -95,6 +95,9 @@ Example prompts.
 - [Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
 - [DeepMind's CEO Helped Take AI Mainstream. Now He's Urging Caution](https://archive.is/20230112152632/https://time.com/6246119/demis-hassabis-deepmind-interview/)
     > DeepMind is also considering releasing its own chatbot, called [Sparrow](#videos), for a "private beta" some time in 2023. (The delay is in order for DeepMind to work on reinforcement learning-based features that ChatGPT lacks, like **citing its sources**.)
+- [General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/) - ChatGPT is coming soon to the Azure OpenAI Service.
+
+which is now generally available, as we help customers apply the world’s most advanced AI models to their own business imperatives.
 
 ### Prompt Engineering
 
