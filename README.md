@@ -20,6 +20,7 @@ own modifications:
 
 - [ChatGPT launch blog post](https://openai.com/blog/chatgpt/)
 - [ChatGPT official app](https://chat.openai.com)
+- [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/) - a pilot subscription plan for ChatGPT.
 
 ## ChatGPT Community / Discussion
 
