@@ -99,6 +99,7 @@ Example prompts.
     > DeepMind is also considering releasing its own chatbot, called [Sparrow](#videos), for a "private beta" some time in 2023. (The delay is in order for DeepMind to work on reinforcement learning-based features that ChatGPT lacks, like **citing its sources**.)
 - [General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/) - ChatGPT is coming soon to the Azure OpenAI Service.
 - [GPT-3 Is the Best Journal I've Ever Used](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
+- [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam/)
 
 ### Prompt Engineering
 
