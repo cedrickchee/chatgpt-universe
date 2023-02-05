@@ -37,6 +37,7 @@ Example prompts.
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts that works well. Just follow [@goodside](https://twitter.com/goodside)
 - [Google Sheets of 50+ clever GPT-3 prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Tangentially, this repository shares example code and example prompts for accomplishing common tasks with the OpenAI API.
+- [ChatGPT cheat sheet (PDF)](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
 
 ## Experiments
 
