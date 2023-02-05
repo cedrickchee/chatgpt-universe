@@ -101,6 +101,7 @@ Example prompts.
 - [GPT-3 Is the Best Journal I've Ever Used](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
 - [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam/)
 - [Replacing a SQL analyst with 26 recursive GPT prompts](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
+- [Google is asking employees to test potential ChatGPT competitors, including a chatbot called 'Apprentice Bard'](https://www.cnbc.com/2023/01/31/google-testing-chatgpt-like-chatbot-apprentice-bard-with-employees.html)
 
 ### Prompt Engineering
 
