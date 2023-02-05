@@ -104,6 +104,7 @@ Example prompts.
 - [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam/)
 - [Replacing a SQL analyst with 26 recursive GPT prompts](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
 - [Google is asking employees to test potential ChatGPT competitors, including a chatbot called 'Apprentice Bard'](https://www.cnbc.com/2023/01/31/google-testing-chatgpt-like-chatbot-apprentice-bard-with-employees.html)
+- [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
 
 ### Prompt Engineering
 
