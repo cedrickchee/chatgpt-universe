@@ -53,6 +53,7 @@ Example prompts.
 - [emailGPT](https://github.com/lucasmccabe/emailGPT) - A quick and easy interface to generate emails with ChatGPT.
 - [gptlang](https://github.com/forrestchang/gptlang) - An experiment to see if we can create a programming language in ChatGPT.
 - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (**RNN-based**) open language model.
+- [GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3.
 
 ## Blog Posts and Articles
 
