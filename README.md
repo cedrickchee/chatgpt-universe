@@ -123,6 +123,10 @@ Reason:
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
 
+## Papers
+
+- [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/abs/2301.13688) by Google Research, 2023 - What's the best completely public competitor to ChatGPT? Flan-T5 beats all public models they tested. They make the Flan collection (first used in Flan-PaLM) of datasets, templates, and methods publicly available. [[Data generation code](https://github.com/google-research/FLAN/tree/main/flan/v2)] [[Tweet](https://twitter.com/ShayneRedford/status/1620805305801261058)]
+
 ## Educational
 
 ### Videos
