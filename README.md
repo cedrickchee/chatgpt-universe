@@ -105,6 +105,7 @@ Example prompts.
 - [Replacing a SQL analyst with 26 recursive GPT prompts](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
 - [Google is asking employees to test potential ChatGPT competitors, including a chatbot called 'Apprentice Bard'](https://www.cnbc.com/2023/01/31/google-testing-chatgpt-like-chatbot-apprentice-bard-with-employees.html)
 - [Natural language is the lazy user interface](https://austinhenley.com/blog/naturallanguageui.html)
+- [An important next step on Google's AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/) - Google soft launches Bard, a ChatGPT competitor to "trusted testers". Bard is new AI features in Google Search. Bard is an experimental conversational AI service, powered by [LaMDA (Language Model for Dialogue Applications)](https://arxiv.org/abs/2201.08239). Google promises to make this available more widely in the coming weeks. API will be available for developers to build on. Google have not address how it plans to provide attribution and/or citations for its answers, either from Bard or in search results.
 
 ### Prompt Engineering
 
