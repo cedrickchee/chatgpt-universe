@@ -149,6 +149,10 @@ Reason:
 
 - [Are you wondering how large language models like ChatGPT and InstructGPT actually work? Let's dive into how it works in 8 tweets!](https://archive.vn/20221228120815/https://twitter.com/iScienceLuvr/status/1608070009921900546)
 
+## Books
+
+- [ChatGPT Prompts Mastering: A Guide to Crafting Clear and Effective Prompts](https://www.amazon.com/ChatGPT-Prompts-Mastering-Effective-BeginnerS/dp/B0BRJ9Q27Q)
+
 ## Development
 
 ### Unofficial API and SDK.
