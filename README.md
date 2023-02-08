@@ -108,7 +108,7 @@ Example prompts.
 - [An important next step on Google's AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/) - Google soft launches Bard, a ChatGPT competitor to "trusted testers". Bard is new AI features in Google Search. Bard is an experimental conversational AI service, powered by [LaMDA (Language Model for Dialogue Applications)](https://arxiv.org/abs/2201.08239). Google promises to make this available more widely in the coming weeks. API will be available for developers to build on. Google have not address how it plans to provide attribution and/or citations for its answers, either from Bard or in search results.
 - [Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai)
 
-### Prompt Engineering
+## Prompt Engineering
 
 > Wanted: Prompt engineer. Minimum 10 years prompt engineering experience. #hiring #joke
 
@@ -124,6 +124,10 @@ Reason:
 
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
+
+### Examples
+
+- [Reddit: Jailbreaking ChatGPT with a prompt called DAN (Do Anything Now)](https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/)
 
 ## Papers
 
