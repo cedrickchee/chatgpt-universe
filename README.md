@@ -55,6 +55,7 @@ Example prompts.
 - [gptlang](https://github.com/forrestchang/gptlang) - An experiment to see if we can create a programming language in ChatGPT.
 - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (**RNN-based**) open language model.
 - [GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3.
+- [Doc Search](https://github.com/namuan/dr-doc-search) - Explore documents (books, papers, legal docs) without limits. Converse with a book. Inspired by ["Book Whisperer" idea (Tweet)](https://twitter.com/abacaj/status/1608163940726358024). Open source alternative to [Filechat.io](https://www.filechat.io/).
 
 ## Blog Posts and Articles
 
