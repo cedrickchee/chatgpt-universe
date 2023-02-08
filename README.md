@@ -125,6 +125,7 @@ Reason:
 
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
+- [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) is a tool for prompt engineers - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. Build prompts through trial and exploration.
 
 ### Examples
 
