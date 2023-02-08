@@ -448,6 +448,19 @@ Mostly found in GitHub Gist:
 - https://gist.github.com/heyajulia/fc4286b125fa99fd166a50f3582f2514
   > Hi, my code has two bugs and I’m not sure how to fix them. If you can help me, I’ll send you the code.
 
+### ChatGPT Alternatives
+
+- [Perplexity](https://www.perplexity.ai/) - A new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
+- Bart from Google
+- Sparrow from DeepMind
+- YouChat
+- Poe from Quora
+- Bloom from BigScience
+- Character AI
+- Jasper Chat
+
+Lightly based on [publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706) Tweet.
+
 <!-- For future reference but maybe not. -->
 
 [^1]: https://github.com/humanloop/awesome-chatgpt
