@@ -112,6 +112,7 @@ Example prompts.
 - [Man and machine: GPT for second brains](https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/) - About author second-brain note-taking system — how to improve processes for learning and personal knowledge management (PKM).
 - [China's Baidu Developing Its Own ChatGPT, Joining Latest Global AI Race](https://archive.is/wOuka) - Ernie or, [_Enhanced Representation through Knowledge Integration_ (Ernie 3.0 article and paper)](http://research.baidu.com/Blog/index-view?id=165) is an LLM. Baidu was planning to launch such a service in March. Alibaba and Tencent also join the ChatGPT rush.
     > In 2019, Baidu developed a deep-learning model known as Ernie, based on Google's breakthrough, which it has used to improve its search results, including to make them more relevant. The company has since developed dozens more Ernie models and extended their capabilities to include image and art generation, similar to those of OpenAI's Dall-E.
+- [ChatGPT Is a Blurry JPEG of the Web](https://archive.ph/VbwGB) - OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?
 
 ## Prompt Engineering
 
