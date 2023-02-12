@@ -113,6 +113,7 @@ Example prompts.
 - [China's Baidu Developing Its Own ChatGPT, Joining Latest Global AI Race](https://archive.is/wOuka) - Ernie or, [_Enhanced Representation through Knowledge Integration_ (Ernie 3.0 article and paper)](http://research.baidu.com/Blog/index-view?id=165) is an LLM. Baidu was planning to launch such a service in March. Alibaba and Tencent also join the ChatGPT rush.
     > In 2019, Baidu developed a deep-learning model known as Ernie, based on Google's breakthrough, which it has used to improve its search results, including to make them more relevant. The company has since developed dozens more Ernie models and extended their capabilities to include image and art generation, similar to those of OpenAI's Dall-E.
 - [ChatGPT Is a Blurry JPEG of the Web](https://archive.ph/VbwGB) - OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?
+- [I made ChatGPT and Bing AI have a conversation (and they are friends now)](https://moritz.pm/posts/chatgpt-bing)
 
 ## Prompt Engineering
 
@@ -440,6 +441,7 @@ Demos[^3] and examples in the form of tweets:
 1. [Programming with ChatGPT. Some observations](http://archive.today/XLVZf)
 2. [The best ways to use ChatGPT. 8 ways ChatGPT can save you thousands of hours in 2023](https://archive.ph/G3Ak3)
 3. [Everyone’s using ChatGPT. Almost everyone's STUCK in beginner mode. 10 techniques to get massively ahead with AI (cut-and-paste these prompts)](https://threadreaderapp.com/thread/1610316022174683136.html)
+4. [David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set](https://twitter.com/davidguetta/status/1621605376733872129)
 
 </details>
 
