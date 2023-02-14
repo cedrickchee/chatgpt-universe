@@ -142,6 +142,7 @@ Reason:
 ## Papers
 
 - [The Flan Collection: Designing Data and Methods for Effective Instruction Tuning](https://arxiv.org/abs/2301.13688) by Google Research, 2023 - What's the best completely public competitor to ChatGPT? Flan-T5 beats all public models they tested. They make the Flan collection (first used in Flan-PaLM) of datasets, templates, and methods publicly available. [[Data generation code](https://github.com/google-research/FLAN/tree/main/flan/v2)] [[Tweet](https://twitter.com/ShayneRedford/status/1620805305801261058)]
+- [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476) by NTU, AWS, Stanford U et al., 2023 - It is not yet known whether ChatGPT can serve as a generalist model that can perform many NLP tasks zero-shot. In their work, they empirically analyze the zero-shot learning ability of ChatGPT by evaluating it on 20 popular NLP datasets covering 7 representative task categories. With extensive empirical studies, they demonstrate both the effectiveness and limitations of the current version of ChatGPT.
 
 ## Educational
 
