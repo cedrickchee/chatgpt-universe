@@ -56,6 +56,8 @@ Example prompts.
 - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (**RNN-based**) open language model.
 - [GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3.
 - [Doc Search](https://github.com/namuan/dr-doc-search) - Explore documents (books, papers, legal docs) without limits. Converse with a book. Inspired by ["Book Whisperer" idea (Tweet)](https://twitter.com/abacaj/status/1608163940726358024). Open source alternative to [Filechat.io](https://www.filechat.io/).
+- [What if GPT had internal context on your business? (Tweet and video demo)](https://twitter.com/replit/status/1624433919843094534) - 
+They build a chatbot that could use context from enterprise data to answer internal business queries. This project integrated LangChain (agent decides what tools to query once the chatbot receives a request) and GPT Index (load Snowflake DB). Interesting idea in knowledge management.
 
 ## Blog Posts and Articles
 
