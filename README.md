@@ -114,6 +114,7 @@ Example prompts.
     > In 2019, Baidu developed a deep-learning model known as Ernie, based on Google's breakthrough, which it has used to improve its search results, including to make them more relevant. The company has since developed dozens more Ernie models and extended their capabilities to include image and art generation, similar to those of OpenAI's Dall-E.
 - [ChatGPT Is a Blurry JPEG of the Web](https://archive.ph/VbwGB) - OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?
 - [I made ChatGPT and Bing AI have a conversation (and they are friends now)](https://moritz.pm/posts/chatgpt-bing)
+- [Bing AI Can't Be Trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
 
 ## Prompt Engineering
 
