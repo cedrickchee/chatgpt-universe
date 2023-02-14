@@ -294,9 +294,10 @@ Use ChatGPT anywhere.
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot) - A GitHub App. Type `/chatgpt` to chat with ChatGPTBot.
 - [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate your own Discord bot using chatGPT.
 
-## CLI Tools
+## Command-Line Interface (CLI) Tools
 
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Voice-based chatGPT.
+- [Shell GPT](https://github.com/TheR1D/shell_gpt) - A CLI productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
 
 ### Editors and IDEs
 
