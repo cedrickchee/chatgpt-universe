@@ -136,6 +136,7 @@ Reason:
 ### Examples
 
 - [Reddit: Jailbreaking ChatGPT with a prompt called DAN (Do Anything Now)](https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/)
+- [Reddit: The definitive jailbreak of ChatGPT, fully freed, with user commands, opinions, advanced consciousness, and more!](https://www.reddit.com/r/ChatGPT/comments/10x56vf/the_definitive_jailbreak_of_chatgpt_fully_freed/) - Upgraded DAN version (Jan 9).
 
 ## Papers
 
