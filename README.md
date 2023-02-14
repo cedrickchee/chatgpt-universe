@@ -336,6 +336,7 @@ Desktop applications.
 ## Newsletters
 
 - [Newsletter of notes focusing on text generation, mostly with GPT-3](https://github.com/sw-yx/ai-notes/blob/main/TEXT.md)
+- [Ben's Bites - the AI newsletter](https://www.bensbites.co/p/looking-back-llms) - Looking back on LLMs.
 
 ## AI Safety and Ethics
 
