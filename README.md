@@ -284,6 +284,7 @@ Use ChatGPT anywhere.
 - [summarize.site](https://github.com/clmnin/summarize.site) - Chrome extension to summarize blogs and articles using ChatGPT.
 - [WebChatGPT](https://github.com/qunash/chatgpt-advanced) - ChatGPT with Internet access. A browser extension (Chrome and Firefos) that augments your ChatGPT prompts with relevant search results from the Web. (Remember, ChatGPT cannot access the Web and has limited knowledge of the world after 2021)
 - [XP1](https://xp1.dust.tt/) - GPT-based Assistant with access to your Tabs.
+- [ExtractGPT](https://airtable.com/shruPamX8OWa5tqdp) - A browser extension for scraping data from structured & unstructured pages.
 
 ## Access ChatGPT From Other Platforms
 
