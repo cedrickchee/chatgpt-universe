@@ -117,6 +117,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [ChatGPT Is a Blurry JPEG of the Web](https://archive.ph/VbwGB) - OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?
 - [I made ChatGPT and Bing AI have a conversation (and they are friends now)](https://moritz.pm/posts/chatgpt-bing)
 - [Bing AI Can't Be Trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
+- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Prompt Engineering
 
