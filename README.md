@@ -359,6 +359,7 @@ AI alignment and AI interpretability.
 - [Google won't launch ChatGPT rival because of 'reputational risk'](https://www.theverge.com/2022/12/14/23508756/google-vs-chatgpt-ai-replace-search-reputational-risk)
 - [AI Alignment Forum](https://www.alignmentforum.org/) is a single online hub for researchers to discuss all ideas related to ensuring that transformatively powerful AIs are aligned with human values. Discussion ranges from technical models of agency to the strategic landscape, and everything in between.
 - [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest) by Maggie Appleton - Proving you're a human on a web flooded with generative AI content.
+- [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave/) by OpenAI.
 
 ### Tweets
 
