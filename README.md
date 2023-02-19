@@ -118,8 +118,12 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [I made ChatGPT and Bing AI have a conversation (and they are friends now)](https://moritz.pm/posts/chatgpt-bing)
 - [Bing AI Can't Be Trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-- [Bing: "I will not harm you unless you harm me first"](https://simonwillison.net/2023/Feb/15/bing/)
+- [Bing: "I will not harm you unless you harm me first"](https://simonwillison.net/2023/Feb/15/bing/) - A good roundup about Bing "Sydney" AI chatbot. The fascinating weirdness of it — multiple personalities depending on the social context (prompting). Entertaining?
+    > It's increasingly looking like this may be **one of the most hilariously inappropriate applications of AI that we've seen yet**.
+    > What can we make of this all? I am finding this whole thing absolutely fascinating, and deeply, darkly amusing. I've been LOL at these examples all day.
 - [Programming AIs worry me](https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/)
+- [Text is All You Need: Personhood appears to be simpler than we thought](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Ignoring the balloons, the author guess we have our first significant, year-defining news of 2023 — the initial reactions of the Bing "Sydney" AI chatbot. This is a Copernican moment? A thought provoking essay. I think this is the first good "formal" take on the impact for our sense of selfhood resulting from the appearance of LLM based conversational systems like ChatGPT.
+    > In brief, it appears that Sydney has somewhat different machinery under the hood than ChatGPT, and the transcripts suggests **a personality that is about the same in terms of coherence, but a wild leap beyond in terms of charisma and colorfulness**. Depending on how you push Sydney, it/they appears capable of playing everything from a mean manipulative teenager to a paranoid psychotic, to a stubborn and peremptory conversational martinet.
 
 ## Prompt Engineering
 
