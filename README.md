@@ -125,23 +125,34 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Text is All You Need: Personhood appears to be simpler than we thought](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Ignoring the balloons, the author guess we have our first significant, year-defining news of 2023 — the initial reactions of the Bing "Sydney" AI chatbot. This is a Copernican moment? A thought provoking essay. I think this is the first good "formal" take on the impact for our sense of selfhood resulting from the appearance of LLM based conversational systems like ChatGPT.
     > In brief, it appears that Sydney has somewhat different machinery under the hood than ChatGPT, and the transcripts suggests **a personality that is about the same in terms of coherence, but a wild leap beyond in terms of charisma and colorfulness**. Depending on how you push Sydney, it/they appears capable of playing everything from a mean manipulative teenager to a paranoid psychotic, to a stubborn and peremptory conversational martinet.
 
-## Prompt Engineering
+## Prompting (Prompt Programming[^5])*
 
-> Wanted: Prompt engineer. Minimum 10 years prompt engineering experience. #hiring #joke
+According to Gwern:
+> A new programming paradigm? You interact with it, expressing any task in terms of natural language descriptions, requests, and examples, tweaking the prompt until it "understands" & it meta-learns the new task. This is a rather different way of using a model, and it's better to think of it as a new kind of programming, **prompt programming**, where the prompt is now a coding language which programs GPT-3 to do new things.
 
-- [Why "Prompt Engineering" and "Generative AI" are overhyped](https://lspace.swyx.io/p/why-prompt-engineering-and-generative)
+"Prompting" as an engineering discipline is not here to stay. It's a temporary crutch on the way to natural language interfaces. ChatGPT solves a big portion of the prompting problem. Adding engineering to a term to amplify its perceived importance or difficulty might be unnecessary. We could probably call it "prompt testing/hacking" and not lose any of the meaning.
+
+Related articles:
+
+[Why "Prompt Engineering" and "Generative AI" are overhyped](https://lspace.swyx.io/p/why-prompt-engineering-and-generative)
+
+Related Tweets:
 
 > Prompt engineering is dead, long live dialogue engineering.
 > — VP Product, OpenAI
 
-Reason:
+> Wanted: Prompt engineer. Minimum 10 years prompt engineering experience. #hiring #joke
 
 > Why does ChatGPT work so well? Is it "just scaling up GPT-3" under the hood? In this 🧵, let's discuss the "Instruct" paradigm, its deep technical insights, and a big implication: **"prompt engineering" as we know it may likely disappear soon**.
 > Source: https://archive.is/dqHI8
 
+### Prompting Tools, Libraries, Frameworks
+
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
 - [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) is a tool for prompt engineers - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. Build prompts through trial and exploration.
+
+(_* Prompt engineering term was renamed to prompting. The term is overloaded and might be unnecessary._)
 
 ### Examples
 
@@ -492,6 +503,7 @@ Lightly based on [publicly announced ChatGPT variants and competitors](https://t
 [^1]: https://github.com/humanloop/awesome-chatgpt
 [^2]: https://github.com/Kamigami55/awesome-chatgpt
 [^3]: https://github.com/saharmor/awesome-chatgpt
+[^5]: In a [Reddit thread "The problem with prompt engineering"](https://r.nf/r/GPT3/comments/m177n2/the_problem_with_prompt_engineering/gqdr6de/?context=3) where Gwern (author) claims to be the origin of the term [prompt programing/prompt engineering](https://gwern.net/gpt-3#prompts-as-programming). His argument is reasonable and well written.
 
 ## License
 
