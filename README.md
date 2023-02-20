@@ -290,6 +290,14 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
 - [GPT-JT](https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai) - GPT-JT (6B) is a variant forked off GPT-J (6B), and performs exceptionally well on text classification and other tasks. On classification benchmarks such as RAFT, it comes close to state-of-the-art models that are much larger (e.g., InstructGPT davinci v2)!
 - LEAM (Large European AI Models) - The EU planning to fund the development of a large-scale ChatGPT-like model. [[website](https://leam.ai/), [project documents (English, PDF)](https://leam.ai/wp-content/uploads/2022/04/LEAM_Teaser_EN_01.pdf), [concept paper (German, PDF)](https://leam.ai/wp-content/uploads/2022/06/LEAM-Konzeptpapier-V1.2-1.pdf)]
 - [/r/AiCrowdFund](https://old.reddit.com/r/AiCrowdFund/comments/10a2g6v/lets_create_a_place_where_people_can_find_a_way/) - A place just started (2023) where people can find a way to crowd fund (with GPUs) a large AI. I'm not sure whether they've seen [Petals](https://petals.ml/) where you can run LLMs at home, BitTorrent‑style (federated learning?). It seems to be headed in that direction.
+- [Open source solution replicates ChatGPT training process](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt) - They presents an open-source low-cost ChatGPT equivalent implementation process, including:
+    - A mini demo training process for users to play around, which requires only 1.62GB of GPU memory and would possibly be achieved on a single consumer-grade GPU, with up to 10.3x growth in model capacity on one GPU.
+    - An open-source complete PyTorch-based ChatGPT equivalent implementation process.
+    - Compared to the original PyTorch, single-machine training process can be 7.73 times faster and single-GPU inference can be 1.42 times faster.
+    - GitHub Repo: https://github.com/hpcaitech/ColossalAI
+
+    I got the impression that the point of the article was to plug their [Colossal-AI](https://colossalai.org/) framework and product, a collection of parallel components, tools, and hardwares for large models. Frankly, their numbers do look suspicious to me, unless I've missed something.
+    What makes ChatGPT interesting (over GPT-3) is the RLHF process. They do claim to replicate RLHF process completely. But, the article touch lightly about their RLHF implementation. Their RLHF implementation details are hidden here: https://github.com/hpcaitech/ColossalAI/blob/main/applications/ChatGPT/README.md. Lack of demo doesn't inspire too much confidence though.
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
 
