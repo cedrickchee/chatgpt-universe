@@ -297,7 +297,7 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     - GitHub Repo: https://github.com/hpcaitech/ColossalAI
 
     I got the impression that the point of the article was to plug their [Colossal-AI](https://colossalai.org/) framework and product, a collection of parallel components, tools, and hardwares for large models. Frankly, their numbers do look suspicious to me, unless I've missed something.
-    What makes ChatGPT interesting (over GPT-3) is the RLHF process. They do claim to replicate RLHF process completely. But, the article touch lightly about their RLHF implementation. Their RLHF implementation details are hidden here: https://github.com/hpcaitech/ColossalAI/blob/main/applications/ChatGPT/README.md. Lack of demo doesn't inspire too much confidence though.
+    What makes ChatGPT interesting (over GPT-3) is the RLHF process. They do claim to replicate RLHF process completely. But, the article touch lightly about their RLHF implementation. They train RLHF using a small [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) as example dataset. Their RLHF implementation details are hidden here: https://github.com/hpcaitech/ColossalAI/blob/main/applications/ChatGPT. Lack of demo doesn't inspire too much confidence though.
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
 
