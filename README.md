@@ -146,6 +146,8 @@ Related Tweets:
 > Why does ChatGPT work so well? Is it "just scaling up GPT-3" under the hood? In this 🧵, let's discuss the "Instruct" paradigm, its deep technical insights, and a big implication: **"prompt engineering" as we know it may likely disappear soon**.
 > Source: https://archive.is/dqHI8
 
+Apparently in 2023, prompt programming is not dead. [The hottest new programming language is English ~ Karpathy](https://threadreaderapp.com/thread/1617979122625712128.html) :))
+
 ### Prompting Tools, Libraries, Frameworks
 
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
