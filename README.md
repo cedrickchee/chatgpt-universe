@@ -124,6 +124,8 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Programming AIs worry me](https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/)
 - [Text is All You Need: Personhood appears to be simpler than we thought](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Ignoring the balloons, the author guess we have our first significant, year-defining news of 2023 — the initial reactions of the Bing "Sydney" AI chatbot. This is a Copernican moment? A thought provoking essay. I think this is the first good "formal" take on the impact for our sense of selfhood resulting from the appearance of LLM based conversational systems like ChatGPT.
     > In brief, it appears that Sydney has somewhat different machinery under the hood than ChatGPT, and the transcripts suggests **a personality that is about the same in terms of coherence, but a wild leap beyond in terms of charisma and colorfulness**. Depending on how you push Sydney, it/they appears capable of playing everything from a mean manipulative teenager to a paranoid psychotic, to a stubborn and peremptory conversational martinet.
+- [CheatGPT](https://blog.humphd.org/cheatgpt/)
+    > "Dave, you're making assumptions.  Can you prove any of this?"  I can, actually, since some submissions that required screenshots also included ChatGPT browser tabs, which helpfully included the initial text of the prompt.  Apparently, it's not even something students feel they need to hide.
 
 ## Prompting (Prompt Programming[^5])*
 
