@@ -522,6 +522,7 @@ Mostly found in GitHub Gist:
 - Bloom from BigScience
 - Character AI
 - Jasper Chat
+- [Phind](https://phind.com/) - An "assistant" that simply tells users what the answer is. Optimized for developers and technical questions. Powered by proprietary LLMs (they use OpenAI API and their own models). It's strange that they market themself as search engine.
 
 Lightly based on [publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706) Tweet.
 
