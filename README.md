@@ -126,6 +126,7 @@ They build a chatbot that could use context from enterprise data to answer inter
     > In brief, it appears that Sydney has somewhat different machinery under the hood than ChatGPT, and the transcripts suggests **a personality that is about the same in terms of coherence, but a wild leap beyond in terms of charisma and colorfulness**. Depending on how you push Sydney, it/they appears capable of playing everything from a mean manipulative teenager to a paranoid psychotic, to a stubborn and peremptory conversational martinet.
 - [CheatGPT](https://blog.humphd.org/cheatgpt/)
     > "Dave, you're making assumptions.  Can you prove any of this?"  I can, actually, since some submissions that required screenshots also included ChatGPT browser tabs, which helpfully included the initial text of the prompt.  Apparently, it's not even something students feel they need to hide.
+- [OpenAI has privately announced a new developer product called Foundry (Tweet)](https://twitter.com/transitive_bs/status/1628118163874516992), which enables customers to run OpenAI model inference at scale with dedicated capacity. (GPT-3.5 Turbo appears to be referring to the ChatGPT Turbo model)
 
 ## Prompting (Prompt Programming[^5])*
 
