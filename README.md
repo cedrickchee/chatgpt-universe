@@ -150,6 +150,8 @@ Related Tweets:
 
 Apparently in 2023, prompt programming is not dead. [The hottest new programming language is English ~ Karpathy](https://threadreaderapp.com/thread/1617979122625712128.html) :))
 
+Simon Willison published [_In defense of prompt engineering_](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) as a counter to the "prompt engineering will be made obsolete as AIs get better" argument that he keep seeing.
+
 ### Prompting Tools, Libraries, Frameworks
 
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
