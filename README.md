@@ -307,6 +307,13 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     I got the impression that the point of the article was to plug their [Colossal-AI](https://colossalai.org/) framework and product, a collection of parallel components, tools, and hardwares for large models. Frankly, their numbers do look suspicious to me, unless I've missed something.
     What makes ChatGPT interesting (over GPT-3) is the RLHF process. They do claim to replicate RLHF process completely. But, the article touch lightly about their RLHF implementation. They train RLHF using a small [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) as example dataset. Their RLHF implementation details are hidden here: https://github.com/hpcaitech/ColossalAI/blob/main/applications/ChatGPT. Lack of demo doesn't inspire too much confidence though.
 - [FlexGen](https://github.com/Ying1123/FlexGen) - Running LLMs like OPT-175B/GPT-3 on a single GPU (e.g., a 16GB T4 or a 24GB RTX3090 gaming card). Key features: 1) up to 100x faster than other offloading systems. **2) Compress both the parameters and attention cache of models down to 4 bits with negligible accuracy loss.** 3) Distributed pipeline parallelism. They also provide a Python script and instructions that you can [run a chatbot with OPT models](https://github.com/Ying1123/FlexGen#run-chatbot-with-opt-models-on-a-single-gpu). This should solve the challenges of high computational and memory requirements of LLM inference. The chatbot they build with FlexGen and OPT models is not instruction-tuned (RLHF). So this chatbot is not ChatGPT-like though. [[Paper](https://github.com/FMInference/FlexGen/blob/0342e2a0e93593b2c11f84be0e9f5d5bcb73e598/docs/paper.pdf)]
+    - Runtime breakdown from their paper:
+        - Faster than DeepSpeed offloading (Table 2. Generation throughput on 1 GPU = 1.12 token/s (using 4-bit compression))
+    - FlexGen achieves super-linear scaling on decoding throughput (which only counts decoding time costs assuming the prefill is done). This means if we generate more tokens, pipeline parallelism will show its benefits as decoding time will dominate.
+    
+    Reviews (from Tweets):
+    - [How does it fair?](https://twitter.com/main_horse/status/1627862771609239552)
+    - [I have been successful in running OPT-66B](https://twitter.com/abacaj/status/1628252688562388995?s=20)
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
 
