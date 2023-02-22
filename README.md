@@ -153,10 +153,13 @@ Apparently in 2023, prompt programming is not dead. [The hottest new programming
 
 Simon Willison published [_In defense of prompt engineering_](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) as a counter to the "prompt engineering will be made obsolete as AIs get better" argument that he keep seeing.
 
-### Prompting Tools, Libraries, Frameworks
+### Prompting Resources
+
+Tools, libraries, frameworks, and learning resources.
 
 - [Prompt Engineering Guide by DAIR.AI](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering.
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
+- [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide (and framework) for learning to create ChatGPT3 Prompts.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
 - [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) is a tool for prompt engineers - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. Build prompts through trial and exploration.
 
