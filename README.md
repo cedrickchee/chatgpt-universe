@@ -129,6 +129,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [OpenAI has privately announced a new developer product called Foundry (Tweet)](https://twitter.com/transitive_bs/status/1628118163874516992), which enables customers to run OpenAI model inference at scale with dedicated capacity. (GPT-3.5 Turbo appears to be referring to the ChatGPT Turbo model)
 - [Don't believe ChatGPT - we do NOT offer a "phone lookup" service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
 - [My class required AI. Here's what I've learned so far](https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive)
+- [Emergent Deception and Emergent Optimization](https://bounded-regret.ghost.io/emergent-deception-optimization/) - Have you wonder why LLMs simply predicting the next word leads to planning abilities (like human-spoken words or novels/histories)? This piece on emergence in LLMs research try to address that question. The takeaways: there's two principles the author find useful for reasoning about future emergent capabilities: 1) capabilities that would lower training loss will likely emerge in the future. 2) as models get larger and are trained on more and better data, simple heuristics tend to get replaced by complex ones. Principle (1) means LLMs trained to predict words get lower loss if they can simulate planning abilities.
 
 ## Prompting (Prompt Programming[^5])*
 
