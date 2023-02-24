@@ -192,6 +192,8 @@ Tools, libraries, frameworks, and learning resources.
 - [ChatGPT vs Sparrow - Battle of Chatbots by "AI Coffee Break" with Letitia](https://www.youtube.com/watch?v=SWwQ3k-DWyo) - "Mom, I want a paper about ChatGPT. ChatGPT at home: [Sparrow from DeepMind](https://arxiv.org/abs/2209.14375) explained."
 - [ChatGPT - Explained](https://youtu.be/NpmnWgQgcsA) - A quick run through on the internal workings of ChatGPT and the fundamental concepts it lies on: Language Models, Transformer Neural Networks, GPT models and Reinforcement Learning.
 
+More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-course?uid=sHA&course=the-complete-chatgpt-course-) (I didn't curate this, so quality is not guaranteed)
+
 ### Tweets
 
 - [Are you wondering how large language models like ChatGPT and InstructGPT actually work? Let's dive into how it works in 8 tweets!](https://archive.vn/20221228120815/https://twitter.com/iScienceLuvr/status/1608070009921900546)
