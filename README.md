@@ -446,6 +446,34 @@ General technology for enabling AI capabilities with LLMs and generative AI mode
   > Enter "Structured Prompting": scale your examples from dozens => 1,000+
   > — [@mathemagic1an](https://twitter.com/mathemagic1an/status/1604802787296284674)
 
+## Emerging Software Development and Business Paradigm
+
+[Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)? [Software 3.0?](https://twitter.com/karpathy/status/1273788774422441984) Generative AI?
+
+(_Reflections on how best to think of the current state of software engineering, AI products, and pitfalls people tend to make with new tech._)
+
+It's very rare to see a new building block emerge in computing. Large AI models like ChatGPT represent a fundamentally new building block. By integrating large models into software, developers can expose functionality that wouldn't be possible otherwise. <!-- rephrase: LLMs are emerging as a transformative tech, enabling developers to build apps that they previously could not. -->
+This may be one of the biggest changes in software we've ever seen — a new type of software.
+
+Using LLMs in isolation is often not enough to create a powerful app — the real power comes when you are able to combine them with other sources of knowledge or computation.
+
+**Is Software 3.0 silly? worth the hype?**
+
+I don't know. I think of "Software 3.0" as:
+- a metaphor for the new trends in software development and large AI models
+- a different paradigm; companies leverage customer data to train their proprietary AI models and optimize product experiences and customers receive added value from the product.
+
+You say investment into generative AI companies is way too exuberant right now? <!-- someone estimated there are less than NNN people in the world right now who know how to effectively train billion+ parameter models with startup resources. --> <!-- someone predict: that will be a myth of the past and within the year, the knowledge will become accessible. -->
+[What's the big deal with Generative AI? Is it the future or the present?](https://txt.cohere.ai/generative-ai-future-or-present/)
+
+> 1- Recent AI developments are awe-inspiring and promise to change the world. But when?
+>
+> 2- Make a distinction between impressive 🍒 cherry-picked demos, and reliable use cases that are ready for the marketplace
+>
+> 3- Think of models as components of intelligent systems, not minds
+>
+> 4- Generative AI alone is only the tip of the iceberg
+
 ---
 
 ## Demos
