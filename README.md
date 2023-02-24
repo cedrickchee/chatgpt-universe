@@ -127,6 +127,8 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [CheatGPT](https://blog.humphd.org/cheatgpt/)
     > "Dave, you're making assumptions.  Can you prove any of this?"  I can, actually, since some submissions that required screenshots also included ChatGPT browser tabs, which helpfully included the initial text of the prompt.  Apparently, it's not even something students feel they need to hide.
 - [OpenAI has privately announced a new developer product called Foundry (Tweet)](https://twitter.com/transitive_bs/status/1628118163874516992), which enables customers to run OpenAI model inference at scale with dedicated capacity. (GPT-3.5 Turbo appears to be referring to the ChatGPT Turbo model)
+- [Don't believe ChatGPT - we do NOT offer a "phone lookup" service](https://blog.opencagedata.com/post/dont-believe-chatgpt)
+- [My class required AI. Here's what I've learned so far](https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive)
 
 ## Prompting (Prompt Programming[^5])*
 
