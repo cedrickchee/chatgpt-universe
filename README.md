@@ -133,6 +133,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [How to make LLMs say true things](https://evanjconrad.com/posts/world-models) - TL;DR: The method is using "World Model", an embeddings database filled with "beliefs" (chunks of declarative statements) with a confidence percentage that's computed using Bayes Theorem.
 - [Why China Didn't Invent ChatGPT](https://archive.is/y4JVk) - The NYT argues that excessive censorship, geopolitical tensions with the US, and attempts to control private sector companies have led to Chinese companies falling behind their US counterparts in AI.
 - [China's First ChatGPT-Like Chatbot MOSS Released For Public Testing](https://pandaily.com/chinas-first-chatgpt-like-chatbot-moss-released-for-public-testing/) [[Direct link to app](https://moss.fastnlp.top/)]
+- [For China, ChatGPT may be an advance but also an 'ethical problem'](https://archive.is/2dnQq) - China's science and tech minister says the chatbot has taken Chinese society by storm and has adopted measures on AI regarding ethics.
 
 ## Prompting (Prompt Programming[^5])*
 
