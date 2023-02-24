@@ -216,6 +216,7 @@ Tools, libraries, frameworks, and learning resources.
 - [WritingPrompts dataset](https://github.com/facebookresearch/fairseq/tree/main/examples/stories) by FAIR.
 - [Templates for FLAN (Finetuned Language Models are Zero-Shot Learners)](https://github.com/google-research/FLAN/blob/main/flan/templates.py)
 - [OpenAI human-feedback dataset on the Hugging Face Hub](https://huggingface.co/datasets/openai/summarize_from_feedback) - The dataset is from the "Learning to Summarize from Human Feedback" paper, where they trained an RLHF reward model for summarization.
+- [Stanford Human Preferences Dataset (SHP)](https://huggingface.co/datasets/stanfordnlp/SHP) - A collection of 385K _naturally occurring_ collective human preferences over text in 18 domains. SHP can be a great complement to Anthropic's HH-RLHF dataset. They also have finetuned and open-sourced two FLAN-T5 models on both datasets. [[Tweet from one of the author](https://twitter.com/ethayarajh/status/1628442002454085632)]
 - In OpenAI's papers on GPT-2 and GPT-3.x, they mentioned references to these datasets:
   - [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl)
     - Number of Tokens: 410 billion
