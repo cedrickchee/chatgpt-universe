@@ -415,6 +415,15 @@ AI alignment and AI interpretability.
 - [AI Alignment Forum](https://www.alignmentforum.org/) is a single online hub for researchers to discuss all ideas related to ensuring that transformatively powerful AIs are aligned with human values. Discussion ranges from technical models of agency to the strategic landscape, and everything in between.
 - [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest) by Maggie Appleton - Proving you're a human on a web flooded with generative AI content.
 - [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave/) by OpenAI.
+- [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond/) by OpenAI (2023) - <!-- AGI roadmap --> TL;DR:
+    - Short term:
+        - They are becoming increasingly cautious with the creation and deployment of their models.
+        - They will need to develop new alignment techniques as models become more powerful.
+    - Long term:
+        - The first AGI will be just a point along the continuum of intelligence.
+        - AI that accelerates science is a special case because it's possible AGI capable enough to accelerate its own progress and therefore expand the capability exponentially.
+    
+    If you care about how AGI will impact us all, you should read this.
 
 ### Tweets
 
