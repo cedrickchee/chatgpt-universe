@@ -171,6 +171,8 @@ Apparently in 2023, prompt programming is not dead. [The hottest new programming
 
 Simon Willison published [_In defense of prompt engineering_](https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/) as a counter to the "prompt engineering will be made obsolete as AIs get better" argument that he keep seeing.
 
+The newspaper is saying [AI whisperer ('Prompt engineers') is tech's hottest new job (2023)](https://archive.is/20230226214424/https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/).
+
 ### Prompting Resources
 
 Tools, libraries, frameworks, and learning resources.
