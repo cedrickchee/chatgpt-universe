@@ -309,6 +309,15 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
   
   More info, see the LAION LLM proposal (Google Doc) above.
   
+  **Progress:**
+  
+  - Feb 2023: [Joi-7B-instruct](https://huggingface.co/Rallio67/joi_7B_instruct_alpha) is an alpha 7B instruction tuned model based on pythia-6.9B-deduped. Model and weights are hosted on HuggingFace. Download script:
+  
+      ```python
+      from transformers import AutoModelForCausalLM
+      AutoModelForCausalLM.from_pretrained("Rallio67/joi_7B_instruct_alpha", device_map={'gpt_neox.embed_in': 0, 'gpt_neox.layers': 0, 'gpt_neox.final_layer_norm': 0, 'embed_out': 0}, torch_dtype=torch.float16)
+      ```
+
   _Note: Please see the GitHub repo for up-to-date info._
 
 - [CarperAI/TRLX](https://github.com/CarperAI/trlx)
