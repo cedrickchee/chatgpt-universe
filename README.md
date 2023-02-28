@@ -343,6 +343,7 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     Reviews (from Tweets):
     - [How does it fair?](https://twitter.com/main_horse/status/1627862771609239552)
     - [I have been successful in running OPT-66B](https://twitter.com/abacaj/status/1628252688562388995?s=20)
+- [ChatLLaMA](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama) - LLaMA-based ChatGPT-style **training process** implementation. The code represents the algorithmic implementation for RLHF training process that leverages [LLaMA](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)-based architectures and **does not contain the model weights**. This is NOT a ChatGPT-like product. Their RLHF implementation (actor critic trainer, actor-reward model) was inspired by [lucidrains's PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) implementation. You can also generate your own prompt dataset using LangChain's agents and prompt templates.
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
 
