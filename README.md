@@ -317,6 +317,7 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
       from transformers import AutoModelForCausalLM
       AutoModelForCausalLM.from_pretrained("Rallio67/joi_7B_instruct_alpha", device_map={'gpt_neox.embed_in': 0, 'gpt_neox.layers': 0, 'gpt_neox.final_layer_norm': 0, 'embed_out': 0}, torch_dtype=torch.float16)
       ```
+    [Chatty-LMS](https://huggingface.co/spaces/HuggingFaceH4/chatty-lms) build by HuggingFace H4 team - A UI for testing Joi-7B-instruct-alpha model. You can chat with it. The agent will reply as Joi (the [bot nickname](https://github.com/LAION-AI/Open-Assistant/blob/main/model/model_training/tools/model_chat.py#LL15C56-L15C56)). <!-- I guess the name is loosely inspired by a friendly fictional AI in the movies? -->
 
   _Note: Please see the GitHub repo for up-to-date info._
 
