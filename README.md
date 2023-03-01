@@ -269,10 +269,13 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 
 We want a ChatGPT alternative like Stable Diffusion.
 
+Frustrated by all the gatekeeping around AI? Still waiting or cannot get access to LLaMA? <!-- LLaMA is for research only and has a restrictive license (not for commercial use). AI is fundamentally entrenched in gatekeeping. Still remember Kaggle winners keeping their model to themselves? Unpopular opinon: until engineers can read and understand the latest research papers, we won't be there. -->
+
 **Goals**
 
 - Open source effort towards OpenAI's ChatGPT.
 - Reverse engineer and replicate ChatGPT models and training data.
+- Truly open models. 100% non-profit. 100% free.
 
 **Ultimate goal:** self-hosted version of ChatGPT.
 
