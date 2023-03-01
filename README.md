@@ -53,7 +53,7 @@ Example prompts.
 - [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - Use ChatGPT to generate PPT automatically.
 - [emailGPT](https://github.com/lucasmccabe/emailGPT) - A quick and easy interface to generate emails with ChatGPT.
 - [gptlang](https://github.com/forrestchang/gptlang) - An experiment to see if we can create a programming language in ChatGPT.
-- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (**RNN-based**) open language model.
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - Like ChatGPT but powered by the RWKV (**RNN-based**) open language model. [HuggingFace Space: [RWKV-4 (7B Instruct v2)](https://huggingface.co/spaces/Hazzzardous/RWKV-Instruct), [code](https://github.com/harrisonvanderbyl/rwkv_chatbot) (_their claim RNN with Transformer-level LLM performance is a lot better then I expected._)]
 - [GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3.
 - [Doc Search](https://github.com/namuan/dr-doc-search) - Explore documents (books, papers, legal docs) without limits. Converse with a book. Inspired by ["Book Whisperer" idea (Tweet)](https://twitter.com/abacaj/status/1608163940726358024). Open source alternative to [Filechat.io](https://www.filechat.io/).
 - [What if GPT had internal context on your business? (Tweet and video demo)](https://twitter.com/replit/status/1624433919843094534) - 
