@@ -521,6 +521,8 @@ You say investment into generative AI companies is way too exuberant right now? 
 >
 > 4- Generative AI alone is only the tip of the iceberg
 
+The current climate in AI is making some uncomfortable. Everyone is expecting as a sure thing "civilization-altering" impact (& 100x returns on investment) in the next 2-3 years. [^6]
+
 ---
 
 ## Demos
@@ -616,6 +618,7 @@ Lightly based on [publicly announced ChatGPT variants and competitors](https://t
 [^2]: https://github.com/Kamigami55/awesome-chatgpt
 [^3]: https://github.com/saharmor/awesome-chatgpt
 [^5]: In a [Reddit thread "The problem with prompt engineering"](https://r.nf/r/GPT3/comments/m177n2/the_problem_with_prompt_engineering/gqdr6de/?context=3) where Gwern (author) claims to be the origin of the term [prompt programing/prompt engineering](https://gwern.net/gpt-3#prompts-as-programming). His argument is reasonable and well written.
+[^6]: [François Chollet's Tweet](https://threadreaderapp.com/thread/1612142423425138688.html)
 
 ## License
 
