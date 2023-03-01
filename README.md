@@ -311,13 +311,18 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
   
   **Progress:**
   
-  - Feb 2023: [Joi-7B-instruct](https://huggingface.co/Rallio67/joi_7B_instruct_alpha) is an alpha 7B instruction tuned model based on pythia-6.9B-deduped. Model and weights are hosted on HuggingFace. Download script:
+  - Feb 2023: [Joi-20B-instruct](https://huggingface.co/Rallio67/joi_20B_instruct_alpha) is a 20B model fine-tuned on [a diverse set of instruction datasets](https://github.com/Rallio67/language-model-agents) and based on NeoX-20B.
   
-      ```python
-      from transformers import AutoModelForCausalLM
-      AutoModelForCausalLM.from_pretrained("Rallio67/joi_7B_instruct_alpha", device_map={'gpt_neox.embed_in': 0, 'gpt_neox.layers': 0, 'gpt_neox.final_layer_norm': 0, 'embed_out': 0}, torch_dtype=torch.float16)
-      ```
-    [Chatty-LMS](https://huggingface.co/spaces/HuggingFaceH4/chatty-lms) build by HuggingFace H4 team - A UI for testing Joi-7B-instruct-alpha model. You can chat with it. The agent will reply as Joi (the [bot nickname](https://github.com/LAION-AI/Open-Assistant/blob/main/model/model_training/tools/model_chat.py#LL15C56-L15C56)). <!-- I guess the name is loosely inspired by a friendly fictional AI in the movies? -->
+    _**Unofficial:** This is an early pre-release model (part of development of MVP, phase 1), not directly OpenAssistant (OA) models.
+  They are experiments by the ML team to learn what data, foundation model, methods will work well for OA.
+  As is stated in the website's FAQ, no demo yet.
+  This is for developers to test out early development version of instruction tuning for the model. Maybe first OA models will be derived from these.
+  They have been training good models on a rolling basis as new datasets get completed.
+  There are a variety of model sizes from 1.4B to 20B params available on the HF Hub._
+ 
+    [Chatty-LMS](https://huggingface.co/spaces/HuggingFaceH4/chatty-lms) build by HuggingFace H4 team - A UI for testing Joi-20B-instruct model. You can chat with it. The agent will reply as Joi (the [bot nickname](https://github.com/LAION-AI/Open-Assistant/blob/main/model/model_training/tools/model_chat.py#LL15C56-L15C56)). <!-- I guess the name is loosely inspired by a friendly fictional AI in the movies? -->
+
+    Example of code snippet to run the model on your own GPUs: https://gist.github.com/cedrickchee/236e53ed2dca95bd96e5baa35cdd7be2
 
   _Note: Please see the GitHub repo for up-to-date info._
 
