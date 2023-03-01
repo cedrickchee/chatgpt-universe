@@ -143,6 +143,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [China's First ChatGPT-Like Chatbot MOSS Released For Public Testing](https://pandaily.com/chinas-first-chatgpt-like-chatbot-moss-released-for-public-testing/) [[Direct link to app](https://moss.fastnlp.top/)]
 - [For China, ChatGPT may be an advance but also an 'ethical problem'](https://archive.is/2dnQq) - China's science and tech minister says the chatbot has taken Chinese society by storm and has adopted measures on AI regarding ethics.
 - [ChatGPT get-rich-quick schemes are coming for magazines, Amazon, and YouTube (2023)](https://www.semafor.com/article/02/24/2023/chatgpt-get-rich-quick-schemes-are-coming-for-magazines-amazon-and-youtube)
+- [Snapchat is releasing its own 'My AI' chatbot powered by ChatGPT](https://www.theverge.com/2023/2/27/23614959/snapchat-my-ai-chatbot-chatgpt-openai-plus-subscription)
 
 </details>
 
