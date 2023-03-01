@@ -198,6 +198,7 @@ Tools, libraries, frameworks, and learning resources.
 - [ChatGPT: Jack of all trades, master of none](https://arxiv.org/abs/2302.10724) by J.Kocoń et al., 2023 - The existing qualitative studies are tested on a very limited scale. Their work examined ChatGPT's capabilities on 25 diverse analytical NLP tasks. They **automated ChatGPT's querying process and analyzed more than 38k responses**. Interesting experimental setup: "without an official API, they modified and used an un-official API called [PyGPT](https://github.com/PawanOsman/PyGPT). During the research, they exploited up to 20 accounts to gather data regarding 25 datasets."
 - [ChatIE: Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205) by Beijing Jiaotong U et al., 2023
 - [On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095) by Microsoft Research et al., 2023.
+- [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173) by Kai Greshake et al., 2023 - Indirect prompt injection turn Bing Chat into a data pirate. By modifying a website that Bing Chat reads alongside a user, the chatbot is able to have its goals modified by that website, unbeknownst to the user. [[demo](https://greshake.github.io/)]
 
 ## Educational
 
