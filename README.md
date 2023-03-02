@@ -21,6 +21,10 @@ own modifications:
 - [ChatGPT launch blog post](https://openai.com/blog/chatgpt/)
 - [ChatGPT official app](https://chat.openai.com)
 - [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/) - a pilot subscription plan for ChatGPT.
+- [Official ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) - Developers can now integrate ChatGPT models into their apps and products through the API.
+    > Model: The ChatGPT model family we are releasing today, **`gpt-3.5-turbo`, is the same model used in the ChatGPT** product. It is **priced at $0.002 per 1k tokens, which is 10x cheaper than our existing GPT-3.5 models**.
+    >
+    > API: Traditionally, GPT models consume unstructured text, which is represented to the model as a sequence of “tokens.” ChatGPT models instead consume a sequence of messages together with metadata.
 
 ## ChatGPT Community / Discussion
 
