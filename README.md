@@ -63,6 +63,7 @@ Example prompts.
 - [What if GPT had internal context on your business? (Tweet and video demo)](https://twitter.com/replit/status/1624433919843094534) - 
 They build a chatbot that could use context from enterprise data to answer internal business queries. This project integrated LangChain (agent decides what tools to query once the chatbot receives a request) and GPT Index (load Snowflake DB). Interesting idea in knowledge management.
 - [cedrickchee/llama](https://github.com/cedrickchee/llama/blob/main/notebooks/vi_LLaMA_alpha.ipynb) - 7B LLaMA model works in Colab on single A100 GPU during inference (text generations). You can see the notebook for early test results for a range of model sizes and GPUs.
+    - [ChattyLlaMA](https://github.com/cedrickchee/llama/tree/main/chattyllama) - My LLaMA-based ChatGPT under heavy development.
 
 ## Blog Posts and Articles
 
