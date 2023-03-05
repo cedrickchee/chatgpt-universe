@@ -64,6 +64,7 @@ Example prompts.
 They build a chatbot that could use context from enterprise data to answer internal business queries. This project integrated LangChain (agent decides what tools to query once the chatbot receives a request) and GPT Index (load Snowflake DB). Interesting idea in knowledge management.
 - [cedrickchee/llama](https://github.com/cedrickchee/llama/blob/main/notebooks/vi_LLaMA_alpha.ipynb) - 7B LLaMA model works in Colab on single A100 GPU during inference (text generations). You can see the notebook for early test results for a range of model sizes and GPUs.
     - [ChattyLlaMA](https://github.com/cedrickchee/llama/tree/main/chattyllama) - My LLaMA-based ChatGPT under heavy development.
+- [Trying out Flan-UL2 20B](https://github.com/cedrickchee/data-science-notebooks/blob/master/notebooks/deep_learning/language_models/transformer/Flan-UL2-inference-demo.ipynb) - Code walkthrough by Sam Witteveen. This shows how you can get it running on 1x A100 40GB GPU with the HuggingFace library and using 8-bit inference. Samples of prompting: CoT, zeroshot (logical reasoning, story writing, common sense reasoning, speech writing). Lastly, testing large (2048) token input. Bonus: don't have A100? You can use the HuggingFace Inference API for UL2.
 
 ## Blog Posts and Articles
 
