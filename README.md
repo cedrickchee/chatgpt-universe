@@ -337,6 +337,8 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     [Chatty-LMS](https://huggingface.co/spaces/HuggingFaceH4/chatty-lms) build by HuggingFace H4 team - A UI for testing Joi-20B-instruct model. You can chat with it. The agent will reply as Joi (the [bot nickname](https://github.com/LAION-AI/Open-Assistant/blob/main/model/model_training/tools/model_chat.py#LL15C56-L15C56)). <!-- I guess the name is loosely inspired by a friendly fictional AI in the movies? -->
 
     Example of code snippet to run the model on your own GPUs: https://gist.github.com/cedrickchee/236e53ed2dca95bd96e5baa35cdd7be2
+    
+  - Mar 2023: They're currently processing the data collected from contributions. The data has over 100k messages, meaning millions of contributions. The quality of the data is beyond what they've ever expected — most of contributions are super high quality. Now, they are exporting the v1 of the dataset. As said, they are currently training the initial batch of models.
 
   _Note: Please see the GitHub repo for up-to-date info._
 
