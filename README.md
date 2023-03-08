@@ -161,8 +161,6 @@ They build a chatbot that could use context from enterprise data to answer inter
     
     100% this! I learned my lesson too in my LLaMA fork. My sampler settings were not optimal. The yammering is obvious and I've seen it. But I don't know why I didn't fix the sampler repetition penalty earlier.
 
-E.g. this is what happens when you don't have a repetition penalty:
-
 </details>
 
 ## Prompting (Prompt Programming[^5])*
