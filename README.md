@@ -160,6 +160,7 @@ They build a chatbot that could use context from enterprise data to answer inter
     > Turns out, that code sucks. I really don't want to be too harsh on them, since it's easy to underestimate just how important it is to get the default settings exactly right. But their defaults were all screwed up. They didn't use "Top K". They used Top P, which I never got good results from (either identical to top k or slightly worse). Their default temperature was 0.8, which was way too high. And worst of all, they didn't have a repetition penalty -- so by default, this thing would just yammer on and on about exactly the same thing.
     
     100% this! I learned my lesson too in my LLaMA fork. My sampler settings were not optimal. The yammering is obvious and I've seen it. But I don't know why I didn't fix the sampler repetition penalty earlier.
+- [ChatGPT Explained: A Normie's Guide To How It Works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies) - Even my grandparents can understand this. But nerd gonna nerd anyway :laughing:
 
 </details>
 
