@@ -151,6 +151,17 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [For China, ChatGPT may be an advance but also an 'ethical problem'](https://archive.is/2dnQq) - China's science and tech minister says the chatbot has taken Chinese society by storm and has adopted measures on AI regarding ethics.
 - [ChatGPT get-rich-quick schemes are coming for magazines, Amazon, and YouTube (2023)](https://www.semafor.com/article/02/24/2023/chatgpt-get-rich-quick-schemes-are-coming-for-magazines-amazon-and-youtube)
 - [Snapchat is releasing its own 'My AI' chatbot powered by ChatGPT](https://www.theverge.com/2023/2/27/23614959/snapchat-my-ai-chatbot-chatgpt-openai-plus-subscription)
+- [Meta's powerful AI language model LLaMA has leaked online — what happens now?](https://gist.github.com/shawwn/3c922299d61d1b4e0ac1cf870806e32e) - The transcript of Shawn Presser's interview for The Verge is more interesting.
+    > I think it's very likely that this model release will be a huge milestone.
+    > The ability to **run LLaMA on a single A100 GPU** — which "most of us either have access to ... or know someone that can let us use one for a bit” — is a “huge leap.”
+    
+    To be exact, you can run LLaMA-65B in int8 precision (bnb) on a single A100 80GB GPU.
+    
+    > Turns out, that code sucks. I really don't want to be too harsh on them, since it's easy to underestimate just how important it is to get the default settings exactly right. But their defaults were all screwed up. They didn't use "Top K". They used Top P, which I never got good results from (either identical to top k or slightly worse). Their default temperature was 0.8, which was way too high. And worst of all, they didn't have a repetition penalty -- so by default, this thing would just yammer on and on about exactly the same thing.
+    
+    100% this! I learned my lesson too in my LLaMA fork. My sampler settings were not optimal. The yammering is obvious and I've seen it. But I don't know why I didn't fix the sampler repetition penalty earlier.
+
+E.g. this is what happens when you don't have a repetition penalty:
 
 </details>
 
