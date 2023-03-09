@@ -391,8 +391,9 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     - [How does it fair?](https://twitter.com/main_horse/status/1627862771609239552)
     - [I have been successful in running OPT-66B](https://twitter.com/abacaj/status/1628252688562388995?s=20)
 - [ChatLLaMA](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama) - LLaMA-based ChatGPT-style **training process** implementation. The code represents the algorithmic implementation for RLHF training process that leverages [LLaMA](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)-based architectures and **does not contain the model weights**. This is NOT a ChatGPT-like product. Their RLHF implementation (actor critic trainer, actor-reward model) was inspired by [lucidrains's PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) implementation. You can also generate your own prompt dataset using LangChain's agents and prompt templates. (_They have removed their misleading ["15x faster training than ChatGPT" claim](https://github.com/nebuly-ai/nebullvm/commit/6c6c24f6e6317fb5214afadd28523e198549f75e). We don't know how fast ChatGPT trained. Many people debate the performance of that repo (based on what?). Another evidence of people talking about things they don't understand about in deep learning. We should stay grounded._)
+- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft) by HuggingFace - It is now possible using the integration of TRL with PEFT. The blog post explains how they achieve this step by step. (I wonder what 20B LLM are they using. The post could be better if they show fine-tuning LLaMA but they can't because of LLaMA licensing restrictions.)
 
-See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp#transformer-reinforcement-learning) for more info.
+See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) for more info.
 
 ## Browser Extensions
 
