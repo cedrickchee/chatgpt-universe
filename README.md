@@ -221,6 +221,7 @@ Tools, libraries, frameworks, and learning resources.
 - [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173) by Kai Greshake et al., 2023 - Indirect prompt injection turn Bing Chat into a data pirate. By modifying a website that Bing Chat reads alongside a user, the chatbot is able to have its goals modified by that website, unbeknownst to the user. [[demo](https://greshake.github.io/)]
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795) by NLLG, 2023 - A comprehensive investigation and discussion on public and academic views over ChatGPT based on 300K+ Tweets and 150+ papers.
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents) by Rajani et al., Hugging Face Blog, 2023.
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) by Microsoft Research Asia, 2023 - The group build a system integrating different visual models to allow the user to interact with ChatGPT by not only text but also images. [[demo (GIF)](https://github.com/microsoft/visual-chatgpt)]
 
 ## Educational
 
