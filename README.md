@@ -161,6 +161,8 @@ They build a chatbot that could use context from enterprise data to answer inter
     
     100% this! I learned my lesson too in my LLaMA fork. My sampler settings were not optimal. The yammering is obvious and I've seen it. But I don't know why I didn't fix the sampler repetition penalty earlier.
 - [ChatGPT Explained: A Normie's Guide To How It Works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies) - Even my grandparents can understand this. But nerd gonna nerd anyway :laughing:
+- [What should you use ChatGPT for?](https://vickiboykis.com/2023/02/26/what-should-you-use-chatgpt-for/)
+    > What is clear to me is that we are in a new paradigm for the way we navigate content, whether through this model or other ones that are released soon. Upon prompting, the new universe gives us results, but those results are more directional vibes than concrete answers. It is up to us to figure out how to direct them in ways that we want for the best results and navigate the noise.
 
 </details>
 
