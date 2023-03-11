@@ -357,7 +357,7 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     - 11 Mar 2023: [The Open Instruction Generalist (OIG) dataset](https://laion.ai/blog/oig-dataset/) will be releasing. OIG is a large open source instruction dataset that currently contains ~43M instructions.
         > OIG is one of many chatbot datasets that LAION, along with its volunteers, Ontocord, Together and other members of the open source community, will be releasing and is intended to create equal access to chatbot technology. Everyone is welcome to use the dataset and contribute improvements to it.
     
-    The OIG dataset related to LAION’s Open Assistant project.
+    The OIG dataset is related to LAION’s Open Assistant project.
 
   _Note: Please see the GitHub repo for up-to-date info._
 
@@ -396,6 +396,12 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     - [I have been successful in running OPT-66B](https://twitter.com/abacaj/status/1628252688562388995?s=20)
 - [ChatLLaMA](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama) - LLaMA-based ChatGPT-style **training process** implementation. The code represents the algorithmic implementation for RLHF training process that leverages [LLaMA](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)-based architectures and **does not contain the model weights**. This is NOT a ChatGPT-like product. Their RLHF implementation (actor critic trainer, actor-reward model) was inspired by [lucidrains's PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) implementation. You can also generate your own prompt dataset using LangChain's agents and prompt templates. (_They have removed their misleading ["15x faster training than ChatGPT" claim](https://github.com/nebuly-ai/nebullvm/commit/6c6c24f6e6317fb5214afadd28523e198549f75e). We don't know how fast ChatGPT trained. Many people debate the performance of that repo (based on what?). Another evidence of people talking about things they don't understand about in deep learning. We should stay grounded._)
 - [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft) by HuggingFace - It is now possible using the integration of TRL with PEFT. The blog post explains how they achieve this step by step. The base model is gpt-neox (I was hoping the show fine-tuning LLaMA. I think they can't because of LLaMA licensing restrictions.)
+- [OpenChatKit by Together Compute](https://www.together.xyz/blog/openchatkit) - Build your own ChatGPT. A powerful, open-source base to create chatbots for various applications. [Try](https://huggingface.co/spaces/togethercomputer/OpenChatKit). Much more than a model release. They are releasing a set of tools and processes for ongoing improvement. OpenChatKit includes 4 key components:
+    - An instruction-tuned LLM, fine-tuned for chat from EleutherAI's GPT-NeoX-20B with over 43M instructions on compute available under Apache-2.0 license on HuggingFace.
+    - A set of customization recipes to fine-tune the model to achieve high accuracy on your tasks documented and available as open-source on [GitHub](https://github.com/togethercomputer/OpenChatKit), along with code to recreate our model results.
+    - An extensible retrieval system enabling you to augment bot responses with information from a document repository, API, or other live-updating information source at inference time, with open-source examples for using Wikipedia or a web search API.
+    - A moderation model, fine-tuned from GPT-JT-6B, designed to filter which questions the bot responds to, also available on HuggingFace.
+    - They collaborated with the tremendous communities at LAION and friends to create the Open Instruction Generalist (OIG) 43M dataset used for these models.
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) for more info.
 
