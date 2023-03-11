@@ -354,6 +354,10 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     Example of code snippet to run the model on your own GPUs: https://gist.github.com/cedrickchee/236e53ed2dca95bd96e5baa35cdd7be2
     
   - Mar 2023: They're currently processing the data collected from contributions. The data has over 100k messages, meaning millions of contributions. The quality of the data is beyond what they've ever expected — most of contributions are super high quality. Now, they are exporting the v1 of the dataset. As said, they are currently training the initial batch of models.
+    - 11 Mar 2023: [The Open Instruction Generalist (OIG) dataset](https://laion.ai/blog/oig-dataset/) will be releasing. OIG is a large open source instruction dataset that currently contains ~43M instructions.
+        > OIG is one of many chatbot datasets that LAION, along with its volunteers, Ontocord, Together and other members of the open source community, will be releasing and is intended to create equal access to chatbot technology. Everyone is welcome to use the dataset and contribute improvements to it.
+    
+    The OIG dataset related to LAION’s Open Assistant project.
 
   _Note: Please see the GitHub repo for up-to-date info._
 
