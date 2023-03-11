@@ -639,6 +639,7 @@ Mostly found in GitHub Gist:
 
 ### ChatGPT Alternatives
 
+- [Anthropic's Claude](https://www.anthropic.com/earlyaccess) - Overall, Claude is a serious competitor to ChatGPT, with improvements in many areas. [[review by Riley Goodside et al.](https://scale.com/blog/chatgpt-vs-claude), [my short analysis](https://twitter.com/cedric_chee/status/1633764765700091904)]
 - [Perplexity](https://www.perplexity.ai/) - A new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
 - Bart from Google
 - Sparrow from DeepMind
