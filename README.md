@@ -222,6 +222,7 @@ Tools, libraries, frameworks, and learning resources.
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795) by NLLG, 2023 - A comprehensive investigation and discussion on public and academic views over ChatGPT based on 300K+ Tweets and 150+ papers.
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents) by Rajani et al., Hugging Face Blog, 2023.
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) by Microsoft Research Asia, 2023 - The group build a system integrating different visual models to allow the user to interact with ChatGPT by not only text but also images. [[demo (GIF)](https://github.com/microsoft/visual-chatgpt)]
+- [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) by U of Georgia et al., 2023 - A text data augmentation approach based on ChatGPT. ChatAug rephrases each sentence in the training samples into multiple conceptually similar but semantically different samples. The augmented samples can then be used in downstream model training. (Hmm, now I wonder why OpenAssistant avoid this idea earlier)
 
 ## Educational
 
