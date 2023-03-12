@@ -164,6 +164,16 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [ChatGPT Explained: A Normie's Guide To How It Works](https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies) - Even my grandparents can understand this. But nerd gonna nerd anyway :laughing:
 - [What should you use ChatGPT for?](https://vickiboykis.com/2023/02/26/what-should-you-use-chatgpt-for/)
     > What is clear to me is that we are in a new paradigm for the way we navigate content, whether through this model or other ones that are released soon. Upon prompting, the new universe gives us results, but those results are more directional vibes than concrete answers. It is up to us to figure out how to direct them in ways that we want for the best results and navigate the noise.
+- [Large language models are having their Stable Diffusion moment (simonwillison.net)](https://simonwillison.net/2023/Mar/11/llama/)
+    > This all changed yesterday, thanks to the combination of Facebook’s LLaMA model and llama.cpp by Georgi Gerganov.
+    
+    > (1) Easy to run on my own hardware
+    >
+    > (2) Open source enough that they can be tinkered with
+    >
+    > (3) Large enough to be useful—ideally equivalent in capabilities to GPT-3
+    
+    It's not the perfect moment. We've achieved 1 and 3 except 2. LLaMA is NOT actually open source (while the license for the code is GPL 3, the model weights are not). Truly open models really matter.
 
 </details>
 
