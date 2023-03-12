@@ -175,6 +175,7 @@ They build a chatbot that could use context from enterprise data to answer inter
     
     It's not the perfect moment. We've achieved 1 and 3 except 2. LLaMA is NOT actually open source (while the license for the code is GPL 3, the model weights are not). Truly open models really matter.
 - [As GPT-4 chatter resumes, deep learning pioneer Yoshua Bengio says ChatGPT is a 'wake-up call'](https://web.archive.org/web/20230311171353/https://venturebeat.com/ai/as-gpt-4-chatter-resumes-yoshua-bengio-says-chatgpt-is-a-wake-up-call/) - The wake up call was GPT-3 and scaling laws in 2021. It's just the alarm clock got louder now.
+- [ChatGPT's API is So Good and Cheap, It Makes Most Text Generating AI Obsolete](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
 
 </details>
 
