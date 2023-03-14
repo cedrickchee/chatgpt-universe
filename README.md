@@ -25,6 +25,7 @@ own modifications:
     > Model: The ChatGPT model family we are releasing today, **`gpt-3.5-turbo`, is the same model used in the ChatGPT** product. It is **priced at $0.002 per 1k tokens, which is 10x cheaper than our existing GPT-3.5 models**.
     >
     > API: Traditionally, GPT models consume unstructured text, which is represented to the model as a sequence of “tokens.” ChatGPT models instead consume a sequence of messages together with metadata.
+- [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses](https://openai.com/product/gpt-4)
 
 ## ChatGPT Community / Discussion
 
