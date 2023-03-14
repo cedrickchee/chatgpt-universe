@@ -271,6 +271,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [safer-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to ChatGPT.
 - [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
 - [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
+- [Evals](https://github.com/openai/evals) is a framework for evaluating OpenAI models performance and an open-source registry of benchmarks. It allows anyone to report shortcomings in OpenAI models to help guide further improvements.
 
 ### Training Data
 
