@@ -639,6 +639,7 @@ Demos[^3] and examples in the form of tweets:
 2. [The best ways to use ChatGPT. 8 ways ChatGPT can save you thousands of hours in 2023](https://archive.ph/G3Ak3)
 3. [Everyone’s using ChatGPT. Almost everyone's STUCK in beginner mode. 10 techniques to get massively ahead with AI (cut-and-paste these prompts)](https://threadreaderapp.com/thread/1610316022174683136.html)
 4. [David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set](https://twitter.com/davidguetta/status/1621605376733872129)
+5. [A thread about GPT-4, highlighting some of the interesting examples, tricks, and discussions](https://archive.is/nEXi8)
 
 </details>
 
