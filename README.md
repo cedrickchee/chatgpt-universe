@@ -180,6 +180,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Confirmed: the new Bing runs on OpenAI’s GPT-4](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) - Bing Chat (Sydney) was GPT-4 all along.
 - [Wikipedia](https://en.wikipedia.org/wiki/GPT-4) - A good run down of GPT-4.
 - [The Multi-modal, Multi-model, Multi-everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4) - GPT-4 recap.
+- [Can GPT-4 *Actually* Write Code?](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code) - Testing GPT 4's code-writing capabilities with some actual real world problems.
 
 </details>
 
