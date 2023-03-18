@@ -644,6 +644,7 @@ Demos[^3] and examples in the form of tweets:
 4. [David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set](https://twitter.com/davidguetta/status/1621605376733872129)
 5. [A thread about GPT-4, highlighting some of the interesting examples, tricks, and discussions](https://archive.is/nEXi8)
 6. [All the best examples of GPT-4](https://archive.is/G79Me)
+7. [A token-smuggling jailbreak for ChatGPT-4](https://threadreaderapp.com/thread/1636488551817965568.html)
 
 </details>
 
