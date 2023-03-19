@@ -181,6 +181,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Wikipedia](https://en.wikipedia.org/wiki/GPT-4) - A good run down of GPT-4.
 - [The Multi-modal, Multi-model, Multi-everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4) - GPT-4 recap.
 - [Can GPT-4 *Actually* Write Code?](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code) - Testing GPT 4's code-writing capabilities with some actual real world problems.
+- [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 
 </details>
 
