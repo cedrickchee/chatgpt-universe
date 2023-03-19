@@ -180,6 +180,8 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Confirmed: the new Bing runs on OpenAI’s GPT-4](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) - Bing Chat (Sydney) was GPT-4 all along.
 - [Wikipedia](https://en.wikipedia.org/wiki/GPT-4) - A good run down of GPT-4.
 - [The Multi-modal, Multi-model, Multi-everything Future of AGI](https://lspace.swyx.io/p/multimodal-gpt4) - GPT-4 recap.
+- [Can GPT-4 *Actually* Write Code?](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code) - Testing GPT 4's code-writing capabilities with some actual real world problems.
+- [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 
 </details>
 
@@ -646,6 +648,7 @@ Demos[^3] and examples in the form of tweets:
 4. [David Guetta uses ChatGPT and uberduck.ai to deepfake Eminem rap for DJ set](https://twitter.com/davidguetta/status/1621605376733872129)
 5. [A thread about GPT-4, highlighting some of the interesting examples, tricks, and discussions](https://archive.is/nEXi8)
 6. [All the best examples of GPT-4](https://archive.is/G79Me)
+7. [A token-smuggling jailbreak for ChatGPT-4](https://threadreaderapp.com/thread/1636488551817965568.html)
 
 </details>
 
