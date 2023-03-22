@@ -478,6 +478,7 @@ Use ChatGPT anywhere.
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Voice-based chatGPT.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - A CLI productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
 - [AI Files](https://github.com/jjuliano/aifiles) - A CLI that helps you organize and manage your files using GPT-3: auto add tag to the file, auto create directories based on the file content, etc. Be cautious when sharing personal info though.
+- [Chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT.
 
 ### Editors and IDEs
 
