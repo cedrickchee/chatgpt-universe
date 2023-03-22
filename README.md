@@ -540,6 +540,7 @@ AI alignment and AI interpretability.
         - AI that accelerates science is a special case because it's possible AGI capable enough to accelerate its own progress and therefore expand the capability exponentially.
     
     If you care about how AGI will impact us all, you should read this.
+- [Software Complexity Is Why AI Won't Replace Software Engineers](https://softwarecomplexity.com/why-ai-wont-replace-software-engineers)
 
 ### Tweets
 
