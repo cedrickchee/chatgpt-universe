@@ -455,6 +455,7 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
   - [Alpaca Native](https://huggingface.co/chavinlo/alpaca-native) model weights - The model was fine-tuned using the original repository: https://github.com/tatsu-lab/stanford_alpaca (no LoRA has been used). [HuggingFace Transformers inference (code and quick start guide)](https://gist.github.com/cedrickchee/3be95c8ab9f38132382737783bd5d55e).
   - [Train and run Stanford Alpaca on your own machine](https://replicate.com/blog/replicate-alpaca) - The Replicate team have repeated the training process and published a tutorial about how they did it. It cost less than $100.
   - [Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) - Alpaca-LoRA as a chatbot service. The easiest way to run this project is to use Colab. With the standard GPU instance(T4), you can run 7B and 13B models. With the premium GPU instance (A100 40GB), you can even run 30B model.
+  - [ChatLLaMA](https://github.com/basetenlabs/alpaca-7b-truss) by Baseten - A ChatGPT style chatbot for Alpaca-7B, a fine-tuned variant of Llama-7B.
 - [A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt), group by model and tags (B: bare, M: mildly bare, F: full, C: complicated).
 
 See [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) for more info.
