@@ -281,6 +281,10 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [Evals](https://github.com/openai/evals) is a framework for evaluating OpenAI models performance and an open-source registry of benchmarks. It allows anyone to report shortcomings in OpenAI models to help guide further improvements.
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 
+### Blog Posts and Articles
+
+- [Building a Chatbot using a Local Knowledge Base, ChatGPT and Pinecone](https://medium.com/@venkat.ramrao/building-a-chatbot-using-a-local-knowledge-base-chatgpt-and-pinecone-d107745a472a)
+
 ### Training Data
 
 - [LAION LLM](https://docs.google.com/document/d/14KY2_DVye-dv4y-38sVw5ZOUhD4Lc9ft9_1hF5PlZ2A/edit) - Gathering Data for, training and sharing of a LAION Large Language Models (LLLM). The group is still writing a tech proposal of FlanT5-Atlas architecture (or poor man's ChatGPT@Home).
