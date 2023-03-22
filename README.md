@@ -560,6 +560,9 @@ AI alignment and AI interpretability.
 
 [News covering to that Tweet](https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/).
 
+John Carmack answering questions about Computer Science (Software Engineering) career from a concerned student:
+> Build full "product skills" and use the best tools for the job, which today might be hand coding, but later might be AI guiding you, you will probably be fine — [Tweet](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
+
 ### Applications and Tools
 
 - GPT-2 Output Detector [[code](https://github.com/openai/gpt-2-output-dataset/tree/master/detector)] [[demo](https://huggingface.co/openai-detector/)]
