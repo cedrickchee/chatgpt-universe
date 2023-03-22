@@ -183,10 +183,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Can GPT-4 *Actually* Write Code?](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code) - Testing GPT 4's code-writing capabilities with some actual real world problems.
 - [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 - [Try Bard and share your feedback](https://blog.google/technology/ai/try-bard/) - Google starting to open access to Bard, an early experiment that lets you collaborate with generative AI. They're beginning with the U.S. and the U.K., and will expand to more countries and languages over time.
-
-Today we're starting to open up access to Bard, our early experiment that lets you collaborate with generative AI. You can use Bard to boost your productivity, accelerate your ideas and fuel your curiosity. Learn more, including how to sign up ↓
-
-Google releases Bard to a limited number of users in the US and UK
+- [Google’s Bard lags behind GPT-4 and Claude in head-to-head comparison](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
 
 </details>
 
