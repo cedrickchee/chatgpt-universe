@@ -290,7 +290,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 
 - [safer-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to ChatGPT.
 - [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
-- [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
+- [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability. [[Good tutorials on LangChain Agents - Joining Tools and Chains with Decisions by Sam Witteveen (video)](https://www.youtube.com/watch?v=ziu87EXZVUE)]
 - [Evals](https://github.com/openai/evals) is a framework for evaluating OpenAI models performance and an open-source registry of benchmarks. It allows anyone to report shortcomings in OpenAI models to help guide further improvements.
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
