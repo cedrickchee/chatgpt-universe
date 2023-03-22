@@ -195,6 +195,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 We need a benchmarks or some sort of independent and human evaluations of **real world tasks**.
 
 - [How good are AI “Answering Engines” really?](https://blog.kagi.com/kagi-ai-search#aitest) - A little bias towards Kagi.
+- [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 
 ## Prompting (Prompt Programming[^5])*
 
