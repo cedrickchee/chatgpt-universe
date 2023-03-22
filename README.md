@@ -570,7 +570,19 @@ John Carmack answering questions about Computer Science (Software Engineering) c
 >
 > Some good directions IMO (no training): prompting, evals, LM interfaces, safety, understanding LMs, emergence
 > 
-> — [Jason Wei (Tweet)](https://twitter.com/_jasonwei/status/1636436324139028481)
+> — [Jason Wei](https://twitter.com/_jasonwei/status/1636436324139028481)
+
+> GPT-4 has been out for 72 hours, and it could change the world! Here are some amazing and important things it **can't** do (yet):
+>
+> 1. Solve global warming, 2. Cure cancer or infectious diseases, 3. Alleviate the mental health crisis, 4. Close the information and education gap, 5. End war and strife, and many more.
+>
+> — [Graham Neubig](https://twitter.com/gneubig/status/1636712054123024384)
+
+> Stop saying: AI will replace humans.
+>
+> Start saying: humans who know how to use AI at work will replace those who don’t.
+>
+> — [Jim Fan](https://twitter.com/DrJimFan/status/1636021710062505987)
 
 ### Applications and Tools
 
