@@ -294,6 +294,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [Evals](https://github.com/openai/evals) is a framework for evaluating OpenAI models performance and an open-source registry of benchmarks. It allows anyone to report shortcomings in OpenAI models to help guide further improvements.
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
+- [Semantic Kernel (SK)](https://github.com/microsoft/semantic-kernel) by Microsoft - Integrate cutting-edge LLM technology quickly and easily into your apps. SK supports prompt templating, function chaining, vectorized memory, and intelligent planning capabilities out of the box.
 
 ### Blog Posts and Articles
 
