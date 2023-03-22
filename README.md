@@ -189,6 +189,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
 - [Try Bard and share your feedback](https://blog.google/technology/ai/try-bard/) - Google starting to open access to Bard, an early experiment that lets you collaborate with generative AI. They're beginning with the U.S. and the U.K., and will expand to more countries and languages over time.
 - [Google’s Bard lags behind GPT-4 and Claude in head-to-head comparison](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
+- [NVIDIA Brings Generative AI to World's Enterprises With Cloud Services for Creating Large Language and Visual Models](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models) - NVIDIA AI Foundations is NVIDIA going beyond a pure hardware provider and into software supporting Generative AI with their offerings for every workload, from foundation model as a service (coming to enterprise, customized for your proprietary data) to multimodal from day 1.
 
 </details>
 
