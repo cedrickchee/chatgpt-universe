@@ -233,6 +233,7 @@ Tools, libraries, frameworks, and learning resources.
 - [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide (and framework) for learning to create ChatGPT3 Prompts.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
 - [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) is a tool for prompt engineers - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. Build prompts through trial and exploration.
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) by Lilian Weng - aka. in-context prompting, refers to methods for how to communicate with LLM to **steer its behavior** for desired outcomes **without updating the model weights**.
 
 (_* Prompt engineering term was renamed to prompting. The term is overloaded and might be unnecessary._)
 
