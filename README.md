@@ -278,6 +278,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
 - [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability.
 - [Evals](https://github.com/openai/evals) is a framework for evaluating OpenAI models performance and an open-source registry of benchmarks. It allows anyone to report shortcomings in OpenAI models to help guide further improvements.
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 
 ### Training Data
 
