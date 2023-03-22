@@ -188,6 +188,12 @@ They build a chatbot that could use context from enterprise data to answer inter
 
 </details>
 
+## Comparison on real world tasks, benchmarks
+
+We need a benchmarks or some sort of independent and human evaluations of **real world tasks**.
+
+- [How good are AI “Answering Engines” really?](https://blog.kagi.com/kagi-ai-search#aitest) - A little bias towards Kagi.
+
 ## Prompting (Prompt Programming[^5])*
 
 According to Gwern:
