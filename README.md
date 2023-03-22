@@ -564,6 +564,14 @@ AI alignment and AI interpretability.
 John Carmack answering questions about Computer Science (Software Engineering) career from a concerned student:
 > Build full "product skills" and use the best tools for the job, which today might be hand coding, but later might be AI guiding you, you will probably be fine — [Tweet](https://twitter.com/ID_AA_Carmack/status/1637087219591659520)
 
+> I’m hearing chatter of PhD students not knowing what to work on.
+>
+> My take: as LLMs are deployed IRL, the importance of studying how to use them will increase.
+>
+> Some good directions IMO (no training): prompting, evals, LM interfaces, safety, understanding LMs, emergence
+> 
+> — [Jason Wei (Tweet)](https://twitter.com/_jasonwei/status/1636436324139028481)
+
 ### Applications and Tools
 
 - GPT-2 Output Detector [[code](https://github.com/openai/gpt-2-output-dataset/tree/master/detector)] [[demo](https://huggingface.co/openai-detector/)]
