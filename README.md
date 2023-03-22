@@ -186,6 +186,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Could you train a ChatGPT-beating model for $85,000 and run it in a browser?](https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/)
 - [GPT4: The quiet parts and the state of ML](https://robotic.substack.com/p/gpt4-review)
 - [GPT-4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code)
+- [The Unpredictable Abilities Emerging From Large AI Models](https://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/)
 - [Try Bard and share your feedback](https://blog.google/technology/ai/try-bard/) - Google starting to open access to Bard, an early experiment that lets you collaborate with generative AI. They're beginning with the U.S. and the U.K., and will expand to more countries and languages over time.
 - [Google’s Bard lags behind GPT-4 and Claude in head-to-head comparison](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
 
