@@ -402,7 +402,9 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     - 11 Mar 2023: [The Open Instruction Generalist (OIG) dataset](https://laion.ai/blog/oig-dataset/) will be releasing. OIG is a large open source instruction dataset that currently contains ~43M instructions.
         > OIG is one of many chatbot datasets that LAION, along with its volunteers, Ontocord, Together and other members of the open source community, will be releasing and is intended to create equal access to chatbot technology. Everyone is welcome to use the dataset and contribute improvements to it.
     
-    The OIG dataset is related to LAION’s Open Assistant project.
+        The OIG dataset is related to LAION’s Open Assistant project.
+    
+    - 9 Mar 2023: [Open-Assistant SFT-1 12B Model](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) - This is the first iteration English supervised-fine-tuning (SFT) model of the Open-Assistant project. It is based on a Pythia 12B that was fine-tuned on ~22k human demonstrations of assistant conversations collected before March 7, 2023. Try: [HuggingFace Spaces](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
 
   _Note: Please see the GitHub repo for up-to-date info._
 
