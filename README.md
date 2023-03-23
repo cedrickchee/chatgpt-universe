@@ -404,7 +404,13 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     
         The OIG dataset is related to LAION’s Open Assistant project.
     
-    - 9 Mar 2023: [Open-Assistant SFT-1 12B Model](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) - Early prototype of English supervised-fine-tuning (SFT) model of the Open-Assistant project. It is based on a Pythia 12B that was fine-tuned on ~22k human demonstrations of assistant conversations collected before March 7, 2023. Although the model is only a development milestone, it's usable for a few creative tasks. Try: [HuggingFace Space (easy and fast, unoffial chatbot UI)](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming), [Google Collab](https://colab.research.google.com/drive/15u61MVxF4vFtW2N9eCKnNwPvhg018UX7?usp=sharing)
+    - 9 Mar 2023: [Open-Assistant SFT-1 12B Model](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) - Early prototype of English supervised-fine-tuning (SFT) model of the Open-Assistant project. It is based on a Pythia 12B that was fine-tuned on ~22k human demonstrations of assistant conversations collected before March 7, 2023. Although the model is only a development milestone, it's usable for a few creative tasks. Try: [HuggingFace Space (easy and fast, unoffial chatbot UI)](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming), [Google Collab](https://colab.research.google.com/drive/15u61MVxF4vFtW2N9eCKnNwPvhg018UX7?usp=sharing). Here's a guide on [how to run the model locally on your own computer with a GPU](https://r.nf/r/OpenAssistant/comments/11x0bar/heres_a_guide_on_how_to_run_the_early/).
+
+    - 23 Mar 2023: This project is starting to shape up nicely. Model is coming along.
+        - Open-Assistant SFT-1 12B model can code. Looks interesting and interesting, if we [compare it against GPT-3.5](https://r.nf/r/OpenAssistant/comments/11yj96g/oasstsft1pythia12b_first_image_vs_gpt_35_second/).
+        - We even have [an unofficial Reddit bot live on `/r/ask_open_assistant`](https://r.nf/r/OpenAssistant/comments/11vrs9u/openassistant_bot_is_live_on_reddit/). [Code](https://github.com/pixiegirl417/reddit-open-assistant-bot)
+
+  - [Subreddit](https://r.nf/r/OpenAssistant)
 
   _Note: Please see the GitHub repo for up-to-date info._
 
