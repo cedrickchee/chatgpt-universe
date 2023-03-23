@@ -404,7 +404,7 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     
         The OIG dataset is related to LAION’s Open Assistant project.
     
-    - 9 Mar 2023: [Open-Assistant SFT-1 12B Model](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) - This is the first iteration English supervised-fine-tuning (SFT) model of the Open-Assistant project. It is based on a Pythia 12B that was fine-tuned on ~22k human demonstrations of assistant conversations collected before March 7, 2023. Try: [HuggingFace Spaces](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming)
+    - 9 Mar 2023: [Open-Assistant SFT-1 12B Model](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b) - Early prototype of English supervised-fine-tuning (SFT) model of the Open-Assistant project. It is based on a Pythia 12B that was fine-tuned on ~22k human demonstrations of assistant conversations collected before March 7, 2023. Although the model is only a development milestone, it's usable for a few creative tasks. Try: [HuggingFace Space (easy and fast, unoffial chatbot UI)](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming), [Google Collab](https://colab.research.google.com/drive/15u61MVxF4vFtW2N9eCKnNwPvhg018UX7?usp=sharing)
 
   _Note: Please see the GitHub repo for up-to-date info._
 
