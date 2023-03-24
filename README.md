@@ -481,6 +481,7 @@ Use ChatGPT anywhere.
 - [WebChatGPT](https://github.com/qunash/chatgpt-advanced) - ChatGPT with Internet access. A browser extension (Chrome and Firefos) that augments your ChatGPT prompts with relevant search results from the Web. (Remember, ChatGPT cannot access the Web and has limited knowledge of the world after 2021)
 - [XP1](https://xp1.dust.tt/) - GPT-based Assistant with access to your Tabs.
 - [ExtractGPT](https://airtable.com/shruPamX8OWa5tqdp) - A browser extension for scraping data from structured & unstructured pages.
+- [ChatGPT for Twitter](https://chrome.google.com/webstore/detail/chatgpt-for-twitter/ihabhmefjiipbmppmjoleclimdeompdc) - Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions.
 
 ## Access ChatGPT From Other Platforms
 
@@ -521,6 +522,7 @@ Web applications.
 - [The search engine for developers](https://beta.sayhello.so/), powered by large, proprietary AI language models.
 - [GPTDuck](https://www.gptduck.com/) – Ask questions about any GitHub repo.
 - [LLM Garden](https://github.com/ianb/llm-garden) - A number of experiments using GPT-3, delivered in a web app.
+- [Epic Music Quiz](https://epicmusicquiz.com) - A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions.
 
 Desktop applications.
 
