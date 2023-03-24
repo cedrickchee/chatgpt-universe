@@ -297,6 +297,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
 - [Semantic Kernel (SK)](https://github.com/microsoft/semantic-kernel) by Microsoft - Integrate cutting-edge LLM technology quickly and easily into your apps. SK supports prompt templating, function chaining, vectorized memory, and intelligent planning capabilities out of the box.
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 
 ### Blog Posts and Articles
 
