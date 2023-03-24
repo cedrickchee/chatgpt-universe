@@ -26,6 +26,7 @@ own modifications:
     >
     > API: Traditionally, GPT models consume unstructured text, which is represented to the model as a sequence of “tokens.” ChatGPT models instead consume a sequence of messages together with metadata.
 - [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses](https://openai.com/product/gpt-4)
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) - Initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services. (Chatbots are having their App Store moment)
 
 ## ChatGPT Community / Discussion
 
