@@ -281,7 +281,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 
 ## Development
 
-AI-native applications development. ChatGPT integration.
+AI-native applications development. ChatGPT integration. Next generation AI applications.
 "App Store" layer for language models (including HuggingFace "App Store").
 
 ### Unofficial API and SDK.
@@ -306,6 +306,21 @@ AI-native applications development. ChatGPT integration.
 
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT-4 & LangChain chatbot for large PDF docs.
+
+### Retrieval Systems
+
+Retrieval systems to access personal or organizational information sources.
+Embeddings.
+Database and data store designed for machine learning models and NLP.
+
+- [OpenAI embeddings](https://platform.openai.com/docs/guides/embeddings) - OpenAI’s text embeddings measure the relatedness of text strings.
+
+**Vector databases for indexing and searching documents**
+
+- [Pinecone](https://www.pinecone.io/)
+- [Milvus](https://github.com/milvus-io/milvus) - An open-source vector database built to power embedding similarity search and AI applications.
+- [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine and database.  It makes it useful for all sorts of neural-network or semantic-based matching, faceted search, and other applications. Embeddings or neural network encoders can be turned into full-fledged applications.
+- [Weaviate](https://github.com/weaviate/weaviate) - an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 
 ### Blog Posts and Articles
 
