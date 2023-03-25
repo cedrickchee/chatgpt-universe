@@ -489,13 +489,15 @@ Use ChatGPT anywhere.
 
 ## Access ChatGPT From Other Platforms
 
-### Bots
+## Bots
 
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command.
 - [Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT.
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot) - A GitHub App. Type `/chatgpt` to chat with ChatGPTBot.
 - [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate your own Discord bot using chatGPT.
+
+## ChatGPT Plugins
 
 ## Tools
 
