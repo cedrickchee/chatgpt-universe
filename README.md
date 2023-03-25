@@ -511,7 +511,7 @@ Use ChatGPT anywhere.
 
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) - Run ChatGPT through Raycast extension.
 - [Google Docs](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
-- [GPT Index](https://gpt-index.readthedocs.io/en/latest/guides/primer.html) contains a toolkit of index data structures designed to easily connect LLM's with your external data.
+- [LlamaIndex (GPT Index)](https://gpt-index.readthedocs.io/en/latest/guides/primer.html) contains a toolkit of index data structures designed to easily connect LLM's with your external data. [Code](https://github.com/jerryjliu/gpt_index)
 
 ## Applications
 
