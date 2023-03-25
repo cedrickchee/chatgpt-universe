@@ -326,6 +326,7 @@ Database and data store designed for machine learning models and NLP.
 ### Blog Posts and Articles
 
 - [Building a Chatbot using a Local Knowledge Base, ChatGPT and Pinecone](https://medium.com/@venkat.ramrao/building-a-chatbot-using-a-local-knowledge-base-chatgpt-and-pinecone-d107745a472a)
+- [I built a ChatGPT plugin to answer questions about data hosted in Datasette (SQLite)](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/)
 
 ### Training Data
 
