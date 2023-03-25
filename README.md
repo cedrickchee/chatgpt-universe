@@ -578,6 +578,7 @@ Web applications.
 - [GPTDuck](https://www.gptduck.com/) – Ask questions about any GitHub repo.
 - [LLM Garden](https://github.com/ianb/llm-garden) - A number of experiments using GPT-3, delivered in a web app.
 - [Epic Music Quiz](https://epicmusicquiz.com) - A free webapp for creating your own custom Music Video Quiz using youtube videos that can be played solo or multiplayer with friends. Optional AI generation of quiz questions.
+- [Gerev](https://github.com/GerevAI/gerev) - AI-powered search engine for your organization.
 
 Desktop applications.
 
