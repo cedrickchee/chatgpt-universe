@@ -321,7 +321,7 @@ Database and data store designed for machine learning models and NLP.
 - [Milvus](https://github.com/milvus-io/milvus) - An open-source vector database built to power embedding similarity search and AI applications.
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine and database.  It makes it useful for all sorts of neural-network or semantic-based matching, faceted search, and other applications. Embeddings or neural network encoders can be turned into full-fledged applications.
 - [Weaviate](https://github.com/weaviate/weaviate) - an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
-- [pgvector](https://github.com/pgvector/pgvector) - An open-source vector similarity search PostgreSQL extension.
+- [pgvector](https://github.com/pgvector/pgvector) - An open-source vector similarity search PostgreSQL extension. [Example: [gpt3.5-turbo-pgvector](https://github.com/gannonh/gpt3.5-turbo-pgvector)]
 
 ### Blog Posts and Articles
 
