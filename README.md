@@ -281,6 +281,9 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 
 ## Development
 
+AI-native applications development. ChatGPT integration.
+"App Store" layer for language models (including HuggingFace "App Store").
+
 ### Unofficial API and SDK.
 
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) (Python) - Lightweight, TLS-Based API on your CLI without requiring a browser or access token.
@@ -298,6 +301,11 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
 - [Semantic Kernel (SK)](https://github.com/microsoft/semantic-kernel) by Microsoft - Integrate cutting-edge LLM technology quickly and easily into your apps. SK supports prompt templating, function chaining, vectorized memory, and intelligent planning capabilities out of the box.
+
+### ChatGPT Plugins
+
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT-4 & LangChain chatbot for large PDF docs.
 
 ### Blog Posts and Articles
 
@@ -495,15 +503,6 @@ Use ChatGPT anywhere.
 - [Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT.
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot) - A GitHub App. Type `/chatgpt` to chat with ChatGPTBot.
 - [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate your own Discord bot using chatGPT.
-
-## AI-native Applications
-
-ChatGPT integration, applications development, and "App Store" layer for language models (including HuggingFace "App Store").
-
-### ChatGPT Plugins
-
-- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT-4 & LangChain chatbot for large PDF docs.
 
 ## Tools
 
