@@ -293,6 +293,7 @@ More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-cou
 - [safer-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to ChatGPT.
 - [Dust](https://github.com/dust-tt/dust) - Design and deploy large language model (LLM) apps. Generative models app specification and execution engine. Prompt engineering, re-imagined with one goal, help accelerate LLMs deployment.
 - [LangChain](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability. [[Good tutorials on LangChain Agents - Joining Tools and Chains with Decisions by Sam Witteveen (video)](https://www.youtube.com/watch?v=ziu87EXZVUE)]
+- [LlamaIndex (GPT Index)](https://github.com/jerryjliu/gpt_index) contains a toolkit of index data structures designed to easily connect LLM's with your external data. [[Docs](https://gpt-index.readthedocs.io/en/latest/guides/primer.html)]
 - [Evals](https://github.com/openai/evals) is a framework for evaluating OpenAI models performance and an open-source registry of benchmarks. It allows anyone to report shortcomings in OpenAI models to help guide further improvements.
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
@@ -511,7 +512,6 @@ Use ChatGPT anywhere.
 
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) - Run ChatGPT through Raycast extension.
 - [Google Docs](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
-- [LlamaIndex (GPT Index)](https://gpt-index.readthedocs.io/en/latest/guides/primer.html) contains a toolkit of index data structures designed to easily connect LLM's with your external data. [Code](https://github.com/jerryjliu/gpt_index)
 
 ## Applications
 
