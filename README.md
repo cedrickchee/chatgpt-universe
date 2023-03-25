@@ -496,7 +496,11 @@ Use ChatGPT anywhere.
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot) - A GitHub App. Type `/chatgpt` to chat with ChatGPTBot.
 - [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate your own Discord bot using chatGPT.
 
-## ChatGPT Plugins
+## AI-native Applications
+
+ChatGPT integration, applications development, and "App Store" layer for language models (including HuggingFace "App Store").
+
+### ChatGPT Plugins
 
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT-4 & LangChain chatbot for large PDF docs.
