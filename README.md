@@ -495,7 +495,9 @@ Use ChatGPT anywhere.
 - [ChatGPT ProBot](https://github.com/oceanlvr/ChatGPTBot) - A GitHub App. Type `/chatgpt` to chat with ChatGPTBot.
 - [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate your own Discord bot using chatGPT.
 
-## Command-Line Interface (CLI) Tools
+## Tools
+
+### Command-Line Interface (CLI)
 
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Voice-based chatGPT.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - A CLI productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
@@ -512,6 +514,7 @@ Use ChatGPT anywhere.
 
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast) - Run ChatGPT through Raycast extension.
 - [Google Docs](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
+- [Autodoc](https://github.com/context-labs/autodoc) - Toolkit for auto-generating codebase documentation using LLMs.
 
 ## Applications
 
