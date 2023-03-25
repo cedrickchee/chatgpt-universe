@@ -192,6 +192,20 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Google’s Bard lags behind GPT-4 and Claude in head-to-head comparison](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
 - [NVIDIA Brings Generative AI to World's Enterprises With Cloud Services for Creating Large Language and Visual Models](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models) - NVIDIA AI Foundations is NVIDIA going beyond a pure hardware provider and into software supporting Generative AI with their offerings for every workload, from foundation model as a service (coming to enterprise, customized for your proprietary data) to multimodal from day 1.
 - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - GitHub Copilot is evolving to bring chat and voice interfaces, support pull requests, answer questions on docs, and adopt OpenAI’s GPT-4 for a more personalized developer experience.
+- [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need) by Steve Yegge, Sourcegraph.
+    > There is something **legendary and historic** happening in software engineering, right now as we speak, and yet most of you don’t realize at all how big it is.
+    >
+    > LLMs aren't just the biggest change since social, mobile, or cloud–they're the biggest thing since the WWW.
+    >
+    > I mean, this stuff is _unbelievably_ powerful. And yet I am persistently met with a mixture of disbelief and pearl-clutching.
+    >
+    > ... five times as productive. 😲
+    >
+    > A Brief Mini-History of LLMs
+    >
+    > The punchline, and it’s honestly one of the hardest things to explain, so I’m going the faith-based route today, is that **all the winners in the AI space will have data moats**. ... Why? **Because the data moat is how you populate the context window ("cheat sheet")**.
+    >
+    > LLMs aren’t some dumb fad, like crypto. Yes, crypto was a dumb fad. This is not that.
 
 </details>
 
