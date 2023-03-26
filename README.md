@@ -271,7 +271,6 @@ Tools, libraries, frameworks, and learning resources.
 - [ChatGPT: Jack of all trades, master of none](https://arxiv.org/abs/2302.10724) by J.Kocoń et al., 2023 - The existing qualitative studies are tested on a very limited scale. Their work examined ChatGPT's capabilities on 25 diverse analytical NLP tasks. They **automated ChatGPT's querying process and analyzed more than 38k responses**. Interesting experimental setup: "without an official API, they modified and used an un-official API called [PyGPT](https://github.com/PawanOsman/PyGPT). During the research, they exploited up to 20 accounts to gather data regarding 25 datasets."
 - [ChatIE: Zero-Shot Information Extraction via Chatting with ChatGPT](https://arxiv.org/abs/2302.10205) by Beijing Jiaotong U et al., 2023
 - [On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095) by Microsoft Research et al., 2023.
-- [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173) by Kai Greshake et al., 2023 - Indirect prompt injection turn Bing Chat into a data pirate. By modifying a website that Bing Chat reads alongside a user, the chatbot is able to have its goals modified by that website, unbeknownst to the user. [[demo](https://greshake.github.io/)]
 - [ChatGPT: A Meta-Analysis after 2.5 Months](https://arxiv.org/abs/2302.13795) by NLLG, 2023 - A comprehensive investigation and discussion on public and academic views over ChatGPT based on 300K+ Tweets and 150+ papers.
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents) by Rajani et al., Hugging Face Blog, 2023.
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) by Microsoft Research Asia, 2023 - The group build a system integrating different visual models to allow the user to interact with ChatGPT by not only text but also images. [[demo (GIF)](https://github.com/microsoft/visual-chatgpt)]
@@ -677,6 +676,10 @@ John Carmack answering questions about Computer Science (Software Engineering) c
 - [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) by OpenAI. [[try the classifier](https://platform.openai.com/ai-text-classifier)]
     - Results: correctly flags AI-generated text 26% of the time, incorrectly flags human-generated text 9% of the time.
 - [Not by AI](https://notbyai.fyi/) - Your AI-free content deserves a dadge.
+
+### Security
+
+- [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models (paper)](https://arxiv.org/abs/2302.12173) by Kai Greshake et al., 2023 - Indirect prompt injection turn Bing Chat into a data pirate. By modifying a website that Bing Chat reads alongside a user, the chatbot is able to have its goals modified by that website, unbeknownst to the user. [[demo](https://greshake.github.io/), code: [greshake/llm-security](https://github.com/greshake/llm-security)]
 
 ## LMOps
 
