@@ -820,6 +820,12 @@ Mostly found in GitHub Gist:
 
 Lightly based on [publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706) Tweet.
 
+#### ChatGPT Plugins
+
+Competitors:
+- [ACT-1: Transformer for Actions](https://www.adept.ai/blog/act-1) by Adept.ai, 2022 - Sort of like a "self-driving car" for your everyday digital life.
+    - Some blog posts about them: [How Adept Is Building the Future of AI with Action Transformers](https://thealgorithmicbridge.substack.com/p/act-1-how-adept-is-building-the-future)
+
 <!-- For future reference but maybe not. -->
 
 [^1]: https://github.com/humanloop/awesome-chatgpt
