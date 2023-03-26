@@ -715,6 +715,17 @@ You say investment into generative AI companies is way too exuberant right now? 
 
 The current climate in AI is making some uncomfortable. Everyone is expecting as a sure thing "civilization-altering" impact (& 100x returns on investment) in the next 2-3 years. [^6]
 
+### The foundation for the next era of computing
+
+What's next in computing after Moore's law? You can think about this in many ways. But, here is an analogy:
+
+- Apple/Google :arrow_right: OpenAI
+- iPhone/Samsung :arrow_right: GPT-4
+- iOS/Android :arrow_right: ChatGPT
+- App Store/Play Store :arrow_right: ChatGPT Plugins
+
+Some experts say that ChatGPT is the AI's iPhone moment. [^7]
+
 ---
 
 ## Demos
@@ -815,6 +826,7 @@ Lightly based on [publicly announced ChatGPT variants and competitors](https://t
 [^3]: https://github.com/saharmor/awesome-chatgpt
 [^5]: In a [Reddit thread "The problem with prompt engineering"](https://r.nf/r/GPT3/comments/m177n2/the_problem_with_prompt_engineering/gqdr6de/?context=3) where Gwern (author) claims to be the origin of the term [prompt programing/prompt engineering](https://gwern.net/gpt-3#prompts-as-programming). His argument is reasonable and well written.
 [^6]: [François Chollet's Tweet](https://threadreaderapp.com/thread/1612142423425138688.html)
+[^7]: [An interview by stratechery with NVIDIA CEO about AI's iPhone moment](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/)
 
 ## License
 
