@@ -216,6 +216,7 @@ We need a benchmarks or some sort of independent and human evaluations of **real
 
 - [How good are AI “Answering Engines” really?](https://blog.kagi.com/kagi-ai-search#aitest) - A little bias towards Kagi.
 - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
+- [The best way of evaluating language models (Tweet)](https://twitter.com/sleepinyourhat/status/1638988283018465300) by Sam Bowman, Anthropic, 2023
 
 ## Prompting (Prompt Programming[^5])*
 
@@ -717,7 +718,7 @@ The current climate in AI is making some uncomfortable. Everyone is expecting as
 
 ### The foundation for the next era of computing
 
-What's next in computing after Moore's law? You can think about this in many ways. But, here is an analogy:
+What's next in computing after Moore's law? You can think about this in many ways. But, here is an analogy [^8]:
 
 - Apple/Google :arrow_right: OpenAI
 - iPhone/Samsung :arrow_right: GPT-4
@@ -827,6 +828,7 @@ Lightly based on [publicly announced ChatGPT variants and competitors](https://t
 [^5]: In a [Reddit thread "The problem with prompt engineering"](https://r.nf/r/GPT3/comments/m177n2/the_problem_with_prompt_engineering/gqdr6de/?context=3) where Gwern (author) claims to be the origin of the term [prompt programing/prompt engineering](https://gwern.net/gpt-3#prompts-as-programming). His argument is reasonable and well written.
 [^6]: [François Chollet's Tweet](https://threadreaderapp.com/thread/1612142423425138688.html)
 [^7]: [An interview by stratechery with NVIDIA CEO about AI's iPhone moment](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/)
+[^8]: [OpenAI just laid out the foundation for the next era of computing](https://twitter.com/mckaywrigley/status/1638972445108625408)
 
 ## License
 
