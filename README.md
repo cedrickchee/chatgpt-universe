@@ -321,8 +321,9 @@ AI-native applications development. ChatGPT integration. Next generation AI appl
 
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT-4 & LangChain chatbot for large PDF docs.
-
-More: [Awesome ChatGPT Plugins](https://github.com/GerevAI/awesome-chatgpt-plugins)
+- Awesome lists
+    - [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins)
+    - [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
 
 ### Tweets
 
