@@ -459,6 +459,11 @@ could only deliver the GPT-NeoX 20B model despite all the free compute, etc.-->
     - 23 Mar 2023: This project is starting to shape up nicely. Model is coming along.
         - Open-Assistant SFT-1 12B model can code. Looks interesting and interesting, if we [compare it against GPT-3.5](https://r.nf/r/OpenAssistant/comments/11yj96g/oasstsft1pythia12b_first_image_vs_gpt_35_second/).
         - We even have [an unofficial Reddit bot live on `/r/ask_open_assistant`](https://r.nf/r/OpenAssistant/comments/11vrs9u/openassistant_bot_is_live_on_reddit/). [Code](https://github.com/pixiegirl417/reddit-open-assistant-bot)
+        
+    - 15 Apr 2023: OpenAssistant is officially out! The release includes models, datasets, and a chat interface. [[Announcement video](https://www.youtube.com/watch?v=ddG2fM9i4Kk), [Try](https://open-assistant.io/chat), [models](https://huggingface.co/OpenAssistant)]
+        - [OpenAssistant Conversations - Democratizing Large Language Model Alignment (paper)](https://www.ykilcher.com/OA_Paper_2023_04_15.pdf), 2023.
+        - There are different models available including LLaMA-based and Pythia-based ones.
+        - [Conversational dataset (OASST1)](https://huggingface.co/datasets/OpenAssistant/oasst1) released under Apache 2.0. The dataset includes 161,443 messages, 66,497 conversation trees, 35 different languages, and was created by 13,500 volunteers. This dataset release is a big deal.
 
   - [Subreddit](https://r.nf/r/OpenAssistant)
 
