@@ -283,6 +283,7 @@ Tools, libraries, frameworks, and learning resources.
 - [This AI has a JAILBREAK?!](https://www.youtube.com/watch?v=0A8ljAkdFtg) by Yannic Kilcher - If you're into video, this one gave a good overview.
 - [ChatGPT vs Sparrow - Battle of Chatbots by "AI Coffee Break" with Letitia](https://www.youtube.com/watch?v=SWwQ3k-DWyo) - "Mom, I want a paper about ChatGPT. ChatGPT at home: [Sparrow from DeepMind](https://arxiv.org/abs/2209.14375) explained."
 - [ChatGPT - Explained](https://youtu.be/NpmnWgQgcsA) - A quick run through on the internal workings of ChatGPT and the fundamental concepts it lies on: Language Models, Transformer Neural Networks, GPT models and Reinforcement Learning.
+- [State of GPT](https://youtu.be/bZQun8Y4L2A) by Andrej Karpathy, OpenAI, 2023 - Watch if your're even mildly curious about working with LLMs for any tasks. The session will walk you through every step of a GPT Assistant training pipeline. And not discounting how to effectively apply these models.
 
 More: [YouTube videos from curated.tivul.com](https://curated.tivul.com/view-course?uid=sHA&course=the-complete-chatgpt-course-) (I didn't curate this, so quality is not guaranteed)
 
