@@ -257,6 +257,7 @@ Tools, libraries, frameworks, and learning resources.
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) by Lilian Weng - aka. in-context prompting, refers to methods for how to communicate with LLM to **steer its behavior** for desired outcomes **without updating the model weights**.
 - [Guidance](https://github.com/microsoft/guidance) enables you to control language models more effectively and efficiently than traditional prompting or chaining.
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A free short course by DeepLearning.AI, in collaboration with OpenAI.
+- [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 
 (_* Prompt engineering term was renamed to prompting. The term is overloaded and might be unnecessary._)
 
