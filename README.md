@@ -247,17 +247,24 @@ The newspaper is saying [AI whisperer ('Prompt engineers') is tech's hottest new
 
 ### Prompting Resources
 
-Tools, libraries, frameworks, and learning resources.
+The best prompt engineering guide for developers working with Large Language Models like GPT-4, ChatGPT, and open models like LLaMA would be a combination of multiple resources. Here are some learning resources, tools, libraries, and frameworks to help you learn and master prompt engineering:
 
-- [Prompt Engineering Guide by DAIR.AI](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering.
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) by DAIR.AI - Guides, papers, lecture, and resources for prompt engineering. This [section covers the latest prompt engineering techniques for GPT-4](https://www.promptingguide.ai/models/gpt-4), including tips, applications, limitations, and additional reading materials.
 - [Learn Prompting](https://github.com/trigaten/Learn_Prompting) - This website is a free, open-source guide on prompt engineering.
 - [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide (and framework) for learning to create ChatGPT3 Prompts.
 - [PromptArray](https://github.com/jeffbinder/promptarray) - A prompting language for neural text generators.
 - [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) is a tool for prompt engineers - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. Build prompts through trial and exploration.
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) by Lilian Weng - aka. in-context prompting, refers to methods for how to communicate with LLM to **steer its behavior** for desired outcomes **without updating the model weights**.
 - [Guidance](https://github.com/microsoft/guidance) enables you to control language models more effectively and efficiently than traditional prompting or chaining.
-- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A free short course by DeepLearning.AI, in collaboration with OpenAI.
-- [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A free short course by DeepLearning.AI, in collaboration with OpenAI. This course is beginner-friendly, requires only a basic understanding of Python, and is suitable for advanced Machine Learning engineers wanting to approach the cutting-edge of prompt engineering and use LLMs.
+- [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) - It provides a wealth of information on prompt engineering, including tips and tricks for working with LLMs like GPT-4, context window management, and details about various LLMs.
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT (paper)](https://arxiv.org/abs/2302.11382) by Vanderbilt University, 2023 - Prompt patterns are a knowledge transfer method analogous to software patterns since they provide reusable solutions to common problems faced in a particular context. It:
+    - provides a framework for documenting patterns for structuring prompts to solve a range of problems so that they can be adapted to different domains
+    - presents a catalog of patterns that have been applied successfully
+    - explains how prompts can be built from multiple patterns to improve the outputs of LLM conversations
+- [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering) by Azure OpenAI Service - There are several advanced techniques in prompt design and prompt engineering that can help increase the accuracy and grounding of LLM-generated responses. These techniques can be generalized across different model types, but some models expect specific prompt structures.
+
+By using these resources, you can gain a solid understanding of prompt engineering and develop the skills necessary to work effectively with LLMs.
 
 (_* Prompt engineering term was renamed to prompting. The term is overloaded and might be unnecessary._)
 
