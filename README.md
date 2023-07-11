@@ -208,6 +208,7 @@ They build a chatbot that could use context from enterprise data to answer inter
     > The punchline, and it’s honestly one of the hardest things to explain, so I’m going the faith-based route today, is that **all the winners in the AI space will have data moats**. ... Why? **Because the data moat is how you populate the context window ("cheat sheet")**.
     >
     > LLMs aren’t some dumb fad, like crypto. Yes, crypto was a dumb fad. This is not that.
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://archive.is/5R7XJ) - Leaked internal Google Document claims open source AI will outcompete Google and OpenAI.
 
 </details>
 
