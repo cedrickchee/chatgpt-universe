@@ -330,6 +330,7 @@ AI-native applications development. ChatGPT integration. Next generation AI appl
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT frontend clone for running locally in your browser.
 - [Next.js ChatGPT](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with chat streaming, code highlighting, code execution, development presets, and more.
 - [Semantic Kernel (SK)](https://github.com/microsoft/semantic-kernel) by Microsoft - Integrate cutting-edge LLM technology quickly and easily into your apps. SK supports prompt templating, function chaining, vectorized memory, and intelligent planning capabilities out of the box.
+- [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity. The reason for simpleaichat, see [the problem with LangChain](https://twitter.com/AravSrinivas/status/1677884199183994881).
 
 ### ChatGPT Plugins
 
