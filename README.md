@@ -335,6 +335,7 @@ AI-native applications development. ChatGPT integration. Next generation AI appl
 - [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity. The reason for simpleaichat, see [the problem with LangChain](https://twitter.com/AravSrinivas/status/1677884199183994881).
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production.
 Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [GGML](https://ggml.ai/) - AI at the edge. It is a tensor library for machine learning to enable large models and high performance on commodity hardware. It is used by llama.cpp and whisper.cpp.
 
 ### ChatGPT Plugins
 
