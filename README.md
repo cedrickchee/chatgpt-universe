@@ -655,6 +655,8 @@ AI alignment and AI interpretability.
 - [OK, it's time to freak out about AI](https://nonzero.substack.com/p/ok-its-time-to-freak-out-about-ai)
 - [Post-GPT Computing](https://grady.io/post-gpt-computing/)
     > I couldn’t keep working. I had to leave the office and go for a walk. Is software engineering basically a solved problem now? Did OpenAI just make the last application? This all sounds hyperbolic and melodramatic when I write it out, but I’m not the only one who felt something like this. Twitter showed me I wasn't alone: "Existential crisis. Did OpenAI just finish software? What's there left to do but clean-up and sweep?"
+- [Is Avoiding Extinction from AI Really an Urgent Priority?](https://www.aisnakeoil.com/p/is-avoiding-extinction-from-ai-really) by Seth Lazar, Jeremy Howard, and Arvind Narayanan - The history of technology suggests that the greatest risks come not from the tech, but from the people who control it.
+- [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html) by Jeremy Howard, fast.ai - Model licensing & surveillance will likely be counterproductive by concentrating power in unsustainable ways.
 
 ### Tweets
 
