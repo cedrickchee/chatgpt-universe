@@ -29,6 +29,7 @@ own modifications:
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) - Initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services. (Chatbots are having their App Store moment)
 - [Function calling and other API updates](https://openai.com/blog/function-calling-and-other-api-updates) - They’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.
 - [GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
+- Documentation (Guide): [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 ## ChatGPT Community / Discussion
 
