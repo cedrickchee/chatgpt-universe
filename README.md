@@ -209,6 +209,7 @@ They build a chatbot that could use context from enterprise data to answer inter
     >
     > LLMs aren’t some dumb fad, like crypto. Yes, crypto was a dumb fad. This is not that.
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://archive.is/5R7XJ) - Leaked internal Google Document claims open source AI will outcompete Google and OpenAI.
+- [The bigger-is-better approach to AI is running out of road](https://archive.is/XwWTi)
 
 </details>
 
