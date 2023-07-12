@@ -217,6 +217,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [It is starting to get strange](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange) - Let's talk about ChatGPT with Code Interpreter & Microsoft Copilot.
 - [Donald Knuth plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt) - Knuth is a computer scientist. Known as the "father" of the analysis of algorithms.
 - [Google I/O 2023 and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
+- [Uncensored Models](https://erichartford.com/uncensored-models) - Uncensoring WizardLM. Since there was work already done to uncensor Vicuna, I was able to rewrite their script so that it will work on the WizardLM dataset.
 
 </details>
 
