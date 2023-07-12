@@ -619,6 +619,12 @@ Desktop applications.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) for Mac, Windows and Linux - Build using Rust and Tauri.
 
+## Self-hosted and Open-Source Models
+
+Open-source models are faster, more customizable, more private, and pound-for-pound more capable. [^8]
+
+Self-hosted LLMs are the way forward for enterprise.
+
 ## Infrastructure
 
 - [Cost of ChatGPT](https://twitter.com/tomgoldsteincs/status/1600196981955100694) - Average cost is probably single-digits cents per chat.
@@ -873,6 +879,7 @@ Competitors:
 [^6]: [François Chollet's Tweet](https://threadreaderapp.com/thread/1612142423425138688.html)
 [^7]: [An interview by stratechery with NVIDIA CEO about AI's iPhone moment](https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/)
 [^8]: [OpenAI just laid out the foundation for the next era of computing](https://twitter.com/mckaywrigley/status/1638972445108625408)
+[^9]: [Google "We Have No Moat, And Neither Does OpenAI"](https://archive.is/5R7XJ#selection-717.2-725.122)
 
 ## License
 
