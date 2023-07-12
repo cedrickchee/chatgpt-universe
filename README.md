@@ -74,6 +74,7 @@ They build a chatbot that could use context from enterprise data to answer inter
     - [🦙 Simple LLaMA Finetuner](https://github.com/lxe/simple-llama-finetuner) - A beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, **you can even run this on a regular Colab Tesla T4** instance.
 - [Trying out Flan-UL2 20B](https://github.com/cedrickchee/data-science-notebooks/blob/master/notebooks/deep_learning/language_models/transformer/Flan-UL2-inference-demo.ipynb) - Code walkthrough by Sam Witteveen. This shows how you can get it running on 1x A100 40GB GPU with the HuggingFace library and using 8-bit inference. Samples of prompting: CoT, zeroshot (logical reasoning, story writing, common sense reasoning, speech writing). Lastly, testing large (2048) token input. Bonus: don't have A100? You can use the HuggingFace Inference API for UL2.
 - [metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application.
+- [MiniGPT-4](https://minigpt-4.github.io/) - A research trying to replicate GPT-4 multi-modal abilities.
 
 ## Blog Posts and Articles
 
