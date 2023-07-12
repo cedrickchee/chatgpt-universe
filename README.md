@@ -275,7 +275,8 @@ The best prompt engineering guide for developers working with Large Language Mod
     - presents a catalog of patterns that have been applied successfully
     - explains how prompts can be built from multiple patterns to improve the outputs of LLM conversations
 - [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering) by Azure OpenAI Service - There are several advanced techniques in prompt design and prompt engineering that can help increase the accuracy and grounding of LLM-generated responses. These techniques can be generalized across different model types, but some models expect specific prompt structures.
-- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
+- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html) (2023)
+- [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting) (2023)
 
 By using these resources, you can gain a solid understanding of prompt engineering and develop the skills necessary to work effectively with LLMs.
 
