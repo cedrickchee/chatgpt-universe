@@ -374,6 +374,7 @@ Database and data store designed for machine learning models and NLP.
 - [Building a Chatbot using a Local Knowledge Base, ChatGPT and Pinecone](https://medium.com/@venkat.ramrao/building-a-chatbot-using-a-local-knowledge-base-chatgpt-and-pinecone-d107745a472a)
 - [I built a ChatGPT plugin to answer questions about data hosted in Datasette (SQLite)](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/)
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) - "LLMs are slow ...". In my own experience, this make LLMs not practical for some large scale deployment, for example web scraper agent build with gpt-4 (gpt-3.5-turbo model has better latency but still ~10x slower than hand-coded solution). There are techniques you can use to optimize model inference latency. Writing concise instruction in prompt is effective but hard. Reducing tokens in prompts is easy -- pre-process text (clean, reformat, minify, etc.)
+- [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
 
 ### Training Data
 
