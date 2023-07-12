@@ -214,6 +214,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [The bigger-is-better approach to AI is running out of road](https://archive.is/XwWTi)
 - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/) by Simon Willison.
 - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
+- [It is starting to get strange](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange) - Let's talk about ChatGPT with Code Interpreter & Microsoft Copilot.
 
 </details>
 
