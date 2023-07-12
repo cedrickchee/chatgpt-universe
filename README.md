@@ -647,6 +647,7 @@ Self-hosted LLMs are the way forward for enterprise.
 - [StableLM](https://github.com/stability-AI/stableLM/) - Stability AI Language Models. Developers can **freely inspect, use, and adapt StableLM base models for commercial or research purposes**, subject to the terms of the CC BY-SA-4.0 license.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI's LLaMA 7B trained on the RedPajama dataset.
 - [mlc-ai/MLC-LLM](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy LLaMA, GPT (AI models) natively on consumer-grade GPUs and phones.
+- [How to run LLaMA 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 
 ## Infrastructure
 
