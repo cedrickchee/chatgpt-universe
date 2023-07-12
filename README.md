@@ -745,6 +745,7 @@ John Carmack answering questions about Computer Science (Software Engineering) c
 ### Security
 
 - [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models (paper)](https://arxiv.org/abs/2302.12173) by Kai Greshake et al., 2023 - Indirect prompt injection turn Bing Chat into a data pirate. By modifying a website that Bing Chat reads alongside a user, the chatbot is able to have its goals modified by that website, unbeknownst to the user. [[demo](https://greshake.github.io/), code: [greshake/llm-security](https://github.com/greshake/llm-security)]
+- [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/) by Simon Willison (2023).
 
 ## LMOps
 
