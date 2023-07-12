@@ -219,6 +219,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Donald Knuth plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt) - Knuth is a computer scientist. Known as the "father" of the analysis of algorithms.
 - [Google I/O 2023 and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
 - [Uncensored Models](https://erichartford.com/uncensored-models) - Uncensoring WizardLM. Since there was work already done to uncensor Vicuna, I was able to rewrite their script so that it will work on the WizardLM dataset.
+- [GPT-4 model architecture (Tweets)](https://archive.ph/2RQ8X) - Derived from the original source (blog post): [GPT-4 architecture, infrastructure, Training Dataset, Costs, Vision, MoE](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)
 
 </details>
 
