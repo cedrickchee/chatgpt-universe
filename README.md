@@ -350,6 +350,16 @@ Fine-tune, serve, deploy, and monitor any LLMs with ease.
     - [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins)
     - [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
 
+### Autonomous Agent Systems with Language Model
+
+- [LLM Powered Autonomous Agents (blog post)](https://lilianweng.github.io/posts/2023-06-23-agent/) by Lilian Weng, 2023.
+
+  > The potentiality of LLM extends beyond generating well-written copies, stories, essays and programs; it can be framed as a powerful general problem solver.
+  > 
+  > In a LLM-powered autonomous agent system, LLM functions as the agent's brain, complemented by several key components: planning, memory, and tools.
+  >
+  > Challenges: long-term planning and task decomposition, reliability of natural language interface.
+
 ### Tweets
 
 - [Plugins for processing a video clip, no ffmpeg wizardry required. Actual use-case from today's launch.](https://twitter.com/gdb/status/1638971232443076609) by Greg Brockman, OpenAI - Interesting ChatGPT's ability to run and execute Python code. Astonishing that it can run FFMPEG!
