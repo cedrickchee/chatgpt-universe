@@ -645,6 +645,7 @@ Self-hosted LLMs are the way forward for enterprise.
 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an Internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions.
 - [StableLM](https://github.com/stability-AI/stableLM/) - Stability AI Language Models. Developers can **freely inspect, use, and adapt StableLM base models for commercial or research purposes**, subject to the terms of the CC BY-SA-4.0 license.
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI's LLaMA 7B trained on the RedPajama dataset.
 - [mlc-ai/MLC-LLM](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy LLaMA, GPT (AI models) natively on consumer-grade GPUs and phones.
 
 ## Infrastructure
