@@ -359,6 +359,7 @@ Fine-tune, serve, deploy, and monitor any LLMs with ease.
   > In a LLM-powered autonomous agent system, LLM functions as the agent's brain, complemented by several key components: planning, memory, and tools.
   >
   > Challenges: long-term planning and task decomposition, reliability of natural language interface.
+- [Smol Developer](https://github.com/smol-ai/developer) - Embed a developer agent in your own app.
 
 ### Tweets
 
