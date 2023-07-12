@@ -215,6 +215,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/) by Simon Willison.
 - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
 - [It is starting to get strange](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange) - Let's talk about ChatGPT with Code Interpreter & Microsoft Copilot.
+- [Donald Knuth plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt) - Knuth is a computer scientist. Known as the "father" of the analysis of algorithms.
 
 </details>
 
