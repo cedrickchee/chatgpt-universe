@@ -619,11 +619,13 @@ Desktop applications.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) for Mac, Windows and Linux - Build using Rust and Tauri.
 
-## Self-hosted and Open-Source Models
+## Self-hosted Open-Source Models
 
-Open-source models are faster, more customizable, more private, and pound-for-pound more capable. [^8]
+Open-source models are faster, more customizable, more private, and pound-for-pound more capable. [^9]
 
 Self-hosted LLMs are the way forward for enterprise.
+
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an Internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions.
 
 ## Infrastructure
 
