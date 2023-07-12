@@ -642,6 +642,7 @@ Open-source models are faster, more customizable, more private, and pound-for-po
 Self-hosted LLMs are the way forward for enterprise.
 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an Internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions.
+- [StableLM](https://github.com/stability-AI/stableLM/) - Stability AI Language Models. Developers can **freely inspect, use, and adapt StableLM base models for commercial or research purposes**, subject to the terms of the CC BY-SA-4.0 license.
 
 ## Infrastructure
 
