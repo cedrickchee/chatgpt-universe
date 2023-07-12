@@ -282,6 +282,12 @@ By using these resources, you can gain a solid understanding of prompt engineeri
 
 (_* Prompt engineering term was renamed to prompting. The term is overloaded and might be unnecessary._)
 
+### Prompting Tools
+
+- [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best. (A side note: the method LLMs evaluating LLMs is a bad idea. It ranks prompts using GPT-4 and trust without oversight. Don't treat LLM as a hammer; apply "auto-*" to everyhing.)
+
 ### Examples
 
 - [Reddit: Jailbreaking ChatGPT with a prompt called DAN (Do Anything Now)](https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/)
