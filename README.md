@@ -869,6 +869,7 @@ Mostly found in GitHub Gist:
 ### ChatGPT Alternatives
 
 - [Anthropic's Claude](https://www.anthropic.com/earlyaccess) - Overall, Claude is a serious competitor to ChatGPT, with improvements in many areas. [[review by Riley Goodside et al.](https://scale.com/blog/chatgpt-vs-claude), [my short analysis](https://twitter.com/cedric_chee/status/1633764765700091904)]
+  - [Claude 2](https://www.anthropic.com/index/claude-2) - A new phase of production-grade LLMs: longer context and deeper integration. Early test results inspired confidence — much closer to GPT-4 in terms of quality. The longer context does feel like it unlocks some unique capabilities. I gave it a task of summarizing two requirement spec PDF. It's quite good in cross cross referencing things in different document. It does exhibits some complex analysis strengths. I think this level of generation quality on this task is novel, unlike any of the previous LLMs.
 - [Perplexity](https://www.perplexity.ai/) - A new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
 - Bart from Google
 - Sparrow from DeepMind
