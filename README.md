@@ -401,6 +401,7 @@ Database and data store designed for machine learning models and NLP.
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) - "LLMs are slow ...". In my own experience, this make LLMs not practical for some large scale deployment, for example web scraper agent build with gpt-4 (gpt-3.5-turbo model has better latency but still ~10x slower than hand-coded solution). There are techniques you can use to optimize model inference latency. Writing concise instruction in prompt is effective but hard. Reducing tokens in prompts is easy -- pre-process text (clean, reformat, minify, etc.)
 - [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM Developer should know.
+- [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/) (2023) <!-- I use it for inspiration, to give me ideas for how to do prompting with language models during prototyping. Beyond that phase, I implement everything myself. It's easier — no frills, low frictions. Good luck debugging LangChain. -->
 
 ### Training Data
 
