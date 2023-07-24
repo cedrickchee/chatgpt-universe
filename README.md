@@ -75,6 +75,12 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Trying out Flan-UL2 20B](https://github.com/cedrickchee/data-science-notebooks/blob/master/notebooks/deep_learning/language_models/transformer/Flan-UL2-inference-demo.ipynb) - Code walkthrough by Sam Witteveen. This shows how you can get it running on 1x A100 40GB GPU with the HuggingFace library and using 8-bit inference. Samples of prompting: CoT, zeroshot (logical reasoning, story writing, common sense reasoning, speech writing). Lastly, testing large (2048) token input. Bonus: don't have A100? You can use the HuggingFace Inference API for UL2.
 - [metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application.
 - [MiniGPT-4](https://minigpt-4.github.io/) - A research trying to replicate GPT-4 multi-modal abilities.
+- [Llama2.c](https://github.com/karpathy/llama2.c) by Karpathy - Inference Llama 2 in one file of pure C. 👍
+  > this is just a weekend project: I took nanoGPT, tuned it to implement the Llama-2 architecture instead of GPT-2, and the meat of it was writing the C inference engine in `run.c`.
+  > 
+  > Hat tip to llama.cpp for inspiring this project. I wanted something **super minimal** so I chose to hard-code the llama-2 architecture, stick to fp32, and just roll one inference file of pure C with no dependencies.
+
+  Less is more.
 
 ## Blog Posts and Articles
 
