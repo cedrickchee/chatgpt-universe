@@ -656,7 +656,7 @@ Desktop applications.
 
 Open-source models are faster, more customizable, more private, and pound-for-pound more capable. [^9]
 
-Self-hosted LLMs are the way forward for enterprise.
+Self-hosted LLMs are the way forward for enterprise. Run Large Language Models locally on your devices.
 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an Internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions.
 - [StableLM](https://github.com/stability-AI/stableLM/) - Stability AI Language Models. Developers can **freely inspect, use, and adapt StableLM base models for commercial or research purposes**, subject to the terms of the CC BY-SA-4.0 license.
@@ -665,6 +665,7 @@ Self-hosted LLMs are the way forward for enterprise.
 - [How to run LLaMA 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at HuggingFace to power LLMs api-inference widgets. Optimized to run Llama 2 model. If you have a decent GPU and Linux computer, you can run Llama 2 locally without much fuss.
 - [jmorganca/Ollama](https://github.com/jmorganca/ollama) - A macOS app for Apple Silicon that enables you to get up and run LLMs, locally. Windows & Linux support coming soon.
+- [A guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally) by Replicate (2023) - They cover three open-source tools you can use to run Llama 2 on your own devices: Llama.cpp (Mac/Windows/Linux), Ollama (Mac) & MLC LLM (iOS/Android).
 
 ## Infrastructure
 
