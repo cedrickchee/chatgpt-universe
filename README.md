@@ -663,6 +663,7 @@ Self-hosted LLMs are the way forward for enterprise.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI's LLaMA 7B trained on the RedPajama dataset.
 - [mlc-ai/MLC-LLM](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy LLaMA, GPT (AI models) natively on consumer-grade GPUs and phones.
 - [How to run LLaMA 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at HuggingFace to power LLMs api-inference widgets. Optimized to run Llama 2 model. If you have a decent GPU and Linux computer, you can run Llama 2 locally without much fuss.
 
 ## Infrastructure
 
