@@ -652,7 +652,7 @@ Desktop applications.
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): MacOS menubar app.
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) for Mac, Windows and Linux - Build using Rust and Tauri.
 
-## Self-hosted Open-Source Models
+## Self-hosted Open-Source Models and Tools
 
 Open-source models are faster, more customizable, more private, and pound-for-pound more capable. [^9]
 
@@ -666,6 +666,7 @@ Self-hosted LLMs are the way forward for enterprise. Run Large Language Models l
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at HuggingFace to power LLMs api-inference widgets. Optimized to run Llama 2 model. If you have a decent GPU and Linux computer, you can run Llama 2 locally without much fuss.
 - [jmorganca/Ollama](https://github.com/jmorganca/ollama) - A macOS app for Apple Silicon that enables you to get up and run LLMs, locally. Windows & Linux support coming soon.
 - [A guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally) by Replicate (2023) - They cover three open-source tools you can use to run Llama 2 on your own devices: Llama.cpp (Mac/Windows/Linux), Ollama (Mac) & MLC LLM (iOS/Android).
+- [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. Can run a Llama2-70B with 16K context length, but it's still early days. This is saving gigabytes off the alternatives like llama.cpp.
 
 ## Infrastructure
 
