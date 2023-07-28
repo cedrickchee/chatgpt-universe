@@ -82,6 +82,17 @@ They build a chatbot that could use context from enterprise data to answer inter
 
   Less is more.
 
+  Speculation: My hunch is telling me that Karpathy is working towards releasing (and open sourcing?) OpenAI model as weights.
+  Hints: he left and went back to OpenAI, [his Tweet](https://twitter.com/karpathy/status/1683704060925591554)
+
+  > Worth noting that all of Llama2.c is quite generic to just Transformer language models in general. **If/when OpenAI was to release models as weights (which I can neither confirm nor deny!)** then most of the code here would be very relevant.
+
+  Lightly edited. Emphasis mine.
+
+  Other hints: his prior works including nanoGPT, Software 2.0, and recently [micro-LLMs](https://gist.github.com/cedrickchee/462e8661d9c231deb90513849778e8fc) with Llama2.c
+  
+  If you know, you know. 😆
+
 ## Blog Posts and Articles
 
 **2022**
