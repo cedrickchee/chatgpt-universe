@@ -86,6 +86,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 
   [My fork](https://github.com/cedrickchee/llama2.c) - performance benchmarks, optimizations, and work-in-progress Zig port.
   I was porting this project to Rust but these [forks](https://github.com/karpathy/llama2.c#notable-forks) beat me to it.
+  The earliest [Rust port](https://github.com/garrisonhess/llama2.c/blob/517a1a3e487f315200d6ccffe92b2fd00e2575aa/src/main.rs) I've seen is by @garrisonhess but no where found in the project's README.
 
   Speculation: My hunch is telling me that Karpathy is working towards releasing (and open sourcing?) OpenAI model as weights.
   Hints: he left and went back to OpenAI, [his Tweet](https://twitter.com/karpathy/status/1683704060925591554)
