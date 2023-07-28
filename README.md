@@ -81,6 +81,11 @@ They build a chatbot that could use context from enterprise data to answer inter
   > Hat tip to llama.cpp for inspiring this project. I wanted something **super minimal** so I chose to hard-code the llama-2 architecture, stick to fp32, and just roll one inference file of pure C with no dependencies.
 
   Less is more.
+ 
+  This [commit](https://github.com/karpathy/llama2.c/commit/c3e0d73bd294e1f5e4d17425fac09aaec536400d) make it possible to load and inference Meta's Llama 2 7B model now.
+
+  [My fork](https://github.com/cedrickchee/llama2.c) - performance benchmarks, optimizations, and work-in-progress Zig port.
+  I was porting this project to Rust but these [forks](https://github.com/karpathy/llama2.c#notable-forks) beat me to it.
 
   Speculation: My hunch is telling me that Karpathy is working towards releasing (and open sourcing?) OpenAI model as weights.
   Hints: he left and went back to OpenAI, [his Tweet](https://twitter.com/karpathy/status/1683704060925591554)
