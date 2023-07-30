@@ -689,6 +689,7 @@ Self-hosted LLMs are the way forward for enterprise. Run Large Language Models l
 - [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. Can run a Llama2-70B with 16K context length, but it's still early days. This is saving gigabytes off the alternatives like llama.cpp.
 - [nomic-ai/GPT4All](https://github.com/nomic-ai/gpt4all) - An ecosystem to train and deploy powerful and customized large language models that run locally on consumer grade CPUs. A GPT4All model is a 3GB - 8GB file that you can download and plug into the GPT4All. (tips: want to run Llama 2 easily? Download [GGML version of Llama 2 (from "TheBloke")](https://huggingface.co/TheBloke), copy to the models directory in the GPT4All software, launch GPT4All and that's it)
 - [LocalAI](https://simonwillison.net/2023/May/14/localai/) and [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) combo - Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other.
+- [Optimizing LLM latency](https://hamel.dev/notes/llm/03_inference.html) (2023) - An exploration of inference tools for open source LLMs focused on latency.
 
 **2023 trends**
 
