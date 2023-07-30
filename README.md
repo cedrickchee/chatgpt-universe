@@ -383,6 +383,7 @@ Fine-tune, serve, deploy, and monitor any LLMs with ease.
 
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) by OpenAI - IT provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT-4 & LangChain chatbot for large PDF docs.
+- [Everything you need to know to create a ChatGPT plugin](https://archive.is/y4ame) (2023) - A deep dive into ChatGPT plugins development for beginners and curious explorers. (It's worth reading even if you aren't a developer.)
 - Awesome lists
     - [GerevAI/awesome-chatgpt-plugins](https://github.com/GerevAI/awesome-chatgpt-plugins)
     - [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins)
