@@ -245,6 +245,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [GPT-4 model architecture (Tweets)](https://archive.ph/2RQ8X) - Derived from the original source (blog post): [GPT-4 architecture, infrastructure, Training Dataset, Costs, Vision, MoE](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)
 - [Llama 2: an incredible open LLM](https://www.interconnects.ai/p/llama-2-from-meta) - The best summary of the [Llama 2 paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/).
 - [Llama 2 - Every Resource You Need](https://www.philschmid.de/llama-2) by Philipp Schmid.
+- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) - It seemed like a good explainer on how LLMs work. I don't know how to appreciate the last section that goes into a bit of philosophy and theories about how human learn. (the last section lacks evidence-based assertion)
 
 </details>
 
