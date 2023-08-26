@@ -246,6 +246,7 @@ They build a chatbot that could use context from enterprise data to answer inter
 - [Llama 2: an incredible open LLM](https://www.interconnects.ai/p/llama-2-from-meta) - The best summary of the [Llama 2 paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/).
 - [Llama 2 - Every Resource You Need](https://www.philschmid.de/llama-2) by Philipp Schmid.
 - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) - It seemed like a good explainer on how LLMs work. I don't know how to appreciate the last section that goes into a bit of philosophy and theories about how human learn. (the last section lacks evidence-based assertion)
+- [Beating GPT-4 on HumanEval with a Fine-Tuned CodeLlama-34B (www.phind.com)](https://www.phind.com/blog/code-llama-beats-gpt4) - Good progress and no big surprise. I've realized that benchmarks like these for models are prone to be poor metrics for measuring how well the models perform in actual real-world work. That's been my experience with the open models.
 
 </details>
 
