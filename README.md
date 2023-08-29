@@ -30,6 +30,7 @@ own modifications:
 - [Function calling and other API updates](https://openai.com/blog/function-calling-and-other-api-updates) - They’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.
 - [GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
 - Documentation (Guide): [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) - Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.
 
 ## ChatGPT Community / Discussion
 
