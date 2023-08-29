@@ -30,6 +30,7 @@ own modifications:
 - [Function calling and other API updates](https://openai.com/blog/function-calling-and-other-api-updates) - They’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.
 - [GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
 - Documentation (Guide): [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) - Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.
 - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) - Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.
 
 ## ChatGPT Community / Discussion
