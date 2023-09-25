@@ -32,6 +32,7 @@ own modifications:
 - Documentation (Guide): [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) - Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.
 - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) - Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.
+- [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) - Multimodal GPT-3.5 and GPT-4 models is here. OpenAI is beginning to roll out new voice and image capabilities in ChatGPT to Plus and Enterprise users.
 
 ## ChatGPT Community / Discussion
 
