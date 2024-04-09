@@ -101,6 +101,7 @@ They build a chatbot that could use context from enterprise data to answer inter
   Other hints: his prior works including nanoGPT, Software 2.0, and recently [micro-LLMs](https://gist.github.com/cedrickchee/462e8661d9c231deb90513849778e8fc) with Llama2.c
   
   If you know, you know. 😆
+- [llm.c](https://github.com/karpathy/llm.c) by Karpathy - LLM training in simple, raw C/CUDA. (Plan: once this is in a bit more stable state, videos on building this in more detail and from scratch.) [[Tweet](https://twitter.com/karpathy/status/1777427947126936026)]
 
 ## Blog Posts and Articles
 
