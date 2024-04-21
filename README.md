@@ -754,6 +754,7 @@ AI alignment and AI interpretability.
 - [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html) by Jeremy Howard, fast.ai - Model licensing & surveillance will likely be counterproductive by concentrating power in unsustainable ways.
 - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
   > it gives me the courage to dream and attempt things beyond my current abilities.
+- [AI Index Report 2024](https://aiindex.stanford.edu/report/) by Institute for Human-Centered AI, Stanford University, 2024.
 
 ### Tweets
 
