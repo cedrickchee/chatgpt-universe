@@ -1,10 +1,10 @@
 # ChatGPT Universe
 
 This tiny place of the Web stores a growing collection of interesting things
-about [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and GPT-3 from OpenAI.
+about [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and GPT-3 (and beyond) from OpenAI.
 
-I want an all-in-one place to keep things about ChatGPT. So, I hand-curated this
-list with the help of others (acknowleged below).
+ChatGPT was launched on Nov 2022. I want an all-in-one place to keep things about GPT and ChatGPT. So, I hand-curated this
+list with the help of others (acknowleged below), since early Dec 2022.
 
 The collections are not limited to only the best resources, tools, examples,
 demos, hacks, apps, and usages of ChatGPT.
