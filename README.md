@@ -860,6 +860,29 @@ What's next in computing after Moore's law? You can think about this in many way
 
 Some experts say that ChatGPT is the AI's iPhone moment. [^7]
 
+### Research and Analysis
+
+- [OpenAI Is Doomed? - Et tu, Microsoft?](https://archive.is/cds7i) by SemiAnalysis, May 2024 - Meta, Google, Anthropic, DeepSeek, Inflection Phi Wizard, Distribution/Integration vs Capital/Compute?
+  > It’s clear that given enough compute, the largest tech companies can match OpenAI's GPT-4.
+  > GPT-4 class intelligence will be available to anyone who can rent an H100 server.
+  >
+  > Yesterday, China's DeepSeek V2 open-sourced a new model that is both cheaper to run than Meta's Llama 3 70B and better. Deepseek's model is markedly cheaper than any other competitive model.
+  > Even more interesting is the novel architecture DeepSeek has brought to market. They did not copy what Western firms did.
+  > ... at 1/5th the compute of Meta's Llama 3 70B. For those keeping track, DeepSeek V2 training required 1/20th the flops of GPT-4 while not being so far off in performance.
+  >  [Also the paper is probably the best one this year in terms of information and details shared.](https://github.com/deepseek-ai/DeepSeek-V2/blob/main/deepseek-v2-tech-report.pdf)
+  >
+  > Microsoft is attempting to move the majority of their inference volumes away from OpenAI’s models to their own models that they developed IP for directly. This includes the Copilot and Bing initiatives that are driving much of Microsoft’s AI story.
+  > The Microsoft Phi model team is well known for training small models with significant amounts of synthetic data from larger models. The latest Phi-3 model release has been seriously impressive.
+  > Another team at Microsoft, WizardLM, has created something even more amazing called "Evol-Instruct." ...
+  > Microsoft's first big effort at hitting GPT-4 class is currently happening with the MAI-1 ~500B parameter MOE model. It utilizes the Inflection pretraining team ...
+  >
+  > Is Distribution And Integration King?
+  > With DeepSeek and Llama 3 405B coming to the open source, there is very little reason for enterprises to not host their own model. **Zuckerberg’s strategy of using open-source models to slow down competitions commercial adoption and attract more talent** is working wonders. Fine tuning is no longer a monumental task given Databricks ...
+  > One of OpenAI’s advantages is that they have been ahead in collecting usage data, but that is changing soon enough. This is because both Meta and Google have more direct access to the consumer.
+  > To serve up 3B people – you clearly need to have a small and efficient model to bring the cost of inference down. Either Meta has made the financial math work or it is prepared to invest heavily to execute a land grab in the consumer AI space.
+  > 
+  > ... we don’t believe OpenAI is doomed, in fact this is all just window dressing practicing the bear argument in the leadup to the next generation model ...
+
 ---
 
 ## Demos
