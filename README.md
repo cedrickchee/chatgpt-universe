@@ -258,6 +258,15 @@ They build a chatbot that could use context from enterprise data to answer inter
 
 </details>
 
+**2024**
+
+<details>
+<summary>See more</summary>
+
+- [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) by Simon Willison.
+
+</details>
+
 ## Comparison on real world tasks, benchmarks
 
 We need a benchmarks or some sort of independent and human evaluations of **real world tasks**.
