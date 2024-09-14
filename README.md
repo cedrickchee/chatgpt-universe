@@ -34,6 +34,7 @@ own modifications:
 - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) - Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.
 - [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) - Multimodal GPT-3.5 and GPT-4 models is here. OpenAI is beginning to roll out new voice and image capabilities in ChatGPT to Plus and Enterprise users.
 - [Introducing GPT-4o and making more capabilities available for free in ChatGPT](https://openai.com/index/spring-update/) - GPT-4o (o for Omni) is HER (the movie) went from science fiction to reality. My rough thoughts: https://gist.github.com/cedrickchee/6bacffd076666eb16015cc137d0f5b38
+- [Introducing OpenAI o1](https://openai.com/o1/) - OpenAI developed a new series of AI models designed to spend more time thinking before they respond. o1 can reason through complex tasks and solve harder problems than previous models in science, coding, and math.
 
 ## ChatGPT Community / Discussion
 
