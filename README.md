@@ -727,6 +727,7 @@ Growing interest in local, private micro-LLMs and deploying them in laptops, pho
 
 ## Newsletters
 
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, with ranked coverage of models, agents, funding, policy, and research.
 - [Newsletter of notes focusing on text generation, mostly with GPT-3](https://github.com/sw-yx/ai-notes/blob/main/TEXT.md)
 - [Ben's Bites - the AI newsletter](https://www.bensbites.co/p/looking-back-llms) - Looking back on LLMs.
 
